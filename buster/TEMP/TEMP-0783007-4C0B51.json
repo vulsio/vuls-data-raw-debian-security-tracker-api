@@ -3,18 +3,6 @@
   "debian_bug": 783007,
   "packages": [
     {
-      "name": "libhtp",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:0.5.25-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1:0.5.30-1"
-        }
-      ]
-    },
-    {
       "name": "suricata",
       "status": "resolved",
       "urgency": "not yet assigned",
@@ -23,6 +11,18 @@
         {
           "name": "buster",
           "version": "1:4.1.2-2+deb10u1"
+        }
+      ]
+    },
+    {
+      "name": "libhtp",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1:0.5.25-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1:0.5.30-1"
         }
       ]
     }
