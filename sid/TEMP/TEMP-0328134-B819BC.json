@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0328134-B819BC",
+  "debian_bug": 328134,
+  "packages": [
+    {
+      "name": "snort",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.3.3-2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2.9.15.1-6"
+        }
+      ]
+    }
+  ]
+}

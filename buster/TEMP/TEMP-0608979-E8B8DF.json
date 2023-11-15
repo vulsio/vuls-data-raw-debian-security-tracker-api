@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0608979-E8B8DF",
+  "debian_bug": 608979,
+  "packages": [
+    {
+      "name": "toppler",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.1.4-2",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.1.6-3"
+        }
+      ]
+    }
+  ]
+}

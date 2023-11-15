@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0325080-CF0752",
+  "debian_bug": 325080,
+  "packages": [
+    {
+      "name": "gajim",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.8.2-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.8.3-1"
+        }
+      ]
+    }
+  ]
+}

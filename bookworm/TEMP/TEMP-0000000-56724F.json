@@ -1,0 +1,16 @@
+{
+  "id": "TEMP-0000000-56724F",
+  "packages": [
+    {
+      "name": "squid",
+      "status": "open",
+      "urgency": "low",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "5.7-2"
+        }
+      ]
+    }
+  ]
+}

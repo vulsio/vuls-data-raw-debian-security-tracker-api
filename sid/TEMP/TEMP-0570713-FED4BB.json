@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0570713-FED4BB",
+  "debian_bug": 570713,
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "4:0.5.1-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "7:6.1-2"
+        }
+      ]
+    }
+  ]
+}

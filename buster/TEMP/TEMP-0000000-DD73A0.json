@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-DD73A0",
+  "packages": [
+    {
+      "name": "php-illuminate-database",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "5.7.27-1+deb10u1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "5.7.27-1+deb10u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-1051808-528792",
+  "debian_bug": 1051808,
+  "packages": [
+    {
+      "name": "rust-users",
+      "status": "open",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "0.11.0-1"
+        }
+      ]
+    }
+  ]
+}

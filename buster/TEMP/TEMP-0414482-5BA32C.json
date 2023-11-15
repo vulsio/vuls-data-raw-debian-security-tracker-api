@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0414482-5BA32C",
+  "debian_bug": 414482,
+  "packages": [
+    {
+      "name": "dtc-xen",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.2.8-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.5.17-1.2"
+        }
+      ]
+    }
+  ]
+}

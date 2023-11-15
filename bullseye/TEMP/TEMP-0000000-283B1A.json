@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-283B1A",
+  "packages": [
+    {
+      "name": "quassel",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.10.0-2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1:0.13.1-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0274229-6E02C2",
+  "debian_bug": 274229,
+  "packages": [
+    {
+      "name": "base-passwd",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "3.5.30",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "3.6.2"
+        }
+      ]
+    }
+  ]
+}

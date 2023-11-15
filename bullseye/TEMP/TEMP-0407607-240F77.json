@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0407607-240F77",
+  "debian_bug": 407607,
+  "packages": [
+    {
+      "name": "python-django",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.95.1-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2:2.2.28-1~deb11u2"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "2:2.2.28-1~deb11u2"
+        }
+      ]
+    }
+  ]
+}

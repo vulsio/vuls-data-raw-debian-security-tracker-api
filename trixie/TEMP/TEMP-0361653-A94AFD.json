@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0361653-A94AFD",
+  "debian_bug": 361540,
+  "packages": [
+    {
+      "name": "librsvg",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "2.14.3-2",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "2.54.7+dfsg-2"
+        }
+      ]
+    }
+  ]
+}

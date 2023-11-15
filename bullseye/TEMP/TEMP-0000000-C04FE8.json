@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-C04FE8",
+  "packages": [
+    {
+      "name": "suricata",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.0.7-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1:6.0.1-3"
+        }
+      ]
+    }
+  ]
+}

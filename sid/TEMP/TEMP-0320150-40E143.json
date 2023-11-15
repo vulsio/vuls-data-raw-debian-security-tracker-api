@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0320150-40E143",
+  "debian_bug": 320150,
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "0.cvs20050811-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "7:6.1-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-106DD8",
+  "packages": [
+    {
+      "name": "linux-ftpd",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.17-36.2"
+        }
+      ]
+    }
+  ]
+}

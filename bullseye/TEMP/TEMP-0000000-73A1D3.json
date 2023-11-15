@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-73A1D3",
+  "packages": [
+    {
+      "name": "rust-tokio",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.1.14-2"
+        }
+      ]
+    }
+  ]
+}

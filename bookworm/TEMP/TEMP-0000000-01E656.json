@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-01E656",
+  "packages": [
+    {
+      "name": "freeradius",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.2-4",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "3.2.1+dfsg-4+deb12u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0672435-7C494C",
+  "debian_bug": 672435,
+  "packages": [
+    {
+      "name": "x11vnc",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.9.16-2",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "0.9.16-9"
+        }
+      ]
+    }
+  ]
+}

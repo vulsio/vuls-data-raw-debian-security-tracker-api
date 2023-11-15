@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-1032088-3E13DF",
+  "debian_bug": 1032088,
+  "packages": [
+    {
+      "name": "rust-bumpalo",
+      "status": "open",
+      "nodsa": "Minor issue",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.4.0-1"
+        }
+      ]
+    }
+  ]
+}

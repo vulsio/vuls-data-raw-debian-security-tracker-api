@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0515104-609AB4",
+  "debian_bug": 515104,
+  "packages": [
+    {
+      "name": "nautilus",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.26.2-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "44.2.1-2"
+        }
+      ]
+    }
+  ]
+}

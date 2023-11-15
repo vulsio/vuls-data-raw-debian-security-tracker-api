@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0996913-660A41",
+  "debian_bug": 996913,
+  "packages": [
+    {
+      "name": "rust-chrono",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.4.22-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "0.4.31-1"
+        }
+      ]
+    }
+  ]
+}

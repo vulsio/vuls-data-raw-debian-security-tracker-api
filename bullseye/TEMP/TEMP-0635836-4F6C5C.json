@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0635836-4F6C5C",
+  "debian_bug": 635836,
+  "packages": [
+    {
+      "name": "minissdpd",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.20110729-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1.5.20190824-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-2D36D7",
+  "packages": [
+    {
+      "name": "wolfssl",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.4.8+dfsg-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "5.6.4-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-1055895-2C681F",
+  "debian_bug": 1055895,
+  "packages": [
+    {
+      "name": "rust-self-cell",
+      "status": "open",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.0.1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0508111-173336",
+  "debian_bug": 508111,
+  "packages": [
+    {
+      "name": "devscripts",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.10.42",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "2.19.5+deb10u1"
+        }
+      ]
+    }
+  ]
+}

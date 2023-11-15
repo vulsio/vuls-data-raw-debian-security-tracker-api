@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-02F7AB",
+  "packages": [
+    {
+      "name": "libx11",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2:1.0.3-5",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "2:1.8.4-2+deb12u1"
+        },
+        {
+          "name": "bookworm-security",
+          "version": "2:1.8.4-2+deb12u2"
+        }
+      ]
+    }
+  ]
+}

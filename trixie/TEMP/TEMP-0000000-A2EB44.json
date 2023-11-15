@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-A2EB44",
+  "packages": [
+    {
+      "name": "x-face-el",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.3.6.23-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.3.6.24-19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-E6792F",
+  "packages": [
+    {
+      "name": "irssi",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.0.1-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.2.0-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

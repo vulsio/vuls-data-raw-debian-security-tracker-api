@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-3D1157",
+  "packages": [
+    {
+      "name": "linux",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.16.7-ckt7-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.10.197-1"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "5.10.191-1"
+        }
+      ]
+    }
+  ]
+}

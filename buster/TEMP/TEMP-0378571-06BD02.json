@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0378571-06BD02",
+  "debian_bug": 378571,
+  "packages": [
+    {
+      "name": "courier-authlib",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "0.58-3.1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.69.0-2"
+        }
+      ]
+    }
+  ]
+}

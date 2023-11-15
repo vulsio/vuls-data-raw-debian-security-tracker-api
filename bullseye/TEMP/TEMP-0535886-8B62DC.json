@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0535886-8B62DC",
+  "debian_bug": 535886,
+  "packages": [
+    {
+      "name": "apache2",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.2.9-1",
+      "repository": [
+        {
+          "name": "bullseye-security",
+          "version": "2.4.56-1~deb11u1"
+        },
+        {
+          "name": "bullseye",
+          "version": "2.4.56-1~deb11u2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-B446CF",
+  "packages": [
+    {
+      "name": "iodine",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.5.1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.7.0-10"
+        }
+      ]
+    }
+  ]
+}

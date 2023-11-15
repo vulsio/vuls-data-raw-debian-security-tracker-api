@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0267098-76A1A1",
+  "debian_bug": 267098,
+  "packages": [
+    {
+      "name": "sredird",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.2.1-1.1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2.2.1-2.1"
+        }
+      ]
+    }
+  ]
+}

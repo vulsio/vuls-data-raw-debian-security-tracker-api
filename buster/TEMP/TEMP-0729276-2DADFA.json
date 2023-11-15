@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0729276-2DADFA",
+  "debian_bug": 729276,
+  "packages": [
+    {
+      "name": "staden-io-lib",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1.13.3-2",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.14.11-6"
+        }
+      ]
+    }
+  ]
+}

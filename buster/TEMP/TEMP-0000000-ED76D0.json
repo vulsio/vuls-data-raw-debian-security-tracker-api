@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-ED76D0",
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.2.4-1+deb10u8",
+      "repository": [
+        {
+          "name": "buster-security",
+          "version": "3.2.4-1+deb10u11"
+        },
+        {
+          "name": "buster",
+          "version": "3.2.4-1+deb10u9"
+        }
+      ]
+    }
+  ]
+}

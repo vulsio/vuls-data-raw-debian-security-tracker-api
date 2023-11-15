@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0567175-3A30A9",
+  "debian_bug": 567175,
+  "packages": [
+    {
+      "name": "ganglia",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "3.1.2-3",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3.7.2-6"
+        }
+      ]
+    }
+  ]
+}

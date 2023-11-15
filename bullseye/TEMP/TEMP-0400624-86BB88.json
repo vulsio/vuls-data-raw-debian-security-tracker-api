@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0400624-86BB88",
+  "debian_bug": 400624,
+  "packages": [
+    {
+      "name": "dsniff",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.4b1+debian-16",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2.4b1+debian-30"
+        }
+      ]
+    }
+  ]
+}

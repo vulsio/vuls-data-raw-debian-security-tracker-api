@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0403141-57B365",
+  "debian_bug": 403141,
+  "packages": [
+    {
+      "name": "znc",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "0.045-3",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.8.2-3.1"
+        }
+      ]
+    }
+  ]
+}

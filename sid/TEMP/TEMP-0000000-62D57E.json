@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-62D57E",
+  "packages": [
+    {
+      "name": "apt-cacher",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.6.1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.7.30"
+        }
+      ]
+    }
+  ]
+}

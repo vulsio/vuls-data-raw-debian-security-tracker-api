@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0649113-5F7BC7",
+  "debian_bug": 649113,
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.1.12-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "4.1.9+dfsg-1+deb12u2"
+        }
+      ]
+    }
+  ]
+}

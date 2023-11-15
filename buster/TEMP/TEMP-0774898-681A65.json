@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0774898-681A65",
+  "debian_bug": 774898,
+  "packages": [
+    {
+      "name": "macchanger",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.7.0-5.3",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.7.0-5.4"
+        }
+      ]
+    }
+  ]
+}

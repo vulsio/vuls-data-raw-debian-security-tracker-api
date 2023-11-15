@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-7C9547",
+  "packages": [
+    {
+      "name": "docker.io",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.0~dfsg1-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "20.10.5+dfsg1-1+deb11u2"
+        }
+      ]
+    }
+  ]
+}

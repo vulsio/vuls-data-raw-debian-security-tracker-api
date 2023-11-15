@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0000000-ED74C7",
+  "packages": [
+    {
+      "name": "rust-memoffset",
+      "status": "open",
+      "nodsa": "Minor issue, Undefined Behavior",
+      "nodsa_reason": "postponed",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.2.1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0846838-9738BD",
+  "debian_bug": 846838,
+  "packages": [
+    {
+      "name": "tiff",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "4.0.7-2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.2.0-1+deb11u4"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "4.2.0-1+deb11u4"
+        }
+      ]
+    }
+  ]
+}

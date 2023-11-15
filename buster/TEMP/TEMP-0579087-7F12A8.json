@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0579087-7F12A8",
+  "debian_bug": 579087,
+  "packages": [
+    {
+      "name": "prosody",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.7.0-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.11.2-1+deb10u4"
+        },
+        {
+          "name": "buster-security",
+          "version": "0.11.2-1+deb10u4"
+        }
+      ]
+    }
+  ]
+}

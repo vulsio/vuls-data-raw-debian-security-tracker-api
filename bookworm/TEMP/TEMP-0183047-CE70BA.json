@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0183047-CE70BA",
+  "debian_bug": 183047,
+  "packages": [
+    {
+      "name": "fuzz",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.6-7.1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "0.6-19.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-673AE0",
+  "packages": [
+    {
+      "name": "ikiwiki",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1.42",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "3.20190228-1"
+        }
+      ]
+    }
+  ]
+}

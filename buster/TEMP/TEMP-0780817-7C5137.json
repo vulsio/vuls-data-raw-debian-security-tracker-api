@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0780817-7C5137",
+  "debian_bug": 780817,
+  "packages": [
+    {
+      "name": "dokuwiki",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.0.20140929.d-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.0.20180422.a-2"
+        }
+      ]
+    }
+  ]
+}

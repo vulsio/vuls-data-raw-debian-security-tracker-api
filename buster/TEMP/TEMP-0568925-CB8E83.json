@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0568925-CB8E83",
+  "debian_bug": 568925,
+  "packages": [
+    {
+      "name": "esmtp",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.2-3",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.2-17"
+        }
+      ]
+    }
+  ]
+}

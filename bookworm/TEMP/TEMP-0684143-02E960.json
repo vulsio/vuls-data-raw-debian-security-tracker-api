@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0684143-02E960",
+  "debian_bug": 684143,
+  "packages": [
+    {
+      "name": "redeclipse",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.2-3",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.6.0-1"
+        }
+      ]
+    }
+  ]
+}

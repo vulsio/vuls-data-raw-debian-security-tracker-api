@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0776271-06C3A9",
+  "debian_bug": 776271,
+  "packages": [
+    {
+      "name": "patch",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.7.4-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2.7.6-7"
+        }
+      ]
+    }
+  ]
+}

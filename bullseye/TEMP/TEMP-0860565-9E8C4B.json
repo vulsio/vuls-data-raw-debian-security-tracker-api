@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0860565-9E8C4B",
+  "debian_bug": 860565,
+  "packages": [
+    {
+      "name": "xen",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.8.1-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.14.6-1"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "4.14.5+94-ge49571868d-1"
+        }
+      ]
+    }
+  ]
+}

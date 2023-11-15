@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0807341-84E914",
+  "debian_bug": 807341,
+  "packages": [
+    {
+      "name": "git-repair",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.20151215-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.20200102-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0779573-6C7D15",
+  "debian_bug": 779573,
+  "packages": [
+    {
+      "name": "bibtool",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.57+ds-3",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2.68+ds-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-5AF47F",
+  "packages": [
+    {
+      "name": "postgrey",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.21-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.37-2"
+        }
+      ]
+    }
+  ]
+}

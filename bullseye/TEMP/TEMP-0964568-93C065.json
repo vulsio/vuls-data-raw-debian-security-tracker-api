@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0964568-93C065",
+  "debian_bug": 964568,
+  "packages": [
+    {
+      "name": "veyon",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.4.1+repack1-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.5.3+repack1-1"
+        }
+      ]
+    }
+  ]
+}

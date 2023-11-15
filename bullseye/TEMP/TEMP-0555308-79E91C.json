@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0555308-79E91C",
+  "debian_bug": 555308,
+  "packages": [
+    {
+      "name": "xorg-server",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2:1.7.2-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2:1.20.11-1+deb11u6"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "2:1.20.11-1+deb11u8"
+        }
+      ]
+    }
+  ]
+}

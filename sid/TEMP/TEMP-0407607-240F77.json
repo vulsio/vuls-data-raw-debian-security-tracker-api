@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0407607-240F77",
+  "debian_bug": 407607,
+  "packages": [
+    {
+      "name": "python-django",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.95.1-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3:4.2.6-1"
+        }
+      ]
+    }
+  ]
+}

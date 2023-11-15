@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-C6840A",
+  "packages": [
+    {
+      "name": "rust-crossbeam",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.8.1-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "0.8.1-1"
+        }
+      ]
+    }
+  ]
+}

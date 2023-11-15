@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0517020-915121",
+  "debian_bug": 517020,
+  "packages": [
+    {
+      "name": "thunar",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "4.18.7-1"
+        }
+      ]
+    }
+  ]
+}

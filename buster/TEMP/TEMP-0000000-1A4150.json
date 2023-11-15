@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-1A4150",
+  "packages": [
+    {
+      "name": "archivemail",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.6.2-2",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.9.0-1.1"
+        }
+      ]
+    }
+  ]
+}

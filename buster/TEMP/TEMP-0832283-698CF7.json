@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0832283-698CF7",
+  "debian_bug": 832283,
+  "packages": [
+    {
+      "name": "cakephp",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.6.7-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "2.10.11-2"
+        }
+      ]
+    }
+  ]
+}

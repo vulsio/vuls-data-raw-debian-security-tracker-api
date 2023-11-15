@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0340105-EE3BB8",
+  "debian_bug": 340105,
+  "packages": [
+    {
+      "name": "vpnc",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0.3.3+SVN20051028-3",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.5.3+git20210125-1"
+        }
+      ]
+    }
+  ]
+}

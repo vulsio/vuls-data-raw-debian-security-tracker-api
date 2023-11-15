@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0870233-1DD19E",
+  "debian_bug": 870233,
+  "packages": [
+    {
+      "name": "smplayer",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "17.7.0~ds0-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "20.6.0~ds0-1"
+        }
+      ]
+    }
+  ]
+}

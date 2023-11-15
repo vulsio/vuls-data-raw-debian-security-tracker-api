@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0560895-39B4B0",
+  "debian_bug": 560895,
+  "packages": [
+    {
+      "name": "gnome-screensaver",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.28.0-2",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "3.6.1-10"
+        }
+      ]
+    }
+  ]
+}

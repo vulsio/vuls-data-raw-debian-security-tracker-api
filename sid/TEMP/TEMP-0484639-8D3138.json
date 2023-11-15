@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0484639-8D3138",
+  "debian_bug": 484639,
+  "packages": [
+    {
+      "name": "evolution",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.22.2-1.1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3.50.1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-C1FFDC",
+  "packages": [
+    {
+      "name": "rust-sequoia-openpgp",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.16.0-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.16.1-2"
+        }
+      ]
+    }
+  ]
+}

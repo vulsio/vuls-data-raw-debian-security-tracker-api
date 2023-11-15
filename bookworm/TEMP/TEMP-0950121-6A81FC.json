@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0950121-6A81FC",
+  "debian_bug": 950121,
+  "packages": [
+    {
+      "name": "opensmtpd",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "6.6.2p1-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "6.8.0p2-4"
+        }
+      ]
+    }
+  ]
+}

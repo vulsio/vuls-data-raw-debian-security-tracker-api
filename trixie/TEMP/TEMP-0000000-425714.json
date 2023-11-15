@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-425714",
+  "packages": [
+    {
+      "name": "argyll",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "2.3.1+repack-1.2"
+        }
+      ]
+    }
+  ]
+}

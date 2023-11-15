@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0313081-3428D4",
+  "debian_bug": 313081,
+  "packages": [
+    {
+      "name": "findutils",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.2.22-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.9.0-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0830660-09AE85",
+  "debian_bug": 830660,
+  "packages": [
+    {
+      "name": "leptonlib",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.73-5",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.82.0-3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0334193-23D83A",
+  "debian_bug": 334193,
+  "packages": [
+    {
+      "name": "xscreensaver",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "4.23-2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.45+dfsg1-2"
+        }
+      ]
+    }
+  ]
+}

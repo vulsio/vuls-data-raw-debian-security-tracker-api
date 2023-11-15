@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0321470-3DB8C5",
+  "debian_bug": 321470,
+  "packages": [
+    {
+      "name": "wine",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0.0.20050830-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "8.0.1~repack-3"
+        }
+      ]
+    }
+  ]
+}

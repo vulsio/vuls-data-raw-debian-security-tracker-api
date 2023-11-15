@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-75B37A",
+  "packages": [
+    {
+      "name": "webauth",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.5.2-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.7.0-8"
+        }
+      ]
+    }
+  ]
+}

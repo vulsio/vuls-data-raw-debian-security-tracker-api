@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-0EB5E1",
+  "packages": [
+    {
+      "name": "node-d3-color",
+      "status": "open",
+      "nodsa": "Minor issue",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1.2.8-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0517018-A83CE6",
+  "debian_bug": 517018,
+  "packages": [
+    {
+      "name": "sysvinit",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2.96-7+deb11u1"
+        }
+      ]
+    }
+  ]
+}

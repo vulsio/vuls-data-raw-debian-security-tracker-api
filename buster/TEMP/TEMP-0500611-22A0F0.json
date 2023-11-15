@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0500611-22A0F0",
+  "debian_bug": 500611,
+  "packages": [
+    {
+      "name": "jumpnbump",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1.50+dfsg1-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.60-4"
+        }
+      ]
+    }
+  ]
+}

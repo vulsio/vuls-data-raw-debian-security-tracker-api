@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0412618-38583E",
+  "debian_bug": 412618,
+  "packages": [
+    {
+      "name": "apg",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.2.3.dfsg.1-2",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "2.2.3.dfsg.1-5"
+        }
+      ]
+    }
+  ]
+}

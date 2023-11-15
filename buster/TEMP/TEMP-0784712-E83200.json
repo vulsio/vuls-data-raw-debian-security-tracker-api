@@ -1,0 +1,42 @@
+{
+  "id": "TEMP-0784712-E83200",
+  "debian_bug": 784712,
+  "packages": [
+    {
+      "name": "mew-beta",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "7.0.50~6.6+0.20150508-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "7.0.50~6.8+0.20190228-1+deb10u1"
+        }
+      ]
+    },
+    {
+      "name": "semi",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.14.7~0.20120428-17",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.14.7~0.20120428-24"
+        }
+      ]
+    },
+    {
+      "name": "mew",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1:6.6-3",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1:6.8-4+deb10u1"
+        }
+      ]
+    }
+  ]
+}

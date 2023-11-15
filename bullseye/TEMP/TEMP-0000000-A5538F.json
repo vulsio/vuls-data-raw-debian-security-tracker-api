@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-A5538F",
+  "packages": [
+    {
+      "name": "libpam-ssh",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.91.0-9",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2.3+ds-2"
+        }
+      ]
+    }
+  ]
+}

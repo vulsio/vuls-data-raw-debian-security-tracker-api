@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0375453-4F9189",
+  "debian_bug": 375453,
+  "packages": [
+    {
+      "name": "ldap-account-manager",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "1.0.3-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "8.3-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0551907-963784",
+  "debian_bug": 551907,
+  "packages": [
+    {
+      "name": "mandos",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.13-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.8.16-1"
+        }
+      ]
+    }
+  ]
+}

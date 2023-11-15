@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-F00632",
+  "packages": [
+    {
+      "name": "node-marked",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.3.1+dfsg-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.8.0+ds+repack-2"
+        }
+      ]
+    }
+  ]
+}

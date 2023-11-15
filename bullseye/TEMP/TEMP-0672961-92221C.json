@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0672961-92221C",
+  "debian_bug": 672961,
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.1.14-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.2.11-3+deb11u9"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "3.2.11-3+deb11u7"
+        }
+      ]
+    }
+  ]
+}

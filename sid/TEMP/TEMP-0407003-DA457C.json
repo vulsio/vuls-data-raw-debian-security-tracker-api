@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0407003-DA457C",
+  "debian_bug": 407003,
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.cvs20060823-8",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "7:6.1-2"
+        }
+      ]
+    }
+  ]
+}

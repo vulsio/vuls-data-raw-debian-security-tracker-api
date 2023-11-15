@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0378411-57ACA8",
+  "debian_bug": 378411,
+  "packages": [
+    {
+      "name": "libxml-parser-perl",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "2.34-4.2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2.46-4"
+        }
+      ]
+    }
+  ]
+}

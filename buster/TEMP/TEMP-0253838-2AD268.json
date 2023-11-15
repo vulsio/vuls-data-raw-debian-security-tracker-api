@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0253838-2AD268",
+  "debian_bug": 253838,
+  "packages": [
+    {
+      "name": "openldap",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.4.13",
+      "repository": [
+        {
+          "name": "buster-security",
+          "version": "2.4.47+dfsg-3+deb10u7"
+        },
+        {
+          "name": "buster",
+          "version": "2.4.47+dfsg-3+deb10u7"
+        }
+      ]
+    }
+  ]
+}

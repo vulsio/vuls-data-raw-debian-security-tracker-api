@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0608980-E8B8DF",
+  "debian_bug": 608980,
+  "packages": [
+    {
+      "name": "lbreakout2",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "2.6.5-2"
+        }
+      ]
+    }
+  ]
+}

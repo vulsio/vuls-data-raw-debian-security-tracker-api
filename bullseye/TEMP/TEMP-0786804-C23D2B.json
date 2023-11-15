@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0786804-C23D2B",
+  "debian_bug": 786804,
+  "packages": [
+    {
+      "name": "util-linux",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.27-1",
+      "repository": [
+        {
+          "name": "bullseye-security",
+          "version": "2.36.1-8+deb11u1"
+        },
+        {
+          "name": "bullseye",
+          "version": "2.36.1-8+deb11u1"
+        }
+      ]
+    }
+  ]
+}

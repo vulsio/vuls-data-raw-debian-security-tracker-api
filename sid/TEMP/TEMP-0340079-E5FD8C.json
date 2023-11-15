@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0340079-E5FD8C",
+  "debian_bug": 340079,
+  "packages": [
+    {
+      "name": "libjpeg6b",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "6b-11",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1:6b2-3.1"
+        }
+      ]
+    }
+  ]
+}

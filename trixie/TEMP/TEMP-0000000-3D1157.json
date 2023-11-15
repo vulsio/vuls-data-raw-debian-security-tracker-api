@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-3D1157",
+  "packages": [
+    {
+      "name": "linux",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.16.7-ckt7-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "6.5.10-1"
+        }
+      ]
+    }
+  ]
+}

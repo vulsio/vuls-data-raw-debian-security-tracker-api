@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0781608-198474",
+  "debian_bug": 781608,
+  "packages": [
+    {
+      "name": "caja",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.8.2-4",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.26.1-1"
+        }
+      ]
+    }
+  ]
+}

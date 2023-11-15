@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0149799-ABFD7C",
+  "debian_bug": 149799,
+  "packages": [
+    {
+      "name": "sanitizer",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "1.76-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.76-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0173238-677015",
+  "debian_bug": 173238,
+  "packages": [
+    {
+      "name": "lilo",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1:22.4-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1:24.2-4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-9BB4B1",
+  "packages": [
+    {
+      "name": "tryton-server",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "5.0.33-2+deb11u2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.0.33-2+deb11u2"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "5.0.33-2+deb11u2"
+        }
+      ]
+    }
+  ]
+}

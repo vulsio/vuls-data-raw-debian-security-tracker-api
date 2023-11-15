@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0816034-9C45DC",
+  "debian_bug": 816034,
+  "packages": [
+    {
+      "name": "wine",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "4.0~rc1-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.0.3-3"
+        }
+      ]
+    }
+  ]
+}

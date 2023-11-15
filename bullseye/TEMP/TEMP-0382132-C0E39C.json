@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0382132-C0E39C",
+  "debian_bug": 382132,
+  "packages": [
+    {
+      "name": "diffmon",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "20020222-2.2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "20020222-7"
+        }
+      ]
+    }
+  ]
+}

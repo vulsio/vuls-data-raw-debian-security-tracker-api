@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-47E1CE",
+  "packages": [
+    {
+      "name": "hp2xx",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "3.4.4-10",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.4.4-11"
+        }
+      ]
+    }
+  ]
+}

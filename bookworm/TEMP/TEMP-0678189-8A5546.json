@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0678189-8A5546",
+  "debian_bug": 678189,
+  "packages": [
+    {
+      "name": "packagekit",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.7.6-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.2.6-5"
+        }
+      ]
+    }
+  ]
+}

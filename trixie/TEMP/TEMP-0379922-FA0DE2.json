@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0379922-FA0DE2",
+  "debian_bug": 379922,
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.cvs20060823-8",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "7:6.0-9"
+        }
+      ]
+    }
+  ]
+}

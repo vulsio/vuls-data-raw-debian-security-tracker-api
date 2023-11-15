@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0407607-240F77",
+  "debian_bug": 407607,
+  "packages": [
+    {
+      "name": "python-django",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.95.1-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1:1.11.29-1~deb10u1"
+        },
+        {
+          "name": "buster-security",
+          "version": "1:1.11.29-1+deb10u10"
+        }
+      ]
+    }
+  ]
+}

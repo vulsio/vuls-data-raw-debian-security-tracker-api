@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-1052200-1C589C",
+  "debian_bug": 1052200,
+  "packages": [
+    {
+      "name": "electrum",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.4.6+dfsg-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.4.6+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

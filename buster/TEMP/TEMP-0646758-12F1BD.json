@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0646758-12F1BD",
+  "debian_bug": 646758,
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.1.12-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "3.2.4-1+deb10u9"
+        },
+        {
+          "name": "buster-security",
+          "version": "3.2.4-1+deb10u11"
+        }
+      ]
+    }
+  ]
+}

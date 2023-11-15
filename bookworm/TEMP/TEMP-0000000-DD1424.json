@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-DD1424",
+  "packages": [
+    {
+      "name": "rust-trust-dns-server",
+      "status": "open",
+      "nodsa": "Minor issue",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "0.22.0-2"
+        }
+      ]
+    }
+  ]
+}

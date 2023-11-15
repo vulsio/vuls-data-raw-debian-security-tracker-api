@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0535881-957F77",
+  "debian_bug": 535881,
+  "packages": [
+    {
+      "name": "clamav",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.95.2+dfsg-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.0.3+dfsg-2"
+        }
+      ]
+    }
+  ]
+}

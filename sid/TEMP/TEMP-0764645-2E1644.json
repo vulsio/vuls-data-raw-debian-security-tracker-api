@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0764645-2E1644",
+  "debian_bug": 764645,
+  "packages": [
+    {
+      "name": "iptables-persistent",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1.0.4",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.0.20"
+        }
+      ]
+    }
+  ]
+}

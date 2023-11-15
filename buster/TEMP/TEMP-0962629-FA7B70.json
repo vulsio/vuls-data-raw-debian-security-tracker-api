@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0962629-FA7B70",
+  "debian_bug": 962629,
+  "packages": [
+    {
+      "name": "rainloop",
+      "status": "open",
+      "nodsa": "Minor issue",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.12.1-2"
+        },
+        {
+          "name": "buster-security",
+          "version": "1.12.1-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

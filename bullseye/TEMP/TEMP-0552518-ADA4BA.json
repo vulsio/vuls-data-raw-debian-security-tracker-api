@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0552518-ADA4BA",
+  "debian_bug": 552518,
+  "packages": [
+    {
+      "name": "glibc",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.10.1-7",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2.31-13+deb11u6"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "2.31-13+deb11u7"
+        }
+      ]
+    }
+  ]
+}

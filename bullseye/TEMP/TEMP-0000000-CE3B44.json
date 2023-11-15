@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-CE3B44",
+  "packages": [
+    {
+      "name": "xen",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.8.0~rc3-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.14.6-1"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "4.14.5+94-ge49571868d-1"
+        }
+      ]
+    }
+  ]
+}

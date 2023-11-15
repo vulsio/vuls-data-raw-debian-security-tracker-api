@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-C3CEDB",
+  "packages": [
+    {
+      "name": "flashrom",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0.9.9+r1954-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.0-1"
+        }
+      ]
+    }
+  ]
+}

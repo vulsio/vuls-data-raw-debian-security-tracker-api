@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0950816-47D88A",
+  "debian_bug": 950816,
+  "packages": [
+    {
+      "name": "mpv",
+      "status": "open",
+      "nodsa": "Minor issue",
+      "urgency": "not yet assigned",
+      "repository": [
+        {
+          "name": "buster-security",
+          "version": "0.29.1-1+deb10u1"
+        },
+        {
+          "name": "buster",
+          "version": "0.29.1-1"
+        }
+      ]
+    }
+  ]
+}

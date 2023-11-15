@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0775199-D05A9E",
+  "debian_bug": 775199,
+  "packages": [
+    {
+      "name": "mutt",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.5.24-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "2.2.12-0.1"
+        }
+      ]
+    }
+  ]
+}

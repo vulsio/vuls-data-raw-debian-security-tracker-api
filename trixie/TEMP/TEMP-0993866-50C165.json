@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0993866-50C165",
+  "debian_bug": 993866,
+  "packages": [
+    {
+      "name": "rhonabwy",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.9.13-4",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.1.12-1"
+        }
+      ]
+    }
+  ]
+}

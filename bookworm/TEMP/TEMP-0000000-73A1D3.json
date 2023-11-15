@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-73A1D3",
+  "packages": [
+    {
+      "name": "rust-tokio",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.24.2-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.24.2-1"
+        }
+      ]
+    }
+  ]
+}

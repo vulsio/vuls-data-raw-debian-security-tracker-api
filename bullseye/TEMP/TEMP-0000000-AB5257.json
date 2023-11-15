@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-AB5257",
+  "packages": [
+    {
+      "name": "dojo",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "1.4.2+dfsg-1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1.15.4+dfsg1-1+deb11u1"
+        }
+      ]
+    }
+  ]
+}

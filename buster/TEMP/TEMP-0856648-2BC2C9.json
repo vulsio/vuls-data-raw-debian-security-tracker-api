@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0856648-2BC2C9",
+  "debian_bug": 856648,
+  "packages": [
+    {
+      "name": "suricata",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.2.1-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1:4.1.2-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

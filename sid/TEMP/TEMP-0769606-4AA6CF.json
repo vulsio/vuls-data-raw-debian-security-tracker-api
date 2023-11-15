@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0769606-4AA6CF",
+  "debian_bug": 769606,
+  "packages": [
+    {
+      "name": "perl",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "5.22.0~rc2-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "5.36.0-9"
+        }
+      ]
+    }
+  ]
+}

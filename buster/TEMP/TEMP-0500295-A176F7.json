@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0500295-A176F7",
+  "debian_bug": 500295,
+  "packages": [
+    {
+      "name": "wordpress",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.8.4-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "5.0.15+dfsg1-0+deb10u1"
+        },
+        {
+          "name": "buster-security",
+          "version": "5.0.19+dfsg1-0+deb10u1"
+        }
+      ]
+    }
+  ]
+}

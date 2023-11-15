@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-1053115-9454E3",
+  "debian_bug": 1053115,
+  "packages": [
+    {
+      "name": "foot",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.15.3-2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.16.2-1"
+        }
+      ]
+    }
+  ]
+}

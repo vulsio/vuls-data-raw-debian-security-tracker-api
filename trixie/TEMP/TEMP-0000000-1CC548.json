@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-1CC548",
+  "packages": [
+    {
+      "name": "cgit",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.12.0.git2.7.0-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.2.3+git20221219.50.91f2590+git2.39.1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0407003-DA457C",
+  "debian_bug": 407003,
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.cvs20060823-8",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "7:4.1.9-0+deb10u1"
+        },
+        {
+          "name": "buster-security",
+          "version": "7:4.1.11-0+deb10u1"
+        }
+      ]
+    }
+  ]
+}

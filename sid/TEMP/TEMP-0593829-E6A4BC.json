@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0593829-E6A4BC",
+  "debian_bug": 593829,
+  "packages": [
+    {
+      "name": "sabnzbdplus",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.5.4-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.1.0+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

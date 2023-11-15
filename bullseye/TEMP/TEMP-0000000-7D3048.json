@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-7D3048",
+  "packages": [
+    {
+      "name": "syslog-ng",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.6.5-2.1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.28.1-2+deb11u1"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "3.28.1-2+deb11u1"
+        }
+      ]
+    }
+  ]
+}

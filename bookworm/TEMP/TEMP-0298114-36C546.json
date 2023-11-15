@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0298114-36C546",
+  "debian_bug": 298114,
+  "packages": [
+    {
+      "name": "nvi",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "1.79-22",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.81.6-17"
+        }
+      ]
+    }
+  ]
+}

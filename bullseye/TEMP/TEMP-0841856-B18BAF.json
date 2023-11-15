@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0841856-B18BAF",
+  "debian_bug": 841856,
+  "packages": [
+    {
+      "name": "bash",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.1-2+deb11u1"
+        }
+      ]
+    }
+  ]
+}

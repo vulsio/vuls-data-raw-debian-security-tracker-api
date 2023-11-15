@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0612034-33CBAD",
+  "debian_bug": 612034,
+  "packages": [
+    {
+      "name": "aptitude",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.6.3-4",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "0.8.13-5"
+        }
+      ]
+    }
+  ]
+}

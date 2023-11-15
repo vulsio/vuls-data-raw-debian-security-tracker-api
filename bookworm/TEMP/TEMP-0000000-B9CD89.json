@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-B9CD89",
+  "packages": [
+    {
+      "name": "haproxy",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.5.12-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "2.6.12-1"
+        }
+      ]
+    }
+  ]
+}

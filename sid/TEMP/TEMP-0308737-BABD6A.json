@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0308737-BABD6A",
+  "debian_bug": 308737,
+  "packages": [
+    {
+      "name": "libosip2",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.0.9-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "5.3.0-2.1"
+        }
+      ]
+    }
+  ]
+}

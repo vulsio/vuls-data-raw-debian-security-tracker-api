@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0352723-F61961",
+  "debian_bug": 352723,
+  "packages": [
+    {
+      "name": "dpkg-sig",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.13",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.13.1+nmu4"
+        }
+      ]
+    }
+  ]
+}

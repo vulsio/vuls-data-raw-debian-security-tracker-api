@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0860565-9E8C4B",
+  "debian_bug": 860565,
+  "packages": [
+    {
+      "name": "xen",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.8.1-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.17.2+55-g0b56bed864-1"
+        }
+      ]
+    }
+  ]
+}

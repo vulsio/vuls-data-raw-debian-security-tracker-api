@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-1055895-2C681F",
+  "debian_bug": 1055895,
+  "packages": [
+    {
+      "name": "rust-self-cell",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.2-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.0.2-1"
+        }
+      ]
+    }
+  ]
+}

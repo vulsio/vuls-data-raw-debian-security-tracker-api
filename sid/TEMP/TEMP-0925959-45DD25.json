@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0925959-45DD25",
+  "debian_bug": 925959,
+  "packages": [
+    {
+      "name": "open-vm-tools",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2:10.3.10-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2:12.3.5-1"
+        }
+      ]
+    }
+  ]
+}

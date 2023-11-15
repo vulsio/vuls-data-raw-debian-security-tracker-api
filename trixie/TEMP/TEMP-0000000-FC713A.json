@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-FC713A",
+  "packages": [
+    {
+      "name": "paste",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.0.1-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "3.7.1-1"
+        }
+      ]
+    }
+  ]
+}

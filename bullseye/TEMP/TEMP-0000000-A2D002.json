@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-A2D002",
+  "packages": [
+    {
+      "name": "prelude-manager",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "5.2.0-2"
+        }
+      ]
+    }
+  ]
+}

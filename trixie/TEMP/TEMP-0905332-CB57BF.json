@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0905332-CB57BF",
+  "debian_bug": 905332,
+  "packages": [
+    {
+      "name": "xml-security-c",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.7.3-4+deb9u1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "2.0.4-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0535886-8B62DC",
+  "debian_bug": 535886,
+  "packages": [
+    {
+      "name": "apache2",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.2.9-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "2.4.38-3+deb10u8"
+        },
+        {
+          "name": "buster-security",
+          "version": "2.4.38-3+deb10u10"
+        }
+      ]
+    }
+  ]
+}

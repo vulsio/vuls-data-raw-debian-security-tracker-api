@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-80BA67",
+  "packages": [
+    {
+      "name": "slixmpp",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.2.2-1",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.8.4-3"
+        }
+      ]
+    }
+  ]
+}

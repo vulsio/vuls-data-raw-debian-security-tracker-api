@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0465561-A017B1",
+  "debian_bug": 465561,
+  "packages": [
+    {
+      "name": "cyrus-sasl2",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.1.22.dfsg1-18",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "2.1.28+dfsg1-3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0388608-F17697",
+  "debian_bug": 388608,
+  "packages": [
+    {
+      "name": "logrotate",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "3.7.8-4",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3.21.0-1"
+        }
+      ]
+    }
+  ]
+}

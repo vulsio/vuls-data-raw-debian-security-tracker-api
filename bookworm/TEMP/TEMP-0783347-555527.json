@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0783347-555527",
+  "debian_bug": 783347,
+  "packages": [
+    {
+      "name": "wordpress",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.2+dfsg-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "6.1.1+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

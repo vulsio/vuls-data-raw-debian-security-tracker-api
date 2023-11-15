@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-3D1157",
+  "packages": [
+    {
+      "name": "linux",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.16.7-ckt7-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "4.19.249-2"
+        },
+        {
+          "name": "buster-security",
+          "version": "4.19.289-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0825151-E80EFA",
+  "debian_bug": 825151,
+  "packages": [
+    {
+      "name": "postfixadmin",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.93-2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3.3.13-1"
+        }
+      ]
+    }
+  ]
+}

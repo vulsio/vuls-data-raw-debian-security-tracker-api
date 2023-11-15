@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-404599",
+  "packages": [
+    {
+      "name": "lbreakout2",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.5.2-2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "2.6.5-2"
+        }
+      ]
+    }
+  ]
+}

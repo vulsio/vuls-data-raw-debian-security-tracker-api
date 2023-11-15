@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0850432-8BD66F",
+  "debian_bug": 850432,
+  "packages": [
+    {
+      "name": "w3m",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.5.3-34",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "0.5.3+git20230121-2"
+        }
+      ]
+    }
+  ]
+}

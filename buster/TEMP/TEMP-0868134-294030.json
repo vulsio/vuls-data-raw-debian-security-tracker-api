@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0868134-294030",
+  "debian_bug": 868134,
+  "packages": [
+    {
+      "name": "t1utils",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.40-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "1.41-3"
+        }
+      ]
+    }
+  ]
+}

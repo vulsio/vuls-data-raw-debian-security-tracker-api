@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0770647-53FAC2",
+  "debian_bug": 770647,
+  "packages": [
+    {
+      "name": "libclamunrar",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "0.97.7+dfsg-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.102.3-0+deb10u1"
+        }
+      ]
+    }
+  ]
+}

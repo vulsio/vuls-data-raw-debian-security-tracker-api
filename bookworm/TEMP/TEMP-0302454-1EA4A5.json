@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0302454-1EA4A5",
+  "debian_bug": 302454,
+  "packages": [
+    {
+      "name": "trackballs",
+      "status": "resolved",
+      "urgency": "medium",
+      "fixed_version": "1.1.1-1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "1.3.4-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0539699-BC7A2B",
+  "debian_bug": 539699,
+  "packages": [
+    {
+      "name": "xscreensaver",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "5.05-3+nmu1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "6.06+dfsg1-3"
+        }
+      ]
+    }
+  ]
+}

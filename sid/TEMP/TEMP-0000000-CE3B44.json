@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-CE3B44",
+  "packages": [
+    {
+      "name": "xen",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "4.8.0~rc3-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.17.2+55-g0b56bed864-1"
+        }
+      ]
+    }
+  ]
+}

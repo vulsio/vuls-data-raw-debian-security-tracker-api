@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0646758-12F1BD",
+  "debian_bug": 646758,
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "2.1.12-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "4.1.12+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

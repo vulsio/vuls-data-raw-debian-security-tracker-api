@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0560087-F084E6",
+  "debian_bug": 560087,
+  "packages": [
+    {
+      "name": "xpat2",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "1.07-17",
+      "repository": [
+        {
+          "name": "trixie",
+          "version": "1.07-20"
+        }
+      ]
+    }
+  ]
+}

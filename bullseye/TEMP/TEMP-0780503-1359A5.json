@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0780503-1359A5",
+  "debian_bug": 780503,
+  "packages": [
+    {
+      "name": "icu",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "52.1-8",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "67.1-7"
+        }
+      ]
+    }
+  ]
+}

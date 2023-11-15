@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0811308-B63DA1",
+  "debian_bug": 811308,
+  "packages": [
+    {
+      "name": "imagemagick",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "8:6.8.9.9-7",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "8:6.9.11.60+dfsg-1.3+deb11u1"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "8:6.9.11.60+dfsg-1.3+deb11u1"
+        }
+      ]
+    }
+  ]
+}

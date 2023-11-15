@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0358139-D2A6EE",
+  "debian_bug": 358139,
+  "packages": [
+    {
+      "name": "gauche",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.8.7-1",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.9.6-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "TEMP-0568486-B6FCB6",
+  "debian_bug": 568485,
+  "packages": [
+    {
+      "name": "qt4-x11",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "4:4.8.7+dfsg-18+deb10u1"
+        },
+        {
+          "name": "buster-security",
+          "version": "4:4.8.7+dfsg-18+deb10u2"
+        }
+      ]
+    },
+    {
+      "name": "kde4libs",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "4:4.14.38-3"
+        }
+      ]
+    }
+  ]
+}

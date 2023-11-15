@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0632260-7A1354",
+  "debian_bug": 632260,
+  "packages": [
+    {
+      "name": "stardict",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "3.0.1-5",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "3.0.7+git20220909+dfsg-4"
+        }
+      ]
+    }
+  ]
+}

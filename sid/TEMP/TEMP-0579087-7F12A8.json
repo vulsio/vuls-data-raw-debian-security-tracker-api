@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0579087-7F12A8",
+  "debian_bug": 579087,
+  "packages": [
+    {
+      "name": "prosody",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "0.7.0-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "0.12.4-1"
+        }
+      ]
+    }
+  ]
+}

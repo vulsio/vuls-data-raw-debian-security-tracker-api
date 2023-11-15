@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-42228B",
+  "packages": [
+    {
+      "name": "spip",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.1.11-0.1",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.2.11-3+deb11u9"
+        },
+        {
+          "name": "bullseye-security",
+          "version": "3.2.11-3+deb11u7"
+        }
+      ]
+    }
+  ]
+}

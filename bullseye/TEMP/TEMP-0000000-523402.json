@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-523402",
+  "packages": [
+    {
+      "name": "brltty",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "0",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "6.3+dfsg-1+deb11u1"
+        }
+      ]
+    }
+  ]
+}

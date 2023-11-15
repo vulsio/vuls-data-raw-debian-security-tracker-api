@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-09234C",
+  "packages": [
+    {
+      "name": "flash-kernel",
+      "status": "resolved",
+      "urgency": "low",
+      "fixed_version": "2.33",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.104"
+        }
+      ]
+    }
+  ]
+}

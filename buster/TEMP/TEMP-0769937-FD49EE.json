@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0769937-FD49EE",
+  "debian_bug": 769937,
+  "packages": [
+    {
+      "name": "procmail",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "3.22-24",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "3.22-26+deb10u1"
+        }
+      ]
+    }
+  ]
+}

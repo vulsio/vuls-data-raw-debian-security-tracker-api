@@ -1,0 +1,30 @@
+{
+  "id": "TEMP-0816034-9C45DC",
+  "debian_bug": 816034,
+  "packages": [
+    {
+      "name": "wine-development",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "3.12-2",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "8.13~repack-1"
+        }
+      ]
+    },
+    {
+      "name": "wine",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "4.0~rc1-1",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "8.0.1~repack-3"
+        }
+      ]
+    }
+  ]
+}

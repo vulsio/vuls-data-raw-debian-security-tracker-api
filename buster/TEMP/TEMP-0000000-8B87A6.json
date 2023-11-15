@@ -1,0 +1,21 @@
+{
+  "id": "TEMP-0000000-8B87A6",
+  "packages": [
+    {
+      "name": "mediawiki",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1:1.27.0-1",
+      "repository": [
+        {
+          "name": "buster-security",
+          "version": "1:1.31.16-1+deb10u6"
+        },
+        {
+          "name": "buster",
+          "version": "1:1.31.16-1+deb10u2"
+        }
+      ]
+    }
+  ]
+}

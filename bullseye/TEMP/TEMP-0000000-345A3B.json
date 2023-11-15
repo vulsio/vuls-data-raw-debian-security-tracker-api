@@ -1,0 +1,16 @@
+{
+  "id": "TEMP-0000000-345A3B",
+  "packages": [
+    {
+      "name": "ruby-handlebars-assets",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "2:0.23.8+dfsg-3"
+        }
+      ]
+    }
+  ]
+}

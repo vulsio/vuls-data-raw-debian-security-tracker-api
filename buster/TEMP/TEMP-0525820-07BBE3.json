@@ -1,0 +1,22 @@
+{
+  "id": "TEMP-0525820-07BBE3",
+  "debian_bug": 525820,
+  "packages": [
+    {
+      "name": "file",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "5.03-1",
+      "repository": [
+        {
+          "name": "buster-security",
+          "version": "1:5.35-4+deb10u1"
+        },
+        {
+          "name": "buster",
+          "version": "1:5.35-4+deb10u2"
+        }
+      ]
+    }
+  ]
+}

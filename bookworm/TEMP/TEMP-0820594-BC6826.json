@@ -1,0 +1,18 @@
+{
+  "id": "TEMP-0820594-BC6826",
+  "debian_bug": 820594,
+  "packages": [
+    {
+      "name": "giflib",
+      "status": "resolved",
+      "urgency": "unimportant",
+      "fixed_version": "5.1.4-0.1",
+      "repository": [
+        {
+          "name": "bookworm",
+          "version": "5.2.1-2.5"
+        }
+      ]
+    }
+  ]
+}

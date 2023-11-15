@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-96B2E9",
+  "packages": [
+    {
+      "name": "libgcrypt20",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.6.4-3",
+      "repository": [
+        {
+          "name": "sid",
+          "version": "1.10.2-3"
+        }
+      ]
+    }
+  ]
+}

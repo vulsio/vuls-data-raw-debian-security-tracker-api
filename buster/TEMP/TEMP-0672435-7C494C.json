@@ -1,0 +1,23 @@
+{
+  "id": "TEMP-0672435-7C494C",
+  "debian_bug": 672435,
+  "packages": [
+    {
+      "name": "x11vnc",
+      "status": "open",
+      "nodsa": "Minor issue; workaround exits",
+      "nodsa_reason": "ignored",
+      "urgency": "low",
+      "repository": [
+        {
+          "name": "buster",
+          "version": "0.9.13-6+deb10u1"
+        },
+        {
+          "name": "buster-security",
+          "version": "0.9.13-6+deb10u1"
+        }
+      ]
+    }
+  ]
+}

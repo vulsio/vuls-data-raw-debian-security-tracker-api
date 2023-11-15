@@ -1,0 +1,17 @@
+{
+  "id": "TEMP-0000000-CD327C",
+  "packages": [
+    {
+      "name": "remctl",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "2.2-2",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.17-1"
+        }
+      ]
+    }
+  ]
+}
