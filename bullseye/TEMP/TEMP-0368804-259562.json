@@ -9,11 +9,11 @@
       "fixed_version": "1.0.2-1.1",
       "repository": [
         {
-          "name": "bullseye",
+          "name": "bullseye-security",
           "version": "8.0.1-0+deb11u1"
         },
         {
-          "name": "bullseye-security",
+          "name": "bullseye",
           "version": "8.0.1-0+deb11u1"
         }
       ]
