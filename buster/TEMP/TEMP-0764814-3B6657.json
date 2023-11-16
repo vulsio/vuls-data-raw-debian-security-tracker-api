@@ -9,12 +9,12 @@
       "fixed_version": "0.14.3702+dfsg-3",
       "repository": [
         {
-          "name": "buster-security",
-          "version": "0.18~pre1+dfsg1-5+deb10u1"
-        },
-        {
           "name": "buster",
           "version": "0.18~pre1+dfsg1-5"
+        },
+        {
+          "name": "buster-security",
+          "version": "0.18~pre1+dfsg1-5+deb10u1"
         }
       ]
     }

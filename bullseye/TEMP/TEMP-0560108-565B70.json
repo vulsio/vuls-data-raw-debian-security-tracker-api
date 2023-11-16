@@ -3,17 +3,6 @@
   "debian_bug": 560108,
   "packages": [
     {
-      "name": "dillo",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "3.0.5-7"
-        }
-      ]
-    },
-    {
       "name": "epiphany-browser",
       "status": "open",
       "urgency": "unimportant",
@@ -25,6 +14,17 @@
         {
           "name": "bullseye-security",
           "version": "3.38.2-1+deb11u3"
+        }
+      ]
+    },
+    {
+      "name": "dillo",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "3.0.5-7"
         }
       ]
     }
