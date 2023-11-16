@@ -2,17 +2,6 @@
   "id": "TEMP-0000000-ACBC4C",
   "packages": [
     {
-      "name": "foomatic-filters",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "4.0.17-12"
-        }
-      ]
-    },
-    {
       "name": "cups-filters",
       "status": "resolved",
       "urgency": "unimportant",
@@ -25,6 +14,17 @@
         {
           "name": "bullseye-security",
           "version": "1.28.7-1+deb11u2"
+        }
+      ]
+    },
+    {
+      "name": "foomatic-filters",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "4.0.17-12"
         }
       ]
     }
