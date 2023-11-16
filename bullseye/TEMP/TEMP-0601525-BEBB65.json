@@ -3,17 +3,6 @@
   "debian_bug": 601525,
   "packages": [
     {
-      "name": "libwmf",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.2.8.4-17"
-        }
-      ]
-    },
-    {
       "name": "libgd2",
       "status": "resolved",
       "urgency": "not yet assigned",
@@ -34,6 +23,17 @@
         {
           "name": "bullseye",
           "version": "7.9+dfsg1-2"
+        }
+      ]
+    },
+    {
+      "name": "libwmf",
+      "status": "open",
+      "urgency": "unimportant",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "0.2.8.4-17"
         }
       ]
     }
