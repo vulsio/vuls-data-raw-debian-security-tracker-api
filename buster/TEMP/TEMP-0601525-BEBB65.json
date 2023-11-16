@@ -3,14 +3,13 @@
   "debian_bug": 601525,
   "packages": [
     {
-      "name": "racket",
-      "status": "resolved",
+      "name": "libwmf",
+      "status": "open",
       "urgency": "unimportant",
-      "fixed_version": "5.0.2-1",
       "repository": [
         {
           "name": "buster",
-          "version": "7.2+dfsg1-2"
+          "version": "0.2.8.4-14"
         }
       ]
     },
@@ -27,13 +26,14 @@
       ]
     },
     {
-      "name": "libwmf",
-      "status": "open",
+      "name": "racket",
+      "status": "resolved",
       "urgency": "unimportant",
+      "fixed_version": "5.0.2-1",
       "repository": [
         {
           "name": "buster",
-          "version": "0.2.8.4-14"
+          "version": "7.2+dfsg1-2"
         }
       ]
     }
