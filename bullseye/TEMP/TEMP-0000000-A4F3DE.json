@@ -2,18 +2,6 @@
   "id": "TEMP-0000000-A4F3DE",
   "packages": [
     {
-      "name": "cabextract",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.4-5",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.9-3"
-        }
-      ]
-    },
-    {
       "name": "libmspack",
       "status": "resolved",
       "urgency": "not yet assigned",
@@ -22,6 +10,18 @@
         {
           "name": "bullseye",
           "version": "0.10.1-2"
+        }
+      ]
+    },
+    {
+      "name": "cabextract",
+      "status": "resolved",
+      "urgency": "not yet assigned",
+      "fixed_version": "1.4-5",
+      "repository": [
+        {
+          "name": "bullseye",
+          "version": "1.9-3"
         }
       ]
     }
