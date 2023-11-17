@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0507482-9415A7",
-  "debian_bug": 507482,
-  "packages": [
-    {
-      "name": "devscripts",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.10.42",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "2.19.5+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0507482-9415A7",
+	"debian_bug": 507482,
+	"packages": [
+		{
+			"name": "devscripts",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.10.42",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.19.5+deb10u1"
+				}
+			]
+		}
+	]
 }

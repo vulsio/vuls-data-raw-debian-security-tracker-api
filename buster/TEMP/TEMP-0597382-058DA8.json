@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0597382-058DA8",
-  "debian_bug": 597382,
-  "packages": [
-    {
-      "name": "mingetty",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.07-2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.08-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0597382-058DA8",
+	"debian_bug": 597382,
+	"packages": [
+		{
+			"name": "mingetty",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.07-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.08-2"
+				}
+			]
+		}
+	]
 }

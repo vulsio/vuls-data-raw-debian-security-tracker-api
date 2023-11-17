@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-9BB4B1",
-  "packages": [
-    {
-      "name": "tryton-server",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "6.0.34-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "6.0.36-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-9BB4B1",
+	"packages": [
+		{
+			"name": "tryton-server",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.0.34-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.0.36-1"
+				}
+			]
+		}
+	]
 }

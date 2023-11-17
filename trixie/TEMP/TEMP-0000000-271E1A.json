@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-271E1A",
-  "packages": [
-    {
-      "name": "vpnc",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.3.2+SVN20050326-2",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.5.3+git20220927-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-271E1A",
+	"packages": [
+		{
+			"name": "vpnc",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.3.2+SVN20050326-2",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.5.3+git20220927-1"
+				}
+			]
+		}
+	]
 }

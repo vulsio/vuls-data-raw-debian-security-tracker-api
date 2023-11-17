@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0869722-31618B",
-  "debian_bug": 869722,
-  "packages": [
-    {
-      "name": "imagemagick",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "8:6.9.7.4+dfsg-13",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "8:6.9.10.23+dfsg-2.1+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "8:6.9.10.23+dfsg-2.1+deb10u5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0869722-31618B",
+	"debian_bug": 869722,
+	"packages": [
+		{
+			"name": "imagemagick",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "8:6.9.7.4+dfsg-13",
+			"repository": [
+				{
+					"name": "buster-security",
+					"version": "8:6.9.10.23+dfsg-2.1+deb10u5"
+				},
+				{
+					"name": "buster",
+					"version": "8:6.9.10.23+dfsg-2.1+deb10u1"
+				}
+			]
+		}
+	]
 }

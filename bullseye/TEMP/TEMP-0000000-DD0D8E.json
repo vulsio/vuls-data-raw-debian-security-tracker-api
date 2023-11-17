@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-DD0D8E",
-  "packages": [
-    {
-      "name": "rust-ascii",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.9.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-DD0D8E",
+	"packages": [
+		{
+			"name": "rust-ascii",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.9.2-1"
+				}
+			]
+		}
+	]
 }

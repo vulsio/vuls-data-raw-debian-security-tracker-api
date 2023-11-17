@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-56724F",
-  "packages": [
-    {
-      "name": "squid",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "6.5-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "6.5-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-56724F",
+	"packages": [
+		{
+			"name": "squid",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "6.5-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.5-1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0358142-0BC2FF",
-  "debian_bug": 358142,
-  "packages": [
-    {
-      "name": "unixodbc",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.2.11-11",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "2.3.11-2+deb12u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0358142-0BC2FF",
+	"debian_bug": 358142,
+	"packages": [
+		{
+			"name": "unixodbc",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.2.11-11",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "2.3.11-2+deb12u1"
+				}
+			]
+		}
+	]
 }

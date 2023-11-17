@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0846838-9738BD",
-  "debian_bug": 846838,
-  "packages": [
-    {
-      "name": "tiff",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "4.0.7-2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "4.1.0+git191117-2~deb10u4"
-        },
-        {
-          "name": "buster-security",
-          "version": "4.1.0+git191117-2~deb10u8"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0846838-9738BD",
+	"debian_bug": 846838,
+	"packages": [
+		{
+			"name": "tiff",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "4.0.7-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "4.1.0+git191117-2~deb10u4"
+				},
+				{
+					"name": "buster-security",
+					"version": "4.1.0+git191117-2~deb10u8"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0608822-EF2F16",
-  "debian_bug": 608822,
-  "packages": [
-    {
-      "name": "calibre",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.7.38+dfsg-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "5.12.0+dfsg-1+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0608822-EF2F16",
+	"debian_bug": 608822,
+	"packages": [
+		{
+			"name": "calibre",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.7.38+dfsg-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "5.12.0+dfsg-1+deb11u1"
+				}
+			]
+		}
+	]
 }

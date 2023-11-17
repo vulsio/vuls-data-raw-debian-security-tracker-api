@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0368804-259562",
-  "debian_bug": 368804,
-  "packages": [
-    {
-      "name": "ldap-account-manager",
-      "status": "resolved",
-      "urgency": "medium",
-      "fixed_version": "1.0.2-1.1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "8.3-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0368804-259562",
+	"debian_bug": 368804,
+	"packages": [
+		{
+			"name": "ldap-account-manager",
+			"status": "resolved",
+			"urgency": "medium",
+			"fixed_version": "1.0.2-1.1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "8.3-1"
+				}
+			]
+		}
+	]
 }

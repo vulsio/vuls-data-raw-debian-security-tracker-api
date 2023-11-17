@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0497005-A51CB0",
-  "debian_bug": 497005,
-  "packages": [
-    {
-      "name": "gpicview",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0.1.10-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.2.5-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0497005-A51CB0",
+	"debian_bug": 497005,
+	"packages": [
+		{
+			"name": "gpicview",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0.1.10-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.2.5-2"
+				}
+			]
+		}
+	]
 }

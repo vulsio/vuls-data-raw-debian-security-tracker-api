@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0930387-988530",
-  "debian_bug": 930387,
-  "packages": [
-    {
-      "name": "rdesktop",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.8.6-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "1.9.0-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0930387-988530",
+	"debian_bug": 930387,
+	"packages": [
+		{
+			"name": "rdesktop",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.8.6-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.9.0-2"
+				}
+			]
+		}
+	]
 }

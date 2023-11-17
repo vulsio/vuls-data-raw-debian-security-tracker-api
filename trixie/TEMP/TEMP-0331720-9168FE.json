@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0331720-9168FE",
-  "debian_bug": 331720,
-  "packages": [
-    {
-      "name": "adduser",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "3.77",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "3.137"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0331720-9168FE",
+	"debian_bug": 331720,
+	"packages": [
+		{
+			"name": "adduser",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.77",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.137"
+				}
+			]
+		}
+	]
 }

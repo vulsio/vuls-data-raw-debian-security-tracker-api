@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0769606-4AA6CF",
-  "debian_bug": 769606,
-  "packages": [
-    {
-      "name": "perl",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "5.22.0~rc2-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "5.32.1-4+deb11u2"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "5.32.1-4+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0769606-4AA6CF",
+	"debian_bug": 769606,
+	"packages": [
+		{
+			"name": "perl",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "5.22.0~rc2-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "5.32.1-4+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "5.32.1-4+deb11u1"
+				}
+			]
+		}
+	]
 }

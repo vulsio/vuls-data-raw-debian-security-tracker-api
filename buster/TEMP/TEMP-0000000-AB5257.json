@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-AB5257",
-  "packages": [
-    {
-      "name": "dojo",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.4.2+dfsg-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.14.2+dfsg1-1+deb10u2"
-        },
-        {
-          "name": "buster-security",
-          "version": "1.14.2+dfsg1-1+deb10u3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-AB5257",
+	"packages": [
+		{
+			"name": "dojo",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.4.2+dfsg-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.14.2+dfsg1-1+deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.14.2+dfsg1-1+deb10u3"
+				}
+			]
+		}
+	]
 }

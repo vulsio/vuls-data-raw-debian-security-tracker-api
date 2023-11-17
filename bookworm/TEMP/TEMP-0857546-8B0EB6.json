@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0857546-8B0EB6",
-  "debian_bug": 857546,
-  "packages": [
-    {
-      "name": "profanity",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.5.1-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "0.13.1-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0857546-8B0EB6",
+	"debian_bug": 857546,
+	"packages": [
+		{
+			"name": "profanity",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.5.1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "0.13.1-2"
+				}
+			]
+		}
+	]
 }

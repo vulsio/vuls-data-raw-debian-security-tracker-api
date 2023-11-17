@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0375453-4F9189",
-  "debian_bug": 375453,
-  "packages": [
-    {
-      "name": "ldap-account-manager",
-      "status": "resolved",
-      "urgency": "medium",
-      "fixed_version": "1.0.3-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "8.0.1-0+deb11u1"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "8.0.1-0+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0375453-4F9189",
+	"debian_bug": 375453,
+	"packages": [
+		{
+			"name": "ldap-account-manager",
+			"status": "resolved",
+			"urgency": "medium",
+			"fixed_version": "1.0.3-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "8.0.1-0+deb11u1"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "8.0.1-0+deb11u1"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-F4C8D1",
-  "packages": [
-    {
-      "name": "ejabberd",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.1.1-8",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "23.01-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-F4C8D1",
+	"packages": [
+		{
+			"name": "ejabberd",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.1.1-8",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "23.01-1"
+				}
+			]
+		}
+	]
 }

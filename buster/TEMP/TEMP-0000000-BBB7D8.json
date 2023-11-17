@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-BBB7D8",
-  "packages": [
-    {
-      "name": "node-ws",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.0.1+ds1.e6ddaae4-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.1.0+ds1.e6ddaae4-5+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-BBB7D8",
+	"packages": [
+		{
+			"name": "node-ws",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.0.1+ds1.e6ddaae4-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.1.0+ds1.e6ddaae4-5+deb10u1"
+				}
+			]
+		}
+	]
 }

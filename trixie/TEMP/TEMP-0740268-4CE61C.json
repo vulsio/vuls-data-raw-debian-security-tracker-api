@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0740268-4CE61C",
-  "debian_bug": 740268,
-  "packages": [
-    {
-      "name": "mp3gain",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.6.2-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "1.6.2-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0740268-4CE61C",
+	"debian_bug": 740268,
+	"packages": [
+		{
+			"name": "mp3gain",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.6.2-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.6.2-2"
+				}
+			]
+		}
+	]
 }

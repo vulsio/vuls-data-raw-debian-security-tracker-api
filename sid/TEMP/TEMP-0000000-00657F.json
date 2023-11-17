@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-00657F",
-  "packages": [
-    {
-      "name": "pure-ftpd",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.0.21-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.0.50-2.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-00657F",
+	"packages": [
+		{
+			"name": "pure-ftpd",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.0.21-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.0.50-2.1"
+				}
+			]
+		}
+	]
 }

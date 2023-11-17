@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0764814-3B6657",
-  "debian_bug": 764814,
-  "packages": [
-    {
-      "name": "freecad",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.14.3702+dfsg-3",
-      "repository": [
-        {
-          "name": "bullseye-security",
-          "version": "0.19.1+dfsg1-2+deb11u1"
-        },
-        {
-          "name": "bullseye",
-          "version": "0.19.1+dfsg1-2+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0764814-3B6657",
+	"debian_bug": 764814,
+	"packages": [
+		{
+			"name": "freecad",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.14.3702+dfsg-3",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.19.1+dfsg1-2+deb11u1"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "0.19.1+dfsg1-2+deb11u1"
+				}
+			]
+		}
+	]
 }

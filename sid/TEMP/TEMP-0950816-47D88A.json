@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0950816-47D88A",
-  "debian_bug": 950816,
-  "packages": [
-    {
-      "name": "mpv",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.32.0-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.36.0-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0950816-47D88A",
+	"debian_bug": 950816,
+	"packages": [
+		{
+			"name": "mpv",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.32.0-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.36.0-1"
+				}
+			]
+		}
+	]
 }

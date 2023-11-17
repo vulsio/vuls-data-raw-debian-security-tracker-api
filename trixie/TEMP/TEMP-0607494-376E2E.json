@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0607494-376E2E",
-  "debian_bug": 607494,
-  "packages": [
-    {
-      "name": "ftpcopy",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.6.7-3",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.6.7-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0607494-376E2E",
+	"debian_bug": 607494,
+	"packages": [
+		{
+			"name": "ftpcopy",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.6.7-3",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.6.7-6"
+				}
+			]
+		}
+	]
 }

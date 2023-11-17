@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0296112-517ED6",
-  "debian_bug": 296112,
-  "packages": [
-    {
-      "name": "libnet-ssleay-perl",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.25-1.1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.85-2+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0296112-517ED6",
+	"debian_bug": 296112,
+	"packages": [
+		{
+			"name": "libnet-ssleay-perl",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.25-1.1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.85-2+deb10u1"
+				}
+			]
+		}
+	]
 }

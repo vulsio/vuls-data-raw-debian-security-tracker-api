@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0306076-4B7D89",
-  "debian_bug": 306076,
-  "packages": [
-    {
-      "name": "coreutils",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "5.93-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "9.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0306076-4B7D89",
+	"debian_bug": 306076,
+	"packages": [
+		{
+			"name": "coreutils",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "5.93-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "9.1-1"
+				}
+			]
+		}
+	]
 }

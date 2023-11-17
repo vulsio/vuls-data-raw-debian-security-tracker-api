@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0425254-0F9CE1",
-  "debian_bug": 425254,
-  "packages": [
-    {
-      "name": "wdiff",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.5-18",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "1.2.2-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0425254-0F9CE1",
+	"debian_bug": 425254,
+	"packages": [
+		{
+			"name": "wdiff",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.5-18",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.2.2-6"
+				}
+			]
+		}
+	]
 }

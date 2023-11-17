@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-BC4C2F",
-  "packages": [
-    {
-      "name": "nautilus",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "45.0-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-BC4C2F",
+	"packages": [
+		{
+			"name": "nautilus",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "45.0-2"
+				}
+			]
+		}
+	]
 }

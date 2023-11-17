@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-0EB5E1",
-  "packages": [
-    {
-      "name": "node-d3-color",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.0.3-4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-0EB5E1",
+	"packages": [
+		{
+			"name": "node-d3-color",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.0.3-4"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-3A226A",
-  "packages": [
-    {
-      "name": "rust-remove-dir-all",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.5.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-3A226A",
+	"packages": [
+		{
+			"name": "rust-remove-dir-all",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.5.2-1"
+				}
+			]
+		}
+	]
 }

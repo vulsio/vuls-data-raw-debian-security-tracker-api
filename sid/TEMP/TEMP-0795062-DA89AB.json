@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0795062-DA89AB",
-  "debian_bug": 795062,
-  "packages": [
-    {
-      "name": "publicfile-installer",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.11-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.15"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0795062-DA89AB",
+	"debian_bug": 795062,
+	"packages": [
+		{
+			"name": "publicfile-installer",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.11-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.15"
+				}
+			]
+		}
+	]
 }

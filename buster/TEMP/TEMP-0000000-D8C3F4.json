@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-D8C3F4",
-  "packages": [
-    {
-      "name": "gst-libav1.0",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.15.0.1+git20180723+db823502-2+deb10u1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.15.0.1+git20180723+db823502-2+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "1.15.0.1+git20180723+db823502-2+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-D8C3F4",
+	"packages": [
+		{
+			"name": "gst-libav1.0",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.15.0.1+git20180723+db823502-2+deb10u1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.15.0.1+git20180723+db823502-2+deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.15.0.1+git20180723+db823502-2+deb10u1"
+				}
+			]
+		}
+	]
 }

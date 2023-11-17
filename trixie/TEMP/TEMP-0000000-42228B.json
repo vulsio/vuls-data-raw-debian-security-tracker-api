@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-42228B",
-  "packages": [
-    {
-      "name": "spip",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.1.11-0.1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "4.1.12+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-42228B",
+	"packages": [
+		{
+			"name": "spip",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.1.11-0.1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "4.1.12+dfsg-1"
+				}
+			]
+		}
+	]
 }

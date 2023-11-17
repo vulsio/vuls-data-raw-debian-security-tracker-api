@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0902726-3BBE24",
-  "debian_bug": 902726,
-  "packages": [
-    {
-      "name": "gitlab",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "10.7.7+dfsg-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "16.0.8+ds1-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0902726-3BBE24",
+	"debian_bug": 902726,
+	"packages": [
+		{
+			"name": "gitlab",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "10.7.7+dfsg-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "16.0.8+ds1-2"
+				}
+			]
+		}
+	]
 }

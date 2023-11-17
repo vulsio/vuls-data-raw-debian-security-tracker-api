@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-FD1F92",
-  "packages": [
-    {
-      "name": "node-send",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0.16.2-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.16.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-FD1F92",
+	"packages": [
+		{
+			"name": "node-send",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0.16.2-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.16.2-1"
+				}
+			]
+		}
+	]
 }

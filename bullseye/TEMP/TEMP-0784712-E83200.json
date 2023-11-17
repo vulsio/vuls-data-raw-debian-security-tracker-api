@@ -1,42 +1,42 @@
 {
-  "id": "TEMP-0784712-E83200",
-  "debian_bug": 784712,
-  "packages": [
-    {
-      "name": "mew",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:6.6-3",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1:6.8-13"
-        }
-      ]
-    },
-    {
-      "name": "semi",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.14.7~0.20120428-17",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.14.7~0.20201115-2"
-        }
-      ]
-    },
-    {
-      "name": "mew-beta",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "7.0.50~6.6+0.20150508-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "7.0.50~6.8+0.20210131-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0784712-E83200",
+	"debian_bug": 784712,
+	"packages": [
+		{
+			"name": "mew-beta",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "7.0.50~6.6+0.20150508-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "7.0.50~6.8+0.20210131-2"
+				}
+			]
+		},
+		{
+			"name": "mew",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:6.6-3",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1:6.8-13"
+				}
+			]
+		},
+		{
+			"name": "semi",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.14.7~0.20120428-17",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.14.7~0.20201115-2"
+				}
+			]
+		}
+	]
 }

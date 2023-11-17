@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0783347-AEABE2",
-  "debian_bug": 783347,
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.2+dfsg-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "5.0.15+dfsg1-0+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "5.0.19+dfsg1-0+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0783347-AEABE2",
+	"debian_bug": 783347,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.2+dfsg-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.0.15+dfsg1-0+deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "5.0.19+dfsg1-0+deb10u1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0876540-D98160",
-  "debian_bug": 876540,
-  "packages": [
-    {
-      "name": "pcb-rnd",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.2.5-2",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "3.0.6-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0876540-D98160",
+	"debian_bug": 876540,
+	"packages": [
+		{
+			"name": "pcb-rnd",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.2.5-2",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.0.6-1"
+				}
+			]
+		}
+	]
 }

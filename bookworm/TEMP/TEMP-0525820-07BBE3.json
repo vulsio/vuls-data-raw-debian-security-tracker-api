@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0525820-07BBE3",
-  "debian_bug": 525820,
-  "packages": [
-    {
-      "name": "file",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.03-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1:5.44-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0525820-07BBE3",
+	"debian_bug": 525820,
+	"packages": [
+		{
+			"name": "file",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.03-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1:5.44-3"
+				}
+			]
+		}
+	]
 }

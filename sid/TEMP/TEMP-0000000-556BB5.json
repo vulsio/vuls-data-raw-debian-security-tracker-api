@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-556BB5",
-  "packages": [
-    {
-      "name": "tor",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.4.8.9-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.4.8.9-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-556BB5",
+	"packages": [
+		{
+			"name": "tor",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.4.8.9-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.4.8.9-1"
+				}
+			]
+		}
+	]
 }

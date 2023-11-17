@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-1BAE4D",
-  "packages": [
-    {
-      "name": "gnutls28",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "3.4.14-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "3.7.1-5+deb11u3"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "3.7.1-5+deb11u3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-1BAE4D",
+	"packages": [
+		{
+			"name": "gnutls28",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "3.4.14-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.7.1-5+deb11u3"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "3.7.1-5+deb11u3"
+				}
+			]
+		}
+	]
 }

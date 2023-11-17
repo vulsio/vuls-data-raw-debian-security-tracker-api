@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-E6792F",
-  "packages": [
-    {
-      "name": "irssi",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.0.1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.4.5-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-E6792F",
+	"packages": [
+		{
+			"name": "irssi",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.0.1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.4.5-1"
+				}
+			]
+		}
+	]
 }

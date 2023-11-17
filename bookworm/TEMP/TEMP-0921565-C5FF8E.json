@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0921565-C5FF8E",
-  "debian_bug": 921565,
-  "packages": [
-    {
-      "name": "netmask",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "2.4.4-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "2.4.4-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0921565-C5FF8E",
+	"debian_bug": 921565,
+	"packages": [
+		{
+			"name": "netmask",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "2.4.4-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "2.4.4-3"
+				}
+			]
+		}
+	]
 }

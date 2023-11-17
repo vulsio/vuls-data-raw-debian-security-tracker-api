@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0785364-25992B",
-  "debian_bug": 785364,
-  "packages": [
-    {
-      "name": "php-horde",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.2.5+debian0-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "5.2.23+debian0-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0785364-25992B",
+	"debian_bug": 785364,
+	"packages": [
+		{
+			"name": "php-horde",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.2.5+debian0-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "5.2.23+debian0-6"
+				}
+			]
+		}
+	]
 }

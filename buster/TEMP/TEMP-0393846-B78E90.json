@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0393846-B78E90",
-  "debian_bug": 393846,
-  "packages": [
-    {
-      "name": "motion",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "3.2.3-2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "4.1.1-1.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0393846-B78E90",
+	"debian_bug": 393846,
+	"packages": [
+		{
+			"name": "motion",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.2.3-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "4.1.1-1.1"
+				}
+			]
+		}
+	]
 }

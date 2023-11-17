@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-4DAA44",
-  "packages": [
-    {
-      "name": "gst-plugins-ugly1.0",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.18.4-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.22.6-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-4DAA44",
+	"packages": [
+		{
+			"name": "gst-plugins-ugly1.0",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.18.4-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.22.6-1"
+				}
+			]
+		}
+	]
 }

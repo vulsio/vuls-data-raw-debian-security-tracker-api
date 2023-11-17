@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0298929-838146",
-  "debian_bug": 298929,
-  "packages": [
-    {
-      "name": "distcc",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.18.3-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "3.3.2-10+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0298929-838146",
+	"debian_bug": 298929,
+	"packages": [
+		{
+			"name": "distcc",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.18.3-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.3.2-10+deb10u1"
+				}
+			]
+		}
+	]
 }

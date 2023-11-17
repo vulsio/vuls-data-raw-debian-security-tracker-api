@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0531735-61C2C9",
-  "debian_bug": 531735,
-  "packages": [
-    {
-      "name": "ocsinventory-server",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.02.1-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "2.8.1+dfsg1+~2.11.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0531735-61C2C9",
+	"debian_bug": 531735,
+	"packages": [
+		{
+			"name": "ocsinventory-server",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.02.1-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2.8.1+dfsg1+~2.11.1-1"
+				}
+			]
+		}
+	]
 }

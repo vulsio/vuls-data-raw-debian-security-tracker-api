@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-3E4AC3",
-  "packages": [
-    {
-      "name": "plinth",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "19.1+deb10u2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "19.1+deb10u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-3E4AC3",
+	"packages": [
+		{
+			"name": "plinth",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "19.1+deb10u2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "19.1+deb10u2"
+				}
+			]
+		}
+	]
 }

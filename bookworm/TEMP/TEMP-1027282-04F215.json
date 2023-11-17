@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1027282-04F215",
-  "debian_bug": 1027282,
-  "packages": [
-    {
-      "name": "rust-prettytable-rs",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.10.0-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "0.10.0-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1027282-04F215",
+	"debian_bug": 1027282,
+	"packages": [
+		{
+			"name": "rust-prettytable-rs",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.10.0-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "0.10.0-1"
+				}
+			]
+		}
+	]
 }

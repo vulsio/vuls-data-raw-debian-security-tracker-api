@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0216566-EA84C5",
-  "debian_bug": 216566,
-  "packages": [
-    {
-      "name": "mpack",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.6-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "1.6-18"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0216566-EA84C5",
+	"debian_bug": 216566,
+	"packages": [
+		{
+			"name": "mpack",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.6-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.6-18"
+				}
+			]
+		}
+	]
 }

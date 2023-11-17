@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-1050298-39CD6D",
-  "debian_bug": 1050298,
-  "packages": [
-    {
-      "name": "rust-rustls-webpki",
-      "status": "open",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.101.7-2.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1050298-39CD6D",
+	"debian_bug": 1050298,
+	"packages": [
+		{
+			"name": "rust-rustls-webpki",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.101.7-2.1"
+				}
+			]
+		}
+	]
 }

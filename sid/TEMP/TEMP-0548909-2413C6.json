@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0548909-2413C6",
-  "debian_bug": 548909,
-  "packages": [
-    {
-      "name": "xen-tools",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "4.2~beta1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.9.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0548909-2413C6",
+	"debian_bug": 548909,
+	"packages": [
+		{
+			"name": "xen-tools",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.2~beta1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.9.2-1"
+				}
+			]
+		}
+	]
 }

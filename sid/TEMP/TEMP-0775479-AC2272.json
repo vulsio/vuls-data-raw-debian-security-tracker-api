@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0775479-AC2272",
-  "debian_bug": 775479,
-  "packages": [
-    {
-      "name": "phabricator",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0~git20150129-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0~git20220903-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0775479-AC2272",
+	"debian_bug": 775479,
+	"packages": [
+		{
+			"name": "phabricator",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0~git20150129-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0~git20220903-2"
+				}
+			]
+		}
+	]
 }

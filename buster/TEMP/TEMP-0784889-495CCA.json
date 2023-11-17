@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0784889-495CCA",
-  "debian_bug": 784889,
-  "packages": [
-    {
-      "name": "pdf2djvu",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.7.21-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.9.12-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0784889-495CCA",
+	"debian_bug": 784889,
+	"packages": [
+		{
+			"name": "pdf2djvu",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.7.21-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.9.12-1"
+				}
+			]
+		}
+	]
 }

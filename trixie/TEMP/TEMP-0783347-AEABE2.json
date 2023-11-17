@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0783347-AEABE2",
-  "debian_bug": 783347,
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.2+dfsg-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "6.3.2+dfsg1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0783347-AEABE2",
+	"debian_bug": 783347,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.2+dfsg-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.3.2+dfsg1-1"
+				}
+			]
+		}
+	]
 }

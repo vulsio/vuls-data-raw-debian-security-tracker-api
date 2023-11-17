@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0321447-C22A86",
-  "debian_bug": 321447,
-  "packages": [
-    {
-      "name": "x11-apps",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "7.7~1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "7.7+7"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0321447-C22A86",
+	"debian_bug": 321447,
+	"packages": [
+		{
+			"name": "x11-apps",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "7.7~1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "7.7+7"
+				}
+			]
+		}
+	]
 }

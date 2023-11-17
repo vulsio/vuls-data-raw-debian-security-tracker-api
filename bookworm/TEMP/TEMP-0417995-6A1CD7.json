@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0417995-6A1CD7",
-  "debian_bug": 417995,
-  "packages": [
-    {
-      "name": "initramfs-tools",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.85g",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "0.142"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0417995-6A1CD7",
+	"debian_bug": 417995,
+	"packages": [
+		{
+			"name": "initramfs-tools",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.85g",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "0.142"
+				}
+			]
+		}
+	]
 }

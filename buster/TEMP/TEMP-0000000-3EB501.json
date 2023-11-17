@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-3EB501",
-  "packages": [
-    {
-      "name": "obexftp",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.10.7-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.24-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-3EB501",
+	"packages": [
+		{
+			"name": "obexftp",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.10.7-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.24-5"
+				}
+			]
+		}
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-0CA7E3",
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "5.7.8+dfsg1-0+deb11u2"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "5.7.8+dfsg1-0+deb11u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-0CA7E3",
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "5.7.8+dfsg1-0+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "5.7.8+dfsg1-0+deb11u2"
+				}
+			]
+		}
+	]
 }

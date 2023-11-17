@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0805638-5AC56F",
-  "debian_bug": 805638,
-  "packages": [
-    {
-      "name": "dbconfig-common",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.8.58",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "2.0.24"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0805638-5AC56F",
+	"debian_bug": 805638,
+	"packages": [
+		{
+			"name": "dbconfig-common",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.8.58",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "2.0.24"
+				}
+			]
+		}
+	]
 }

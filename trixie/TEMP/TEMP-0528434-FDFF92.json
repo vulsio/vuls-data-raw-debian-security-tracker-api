@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0528434-FDFF92",
-  "debian_bug": 528434,
-  "packages": [
-    {
-      "name": "cron",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "3.0pl1-106",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "3.0pl1-178"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0528434-FDFF92",
+	"debian_bug": 528434,
+	"packages": [
+		{
+			"name": "cron",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.0pl1-106",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.0pl1-178"
+				}
+			]
+		}
+	]
 }

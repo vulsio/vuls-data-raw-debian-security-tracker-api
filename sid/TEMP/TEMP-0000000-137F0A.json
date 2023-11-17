@@ -1,16 +1,16 @@
 {
-  "id": "TEMP-0000000-137F0A",
-  "packages": [
-    {
-      "name": "mustache.js",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "3.0.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-137F0A",
+	"packages": [
+		{
+			"name": "mustache.js",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "3.0.1-1"
+				}
+			]
+		}
+	]
 }

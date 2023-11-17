@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-E57E4E",
-  "packages": [
-    {
-      "name": "opensmtpd",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.7.3p1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "7.3.0p2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-E57E4E",
+	"packages": [
+		{
+			"name": "opensmtpd",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.7.3p1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "7.3.0p2-1"
+				}
+			]
+		}
+	]
 }

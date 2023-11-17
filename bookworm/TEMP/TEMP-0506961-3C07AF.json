@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0506961-3C07AF",
-  "debian_bug": 506961,
-  "packages": [
-    {
-      "name": "auctex",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "11.83-7.3",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "12.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0506961-3C07AF",
+	"debian_bug": 506961,
+	"packages": [
+		{
+			"name": "auctex",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "11.83-7.3",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "12.2-1"
+				}
+			]
+		}
+	]
 }

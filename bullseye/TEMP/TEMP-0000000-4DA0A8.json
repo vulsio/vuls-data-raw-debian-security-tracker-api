@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-4DA0A8",
-  "packages": [
-    {
-      "name": "dbus",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.10.12-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.12.28-0+deb11u1"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "1.12.24-0+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-4DA0A8",
+	"packages": [
+		{
+			"name": "dbus",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.10.12-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.12.28-0+deb11u1"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "1.12.24-0+deb11u1"
+				}
+			]
+		}
+	]
 }

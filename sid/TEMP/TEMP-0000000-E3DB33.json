@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-E3DB33",
-  "packages": [
-    {
-      "name": "freeciv",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.0.1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "3.0.8-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-E3DB33",
+	"packages": [
+		{
+			"name": "freeciv",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.0.1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "3.0.8-1"
+				}
+			]
+		}
+	]
 }

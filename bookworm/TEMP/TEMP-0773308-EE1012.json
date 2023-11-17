@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0773308-EE1012",
-  "debian_bug": 773308,
-  "packages": [
-    {
-      "name": "ht",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.1.0-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "2.1.0+repack1-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0773308-EE1012",
+	"debian_bug": 773308,
+	"packages": [
+		{
+			"name": "ht",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.1.0-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "2.1.0+repack1-5"
+				}
+			]
+		}
+	]
 }

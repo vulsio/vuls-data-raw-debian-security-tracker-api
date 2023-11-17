@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0786423-948688",
-  "debian_bug": 786423,
-  "packages": [
-    {
-      "name": "rsync",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "3.1.2-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "3.2.3-4+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0786423-948688",
+	"debian_bug": 786423,
+	"packages": [
+		{
+			"name": "rsync",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.1.2-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.2.3-4+deb11u1"
+				}
+			]
+		}
+	]
 }

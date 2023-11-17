@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-C1FFDC",
-  "packages": [
-    {
-      "name": "rust-sequoia-openpgp",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1.12.0-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-C1FFDC",
+	"packages": [
+		{
+			"name": "rust-sequoia-openpgp",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.12.0-2"
+				}
+			]
+		}
+	]
 }

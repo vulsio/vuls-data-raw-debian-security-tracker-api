@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0774769-57BAAA",
-  "debian_bug": 774769,
-  "packages": [
-    {
-      "name": "lftp",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "4.6.1-2",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "4.9.2-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0774769-57BAAA",
+	"debian_bug": 774769,
+	"packages": [
+		{
+			"name": "lftp",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.6.1-2",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "4.9.2-2"
+				}
+			]
+		}
+	]
 }

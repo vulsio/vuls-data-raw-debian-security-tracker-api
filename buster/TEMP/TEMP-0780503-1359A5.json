@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0780503-1359A5",
-  "debian_bug": 780503,
-  "packages": [
-    {
-      "name": "icu",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "52.1-8",
-      "repository": [
-        {
-          "name": "buster-security",
-          "version": "63.1-6+deb10u2"
-        },
-        {
-          "name": "buster",
-          "version": "63.1-6+deb10u3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0780503-1359A5",
+	"debian_bug": 780503,
+	"packages": [
+		{
+			"name": "icu",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "52.1-8",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "63.1-6+deb10u3"
+				},
+				{
+					"name": "buster-security",
+					"version": "63.1-6+deb10u2"
+				}
+			]
+		}
+	]
 }

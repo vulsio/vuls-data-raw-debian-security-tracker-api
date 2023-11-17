@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-DEED53",
-  "packages": [
-    {
-      "name": "unrar-free",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:0.0.1-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1:0.1.3-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-DEED53",
+	"packages": [
+		{
+			"name": "unrar-free",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:0.0.1-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1:0.1.3-1"
+				}
+			]
+		}
+	]
 }

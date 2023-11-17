@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0869722-31618B",
-  "debian_bug": 869722,
-  "packages": [
-    {
-      "name": "imagemagick",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "8:6.9.7.4+dfsg-13",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "8:6.9.11.60+dfsg-1.6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0869722-31618B",
+	"debian_bug": 869722,
+	"packages": [
+		{
+			"name": "imagemagick",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "8:6.9.7.4+dfsg-13",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "8:6.9.11.60+dfsg-1.6"
+				}
+			]
+		}
+	]
 }

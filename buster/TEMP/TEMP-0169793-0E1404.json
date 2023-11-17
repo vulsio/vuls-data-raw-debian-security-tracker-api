@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0169793-0E1404",
-  "debian_bug": 169793,
-  "packages": [
-    {
-      "name": "libnss-ldap",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "199-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "265-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0169793-0E1404",
+	"debian_bug": 169793,
+	"packages": [
+		{
+			"name": "libnss-ldap",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "199-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "265-5"
+				}
+			]
+		}
+	]
 }

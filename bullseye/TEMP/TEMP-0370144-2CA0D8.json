@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0370144-2CA0D8",
-  "debian_bug": 370144,
-  "packages": [
-    {
-      "name": "mkvtoolnix",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.7.0-2",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "54.0.0+really52.0.0-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0370144-2CA0D8",
+	"debian_bug": 370144,
+	"packages": [
+		{
+			"name": "mkvtoolnix",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.7.0-2",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "54.0.0+really52.0.0-3"
+				}
+			]
+		}
+	]
 }

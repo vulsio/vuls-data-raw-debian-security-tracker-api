@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-076325",
-  "packages": [
-    {
-      "name": "rust-enumflags2",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.7.7-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-076325",
+	"packages": [
+		{
+			"name": "rust-enumflags2",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.7.8-1"
+				}
+			]
+		}
+	]
 }

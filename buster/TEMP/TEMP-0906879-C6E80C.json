@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0906879-C6E80C",
-  "debian_bug": 906879,
-  "packages": [
-    {
-      "name": "charybdis",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.1.1-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "4.1.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0906879-C6E80C",
+	"debian_bug": 906879,
+	"packages": [
+		{
+			"name": "charybdis",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.1.1-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "4.1.1-1"
+				}
+			]
+		}
+	]
 }

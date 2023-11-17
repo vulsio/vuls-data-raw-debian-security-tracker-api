@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-8F74CD",
-  "packages": [
-    {
-      "name": "lintian",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.23.28",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "2.15.0"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-8F74CD",
+	"packages": [
+		{
+			"name": "lintian",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.23.28",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.15.0"
+				}
+			]
+		}
+	]
 }

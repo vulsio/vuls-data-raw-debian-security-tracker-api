@@ -1,16 +1,16 @@
 {
-  "id": "TEMP-0000000-07A77D",
-  "packages": [
-    {
-      "name": "php-gettext",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1.0.12-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-07A77D",
+	"packages": [
+		{
+			"name": "php-gettext",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.0.12-5"
+				}
+			]
+		}
+	]
 }

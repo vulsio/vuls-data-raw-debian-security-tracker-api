@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-1F321D",
-  "packages": [
-    {
-      "name": "haproxy",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.5.12-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "2.6.15-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-1F321D",
+	"packages": [
+		{
+			"name": "haproxy",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.5.12-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2.6.15-1"
+				}
+			]
+		}
+	]
 }

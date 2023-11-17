@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-DD73A0",
-  "packages": [
-    {
-      "name": "php-laravel-framework",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "6.20.14+dfsg-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "6.20.14+dfsg-2+deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-DD73A0",
+	"packages": [
+		{
+			"name": "php-laravel-framework",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.20.14+dfsg-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "6.20.14+dfsg-2+deb11u1"
+				}
+			]
+		}
+	]
 }

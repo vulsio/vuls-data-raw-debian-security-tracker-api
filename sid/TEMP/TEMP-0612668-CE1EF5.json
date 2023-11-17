@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0612668-CE1EF5",
-  "debian_bug": 612668,
-  "packages": [
-    {
-      "name": "evince",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.30.3-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "45.0-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0612668-CE1EF5",
+	"debian_bug": 612668,
+	"packages": [
+		{
+			"name": "evince",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.30.3-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "45.0-1"
+				}
+			]
+		}
+	]
 }

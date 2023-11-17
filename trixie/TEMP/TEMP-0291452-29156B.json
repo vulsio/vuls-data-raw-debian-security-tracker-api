@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0291452-29156B",
-  "debian_bug": 291452,
-  "packages": [
-    {
-      "name": "ghostscript",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "8.61.dfsg.1~svn8187-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "10.02.1~dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0291452-29156B",
+	"debian_bug": 291452,
+	"packages": [
+		{
+			"name": "ghostscript",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "8.61.dfsg.1~svn8187-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "10.02.1~dfsg-1"
+				}
+			]
+		}
+	]
 }

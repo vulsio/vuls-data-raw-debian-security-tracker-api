@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0904191-9063D5",
-  "debian_bug": 904191,
-  "packages": [
-    {
-      "name": "ant",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.10.5-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1.10.13-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0904191-9063D5",
+	"debian_bug": 904191,
+	"packages": [
+		{
+			"name": "ant",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.10.5-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.10.13-1"
+				}
+			]
+		}
+	]
 }

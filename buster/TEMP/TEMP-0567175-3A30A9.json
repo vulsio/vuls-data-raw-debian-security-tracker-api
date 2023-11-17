@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0567175-3A30A9",
-  "debian_bug": 567175,
-  "packages": [
-    {
-      "name": "ganglia",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "3.1.2-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "3.6.0-7"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0567175-3A30A9",
+	"debian_bug": 567175,
+	"packages": [
+		{
+			"name": "ganglia",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.1.2-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.6.0-7"
+				}
+			]
+		}
+	]
 }

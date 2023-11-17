@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-37DBC3",
-  "packages": [
-    {
-      "name": "lighttpd",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.4.39-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.4.59-1+deb11u2"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "1.4.59-1+deb11u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-37DBC3",
+	"packages": [
+		{
+			"name": "lighttpd",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.4.39-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.4.59-1+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "1.4.59-1+deb11u2"
+				}
+			]
+		}
+	]
 }

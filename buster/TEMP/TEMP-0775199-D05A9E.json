@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0775199-D05A9E",
-  "debian_bug": 775199,
-  "packages": [
-    {
-      "name": "mutt",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.5.24-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.10.1-2.1+deb10u6"
-        },
-        {
-          "name": "buster-security",
-          "version": "1.10.1-2.1+deb10u7"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0775199-D05A9E",
+	"debian_bug": 775199,
+	"packages": [
+		{
+			"name": "mutt",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.5.24-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.10.1-2.1+deb10u6"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.10.1-2.1+deb10u7"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-CD327C",
-  "packages": [
-    {
-      "name": "remctl",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.2-2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "3.15-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-CD327C",
+	"packages": [
+		{
+			"name": "remctl",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.2-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.15-1"
+				}
+			]
+		}
+	]
 }

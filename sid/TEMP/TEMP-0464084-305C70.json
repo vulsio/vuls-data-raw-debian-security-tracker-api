@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0464084-305C70",
-  "debian_bug": 464084,
-  "packages": [
-    {
-      "name": "greylistd",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.8.7+nmu2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.9.0.2+nmu1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0464084-305C70",
+	"debian_bug": 464084,
+	"packages": [
+		{
+			"name": "greylistd",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.7+nmu2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.9.0.2+nmu1"
+				}
+			]
+		}
+	]
 }

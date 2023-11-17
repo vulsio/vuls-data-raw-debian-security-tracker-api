@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0464778-7EAAA3",
-  "debian_bug": 464778,
-  "packages": [
-    {
-      "name": "tdiary",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.2.0-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "5.2.3-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0464778-7EAAA3",
+	"debian_bug": 464778,
+	"packages": [
+		{
+			"name": "tdiary",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.2.0-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "5.2.3-2"
+				}
+			]
+		}
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-C6AAE1",
-  "packages": [
-    {
-      "name": "gst-plugins-bad1.0",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.14.4-1+deb10u2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.14.4-1+deb10u2"
-        },
-        {
-          "name": "buster-security",
-          "version": "1.14.4-1+deb10u4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-C6AAE1",
+	"packages": [
+		{
+			"name": "gst-plugins-bad1.0",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.14.4-1+deb10u2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.14.4-1+deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.14.4-1+deb10u4"
+				}
+			]
+		}
+	]
 }

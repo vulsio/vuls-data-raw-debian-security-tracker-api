@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0846838-9738BD",
-  "debian_bug": 846838,
-  "packages": [
-    {
-      "name": "tiff",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "4.0.7-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.5.1+git230720-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0846838-9738BD",
+	"debian_bug": 846838,
+	"packages": [
+		{
+			"name": "tiff",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "4.0.7-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.5.1+git230720-1"
+				}
+			]
+		}
+	]
 }

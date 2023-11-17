@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-3E4AC3",
-  "packages": [
-    {
-      "name": "freedombox",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "21.4.2",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "21.4.4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-3E4AC3",
+	"packages": [
+		{
+			"name": "freedombox",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "21.4.2",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "21.4.4"
+				}
+			]
+		}
+	]
 }

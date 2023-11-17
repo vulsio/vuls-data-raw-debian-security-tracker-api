@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1007145-ABA7D9",
-  "debian_bug": 1007005,
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.9.2+dfsg1-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "6.1.1+dfsg1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1007145-ABA7D9",
+	"debian_bug": 1007005,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.9.2+dfsg1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "6.1.1+dfsg1-1"
+				}
+			]
+		}
+	]
 }

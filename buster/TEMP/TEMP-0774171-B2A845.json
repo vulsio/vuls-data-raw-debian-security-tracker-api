@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0774171-B2A845",
-  "debian_bug": 774171,
-  "packages": [
-    {
-      "name": "unrar-nonfree",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:5.2.7-0.1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1:5.6.6-1+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "1:5.6.6-1+deb10u4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0774171-B2A845",
+	"debian_bug": 774171,
+	"packages": [
+		{
+			"name": "unrar-nonfree",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:5.2.7-0.1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:5.6.6-1+deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "1:5.6.6-1+deb10u4"
+				}
+			]
+		}
+	]
 }

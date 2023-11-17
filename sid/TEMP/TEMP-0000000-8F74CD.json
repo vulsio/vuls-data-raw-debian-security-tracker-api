@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-8F74CD",
-  "packages": [
-    {
-      "name": "lintian",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.23.28",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "2.116.3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-8F74CD",
+	"packages": [
+		{
+			"name": "lintian",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.23.28",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "2.116.3"
+				}
+			]
+		}
+	]
 }

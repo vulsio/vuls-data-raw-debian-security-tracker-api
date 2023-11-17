@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0811308-B63DA1",
-  "debian_bug": 811308,
-  "packages": [
-    {
-      "name": "imagemagick",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "8:6.8.9.9-7",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "8:6.9.12.98+dfsg1-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0811308-B63DA1",
+	"debian_bug": 811308,
+	"packages": [
+		{
+			"name": "imagemagick",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "8:6.8.9.9-7",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "8:6.9.12.98+dfsg1-3"
+				}
+			]
+		}
+	]
 }

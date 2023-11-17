@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0745580-D90EF4",
-  "debian_bug": 745580,
-  "packages": [
-    {
-      "name": "virtualenvwrapper",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "4.3-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "4.8.4-4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0745580-D90EF4",
+	"debian_bug": 745580,
+	"packages": [
+		{
+			"name": "virtualenvwrapper",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.3-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "4.8.4-4"
+				}
+			]
+		}
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-8B87A6",
-  "packages": [
-    {
-      "name": "mediawiki",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:1.27.0-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1:1.35.11-1~deb11u1"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "1:1.35.13-1~deb11u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-8B87A6",
+	"packages": [
+		{
+			"name": "mediawiki",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:1.27.0-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1:1.35.11-1~deb11u1"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "1:1.35.13-1~deb11u1"
+				}
+			]
+		}
+	]
 }

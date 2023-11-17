@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0504726-7A5872",
-  "debian_bug": 504726,
-  "packages": [
-    {
-      "name": "universalindentgui",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.8.1-1.2",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.2.0-1.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0504726-7A5872",
+	"debian_bug": 504726,
+	"packages": [
+		{
+			"name": "universalindentgui",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.1-1.2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.2.0-1.1"
+				}
+			]
+		}
+	]
 }

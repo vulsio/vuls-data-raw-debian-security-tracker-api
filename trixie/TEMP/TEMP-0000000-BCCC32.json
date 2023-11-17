@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-BCCC32",
-  "packages": [
-    {
-      "name": "vlc",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "3.0.16-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "3.0.20-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-BCCC32",
+	"packages": [
+		{
+			"name": "vlc",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "3.0.16-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.0.20-1"
+				}
+			]
+		}
+	]
 }

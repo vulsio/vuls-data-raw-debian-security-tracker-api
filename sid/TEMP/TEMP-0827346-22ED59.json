@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0827346-22ED59",
-  "debian_bug": 760455,
-  "packages": [
-    {
-      "name": "automake1.11",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1:1.11.6-4",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1:1.11.6-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0827346-22ED59",
+	"debian_bug": 760455,
+	"packages": [
+		{
+			"name": "automake1.11",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1:1.11.6-4",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1:1.11.6-6"
+				}
+			]
+		}
+	]
 }

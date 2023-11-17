@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0484639-8D3138",
-  "debian_bug": 484639,
-  "packages": [
-    {
-      "name": "evolution",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.22.2-1.1",
-      "repository": [
-        {
-          "name": "bullseye-security",
-          "version": "3.38.3-1+deb11u2"
-        },
-        {
-          "name": "bullseye",
-          "version": "3.38.3-1+deb11u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0484639-8D3138",
+	"debian_bug": 484639,
+	"packages": [
+		{
+			"name": "evolution",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.22.2-1.1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.38.3-1+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "3.38.3-1+deb11u2"
+				}
+			]
+		}
+	]
 }

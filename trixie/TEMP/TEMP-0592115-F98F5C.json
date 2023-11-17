@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0592115-F98F5C",
-  "debian_bug": 592115,
-  "packages": [
-    {
-      "name": "dpkg",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.15.1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "1.22.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0592115-F98F5C",
+	"debian_bug": 592115,
+	"packages": [
+		{
+			"name": "dpkg",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.15.1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.22.1"
+				}
+			]
+		}
+	]
 }

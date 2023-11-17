@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1052200-1C589C",
-  "debian_bug": 1052200,
-  "packages": [
-    {
-      "name": "electrum",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "4.0.9-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1052200-1C589C",
+	"debian_bug": 1052200,
+	"packages": [
+		{
+			"name": "electrum",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "4.0.9-1"
+				}
+			]
+		}
+	]
 }

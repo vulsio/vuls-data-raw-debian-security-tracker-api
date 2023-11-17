@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0683667-E2E855",
-  "debian_bug": 683667,
-  "packages": [
-    {
-      "name": "spip",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.1.17-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "4.1.12+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0683667-E2E855",
+	"debian_bug": 683667,
+	"packages": [
+		{
+			"name": "spip",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.1.17-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "4.1.12+dfsg-1"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-C6840A",
-  "packages": [
-    {
-      "name": "rust-crossbeam",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.7.2-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-C6840A",
+	"packages": [
+		{
+			"name": "rust-crossbeam",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.7.2-3"
+				}
+			]
+		}
+	]
 }

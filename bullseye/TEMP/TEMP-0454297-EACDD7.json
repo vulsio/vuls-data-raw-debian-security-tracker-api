@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0454297-EACDD7",
-  "debian_bug": 454297,
-  "packages": [
-    {
-      "name": "exempi",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.99.7-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "2.5.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0454297-EACDD7",
+	"debian_bug": 454297,
+	"packages": [
+		{
+			"name": "exempi",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.99.7-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "2.5.2-1"
+				}
+			]
+		}
+	]
 }

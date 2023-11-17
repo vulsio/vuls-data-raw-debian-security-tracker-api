@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0608822-E0260C",
-  "debian_bug": 608822,
-  "packages": [
-    {
-      "name": "calibre",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.7.38+dfsg-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "3.39.1+dfsg-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0608822-E0260C",
+	"debian_bug": 608822,
+	"packages": [
+		{
+			"name": "calibre",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.7.38+dfsg-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.39.1+dfsg-3"
+				}
+			]
+		}
+	]
 }

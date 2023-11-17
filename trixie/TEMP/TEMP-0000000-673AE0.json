@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-673AE0",
-  "packages": [
-    {
-      "name": "ikiwiki",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.42",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "3.20200202.3-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-673AE0",
+	"packages": [
+		{
+			"name": "ikiwiki",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.42",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.20200202.3-1"
+				}
+			]
+		}
+	]
 }

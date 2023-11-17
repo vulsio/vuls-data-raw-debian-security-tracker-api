@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-D75F8B",
-  "packages": [
-    {
-      "name": "gitlab-shell",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "14.20.0+ds1-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-D75F8B",
+	"packages": [
+		{
+			"name": "gitlab-shell",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "14.20.0+ds1-2"
+				}
+			]
+		}
+	]
 }

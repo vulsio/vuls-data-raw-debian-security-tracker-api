@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0832169-0F9220",
-  "debian_bug": 832169,
-  "packages": [
-    {
-      "name": "dietlibc",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.34~cvs20160606-2",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.34~cvs20160606-14"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0832169-0F9220",
+	"debian_bug": 832169,
+	"packages": [
+		{
+			"name": "dietlibc",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.34~cvs20160606-2",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.34~cvs20160606-14"
+				}
+			]
+		}
+	]
 }

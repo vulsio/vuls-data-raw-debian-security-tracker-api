@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-3815A2",
-  "packages": [
-    {
-      "name": "proftpd-dfsg",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.3.5b-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.3.7a+dfsg-12+deb11u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-3815A2",
+	"packages": [
+		{
+			"name": "proftpd-dfsg",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.3.5b-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.3.7a+dfsg-12+deb11u2"
+				}
+			]
+		}
+	]
 }

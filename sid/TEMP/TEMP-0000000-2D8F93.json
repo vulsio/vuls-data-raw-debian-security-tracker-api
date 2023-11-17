@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-2D8F93",
-  "packages": [
-    {
-      "name": "isc-dhcp",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.4.3-P1-4"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-2D8F93",
+	"packages": [
+		{
+			"name": "isc-dhcp",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.4.3-P1-4"
+				}
+			]
+		}
+	]
 }

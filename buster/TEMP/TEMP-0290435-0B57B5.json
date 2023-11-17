@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0290435-0B57B5",
-  "debian_bug": 290435,
-  "packages": [
-    {
-      "name": "tar",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.30+dfsg-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0290435-0B57B5",
+	"debian_bug": 290435,
+	"packages": [
+		{
+			"name": "tar",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.30+dfsg-6"
+				}
+			]
+		}
+	]
 }

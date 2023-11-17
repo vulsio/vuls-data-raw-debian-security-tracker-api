@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-4C54C0",
-  "packages": [
-    {
-      "name": "atftp",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.7.dfsg-11",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.8.0-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-4C54C0",
+	"packages": [
+		{
+			"name": "atftp",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.7.dfsg-11",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.8.0-3"
+				}
+			]
+		}
+	]
 }

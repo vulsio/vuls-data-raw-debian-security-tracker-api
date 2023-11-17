@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-D61692",
-  "packages": [
-    {
-      "name": "unace-nonfree",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.5-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "2.5-9"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-D61692",
+	"packages": [
+		{
+			"name": "unace-nonfree",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.5-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.5-9"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-7D3048",
-  "packages": [
-    {
-      "name": "syslog-ng",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.6.5-2.1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.3.1-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-7D3048",
+	"packages": [
+		{
+			"name": "syslog-ng",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.6.5-2.1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.3.1-2"
+				}
+			]
+		}
+	]
 }

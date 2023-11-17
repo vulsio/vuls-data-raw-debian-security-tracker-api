@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-7D3048",
-  "packages": [
-    {
-      "name": "syslog-ng",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.6.5-2.1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "3.38.1-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-7D3048",
+	"packages": [
+		{
+			"name": "syslog-ng",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.6.5-2.1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.38.1-5"
+				}
+			]
+		}
+	]
 }

@@ -1,16 +1,16 @@
 {
-  "id": "TEMP-0000000-345A3B",
-  "packages": [
-    {
-      "name": "ruby-handlebars-assets",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "2:0.23.3+dfsg-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-345A3B",
+	"packages": [
+		{
+			"name": "ruby-handlebars-assets",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2:0.23.3+dfsg-2"
+				}
+			]
+		}
+	]
 }

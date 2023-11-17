@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0300560-C9B661",
-  "debian_bug": 300560,
-  "packages": [
-    {
-      "name": "mldonkey",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.5.28.1-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "3.1.6-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0300560-C9B661",
+	"debian_bug": 300560,
+	"packages": [
+		{
+			"name": "mldonkey",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.5.28.1-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.1.6-1"
+				}
+			]
+		}
+	]
 }

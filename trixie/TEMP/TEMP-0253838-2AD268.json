@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0253838-2AD268",
-  "debian_bug": 253838,
-  "packages": [
-    {
-      "name": "openldap",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.4.13",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "2.5.13+dfsg-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0253838-2AD268",
+	"debian_bug": 253838,
+	"packages": [
+		{
+			"name": "openldap",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.4.13",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2.5.13+dfsg-5"
+				}
+			]
+		}
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-42228B",
-  "packages": [
-    {
-      "name": "spip",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.1.11-0.1",
-      "repository": [
-        {
-          "name": "buster-security",
-          "version": "3.2.4-1+deb10u11"
-        },
-        {
-          "name": "buster",
-          "version": "3.2.4-1+deb10u9"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-42228B",
+	"packages": [
+		{
+			"name": "spip",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.1.11-0.1",
+			"repository": [
+				{
+					"name": "buster-security",
+					"version": "3.2.4-1+deb10u11"
+				},
+				{
+					"name": "buster",
+					"version": "3.2.4-1+deb10u9"
+				}
+			]
+		}
+	]
 }

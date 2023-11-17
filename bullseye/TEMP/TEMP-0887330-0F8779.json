@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0887330-0F8779",
-  "debian_bug": 887330,
-  "packages": [
-    {
-      "name": "civicrm",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.7.30+dfsg-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "5.33.2+dfsg1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0887330-0F8779",
+	"debian_bug": 887330,
+	"packages": [
+		{
+			"name": "civicrm",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.7.30+dfsg-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "5.33.2+dfsg1-1"
+				}
+			]
+		}
+	]
 }

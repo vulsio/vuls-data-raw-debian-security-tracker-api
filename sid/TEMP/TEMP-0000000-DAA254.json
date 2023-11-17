@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-DAA254",
-  "packages": [
-    {
-      "name": "fai",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.8.2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "6.0.5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-DAA254",
+	"packages": [
+		{
+			"name": "fai",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.8.2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.0.5"
+				}
+			]
+		}
+	]
 }

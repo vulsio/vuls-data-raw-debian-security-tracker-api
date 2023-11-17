@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-375947",
-  "packages": [
-    {
-      "name": "rust-rmp-serde",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.1.1-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1.1.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-375947",
+	"packages": [
+		{
+			"name": "rust-rmp-serde",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.1.1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.1.1-1"
+				}
+			]
+		}
+	]
 }

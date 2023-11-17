@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-BD209F",
-  "packages": [
-    {
-      "name": "ruby-sidekiq",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "3.4.2~dfsg-3",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "6.4.1+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-BD209F",
+	"packages": [
+		{
+			"name": "ruby-sidekiq",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "3.4.2~dfsg-3",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "6.4.1+dfsg-1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1051808-528792",
-  "debian_bug": 1051808,
-  "packages": [
-    {
-      "name": "rust-users",
-      "status": "open",
-      "nodsa": "Minor issue",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.10.0-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1051808-528792",
+	"debian_bug": 1051808,
+	"packages": [
+		{
+			"name": "rust-users",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.10.0-1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0698189-BE9FC4",
-  "debian_bug": 698189,
-  "packages": [
-    {
-      "name": "swath",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.4.3-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.6.1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0698189-BE9FC4",
+	"debian_bug": 698189,
+	"packages": [
+		{
+			"name": "swath",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.4.3-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.6.1-1"
+				}
+			]
+		}
+	]
 }

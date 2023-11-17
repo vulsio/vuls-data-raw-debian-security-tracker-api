@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0855108-573218",
-  "debian_bug": 855108,
-  "packages": [
-    {
-      "name": "irssi",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.0.1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.4.5-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0855108-573218",
+	"debian_bug": 855108,
+	"packages": [
+		{
+			"name": "irssi",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.0.1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.4.5-1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0434134-B27890",
-  "debian_bug": 434134,
-  "packages": [
-    {
-      "name": "dokuwiki",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0.0.20070626b-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.0.20180422.a-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0434134-B27890",
+	"debian_bug": 434134,
+	"packages": [
+		{
+			"name": "dokuwiki",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0.0.20070626b-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.0.20180422.a-2"
+				}
+			]
+		}
+	]
 }

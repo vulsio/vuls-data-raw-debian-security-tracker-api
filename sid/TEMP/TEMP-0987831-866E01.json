@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0987831-866E01",
-  "debian_bug": 987831,
-  "packages": [
-    {
-      "name": "php-laravel-framework",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "6.20.14+dfsg-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "8.83.26+dfsg-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0987831-866E01",
+	"debian_bug": 987831,
+	"packages": [
+		{
+			"name": "php-laravel-framework",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.20.14+dfsg-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "8.83.26+dfsg-2"
+				}
+			]
+		}
+	]
 }

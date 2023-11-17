@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0603436-5CA466",
-  "debian_bug": 603436,
-  "packages": [
-    {
-      "name": "pam-pgsql",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.7.1-5",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.7.3.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0603436-5CA466",
+	"debian_bug": 603436,
+	"packages": [
+		{
+			"name": "pam-pgsql",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.7.1-5",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.7.3.2-1"
+				}
+			]
+		}
+	]
 }

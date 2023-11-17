@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-09234C",
-  "packages": [
-    {
-      "name": "flash-kernel",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.33",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "3.107"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-09234C",
+	"packages": [
+		{
+			"name": "flash-kernel",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.33",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.107"
+				}
+			]
+		}
+	]
 }

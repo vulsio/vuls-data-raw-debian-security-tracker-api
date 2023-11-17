@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0496462-B3176F",
-  "debian_bug": 496462,
-  "packages": [
-    {
-      "name": "nvi",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.81.6-4",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.81.6-15"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0496462-B3176F",
+	"debian_bug": 496462,
+	"packages": [
+		{
+			"name": "nvi",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.81.6-4",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.81.6-15"
+				}
+			]
+		}
+	]
 }

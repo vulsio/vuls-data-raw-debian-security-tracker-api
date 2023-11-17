@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0482385-09F6D5",
-  "debian_bug": 482385,
-  "packages": [
-    {
-      "name": "xscreensaver",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "5.05-3",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "6.06+dfsg1-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0482385-09F6D5",
+	"debian_bug": 482385,
+	"packages": [
+		{
+			"name": "xscreensaver",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "5.05-3",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.06+dfsg1-3"
+				}
+			]
+		}
+	]
 }

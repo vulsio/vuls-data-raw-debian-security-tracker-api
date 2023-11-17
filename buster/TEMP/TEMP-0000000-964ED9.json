@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-964ED9",
-  "packages": [
-    {
-      "name": "asterisk",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:13.8.2~dfsg-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1:16.2.1~dfsg-1+deb10u2"
-        },
-        {
-          "name": "buster-security",
-          "version": "1:16.28.0~dfsg-0+deb10u3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-964ED9",
+	"packages": [
+		{
+			"name": "asterisk",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:13.8.2~dfsg-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:16.2.1~dfsg-1+deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "1:16.28.0~dfsg-0+deb10u3"
+				}
+			]
+		}
+	]
 }

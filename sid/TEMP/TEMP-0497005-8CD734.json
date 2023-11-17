@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0497005-8CD734",
-  "debian_bug": 497005,
-  "packages": [
-    {
-      "name": "gpicview",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0.1.10-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "0.2.5-5"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0497005-8CD734",
+	"debian_bug": 497005,
+	"packages": [
+		{
+			"name": "gpicview",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0.1.10-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.2.5-5"
+				}
+			]
+		}
+	]
 }

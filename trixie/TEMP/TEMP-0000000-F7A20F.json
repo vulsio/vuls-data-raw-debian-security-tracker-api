@@ -1,16 +1,16 @@
 {
-  "id": "TEMP-0000000-F7A20F",
-  "packages": [
-    {
-      "name": "linux",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "6.5.10-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-F7A20F",
+	"packages": [
+		{
+			"name": "linux",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.5.10-1"
+				}
+			]
+		}
+	]
 }

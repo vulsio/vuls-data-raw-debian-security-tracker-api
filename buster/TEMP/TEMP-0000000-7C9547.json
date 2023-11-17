@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-7C9547",
-  "packages": [
-    {
-      "name": "docker.io",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.0.0~dfsg1-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "18.09.1+dfsg1-7.1+deb10u3"
-        },
-        {
-          "name": "buster-security",
-          "version": "18.09.1+dfsg1-7.1+deb10u3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-7C9547",
+	"packages": [
+		{
+			"name": "docker.io",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.0.0~dfsg1-1",
+			"repository": [
+				{
+					"name": "buster-security",
+					"version": "18.09.1+dfsg1-7.1+deb10u3"
+				},
+				{
+					"name": "buster",
+					"version": "18.09.1+dfsg1-7.1+deb10u3"
+				}
+			]
+		}
+	]
 }

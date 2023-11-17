@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0535886-8B62DC",
-  "debian_bug": 535886,
-  "packages": [
-    {
-      "name": "apache2",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2.2.9-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "2.4.58-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0535886-8B62DC",
+	"debian_bug": 535886,
+	"packages": [
+		{
+			"name": "apache2",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.2.9-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2.4.58-1"
+				}
+			]
+		}
+	]
 }

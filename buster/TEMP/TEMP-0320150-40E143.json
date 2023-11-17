@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0320150-40E143",
-  "debian_bug": 320150,
-  "packages": [
-    {
-      "name": "ffmpeg",
-      "status": "resolved",
-      "urgency": "medium",
-      "fixed_version": "0.cvs20050811-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "7:4.1.9-0+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "7:4.1.11-0+deb10u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0320150-40E143",
+	"debian_bug": 320150,
+	"packages": [
+		{
+			"name": "ffmpeg",
+			"status": "resolved",
+			"urgency": "medium",
+			"fixed_version": "0.cvs20050811-1",
+			"repository": [
+				{
+					"name": "buster-security",
+					"version": "7:4.1.11-0+deb10u1"
+				},
+				{
+					"name": "buster",
+					"version": "7:4.1.9-0+deb10u1"
+				}
+			]
+		}
+	]
 }

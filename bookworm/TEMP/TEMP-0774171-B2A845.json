@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0774171-B2A845",
-  "debian_bug": 774171,
-  "packages": [
-    {
-      "name": "unrar-nonfree",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:5.2.7-0.1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1:6.2.6-1+deb12u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0774171-B2A845",
+	"debian_bug": 774171,
+	"packages": [
+		{
+			"name": "unrar-nonfree",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:5.2.7-0.1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1:6.2.6-1+deb12u1"
+				}
+			]
+		}
+	]
 }

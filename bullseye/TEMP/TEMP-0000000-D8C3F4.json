@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-D8C3F4",
-  "packages": [
-    {
-      "name": "gst-libav1.0",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.18.4-2",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.18.4-3"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-D8C3F4",
+	"packages": [
+		{
+			"name": "gst-libav1.0",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.18.4-2",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.18.4-3"
+				}
+			]
+		}
+	]
 }

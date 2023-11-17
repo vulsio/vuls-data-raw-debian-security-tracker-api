@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0772585-D41D8C",
-  "debian_bug": 772585,
-  "packages": [
-    {
-      "name": "json-glib",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.8.0-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0772585-D41D8C",
+	"debian_bug": 772585,
+	"packages": [
+		{
+			"name": "json-glib",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.8.0-2"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0784712-056A32",
-  "debian_bug": 784712,
-  "packages": [
-    {
-      "name": "semi",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.14.7~0.20120428-17",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "1.14.7~0.20201115-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0784712-056A32",
+	"debian_bug": 784712,
+	"packages": [
+		{
+			"name": "semi",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.14.7~0.20120428-17",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.14.7~0.20201115-2"
+				}
+			]
+		}
+	]
 }

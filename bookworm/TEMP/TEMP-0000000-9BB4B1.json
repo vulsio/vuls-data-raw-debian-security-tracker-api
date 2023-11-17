@@ -1,21 +1,21 @@
 {
-  "id": "TEMP-0000000-9BB4B1",
-  "packages": [
-    {
-      "name": "tryton-server",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "6.0.29-2+deb12u1",
-      "repository": [
-        {
-          "name": "bookworm-security",
-          "version": "6.0.29-2+deb12u1"
-        },
-        {
-          "name": "bookworm",
-          "version": "6.0.29-2+deb12u1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-9BB4B1",
+	"packages": [
+		{
+			"name": "tryton-server",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.0.29-2+deb12u1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "6.0.29-2+deb12u1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "6.0.29-2+deb12u1"
+				}
+			]
+		}
+	]
 }

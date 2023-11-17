@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0523476-4CE9EF",
-  "debian_bug": 523476,
-  "packages": [
-    {
-      "name": "pptp-linux",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "1.7.2-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.10.0-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0523476-4CE9EF",
+	"debian_bug": 523476,
+	"packages": [
+		{
+			"name": "pptp-linux",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.7.2-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.10.0-1"
+				}
+			]
+		}
+	]
 }

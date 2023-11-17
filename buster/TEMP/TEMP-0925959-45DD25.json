@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0925959-45DD25",
-  "debian_bug": 925959,
-  "packages": [
-    {
-      "name": "open-vm-tools",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "2:10.3.10-1",
-      "repository": [
-        {
-          "name": "buster-security",
-          "version": "2:10.3.10-1+deb10u6"
-        },
-        {
-          "name": "buster",
-          "version": "2:10.3.10-1+deb10u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0925959-45DD25",
+	"debian_bug": 925959,
+	"packages": [
+		{
+			"name": "open-vm-tools",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "2:10.3.10-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2:10.3.10-1+deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "2:10.3.10-1+deb10u6"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0601585-D41D8C",
-  "debian_bug": 601585,
-  "packages": [
-    {
-      "name": "weborf",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.12.4-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "0.15-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0601585-D41D8C",
+	"debian_bug": 601585,
+	"packages": [
+		{
+			"name": "weborf",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.12.4-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.15-1"
+				}
+			]
+		}
+	]
 }

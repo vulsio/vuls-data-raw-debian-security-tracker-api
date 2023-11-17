@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0913137-22A98C",
-  "debian_bug": 913137,
-  "packages": [
-    {
-      "name": "virtualbox",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.2.22-dfsg-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "7.0.12-dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0913137-22A98C",
+	"debian_bug": 913137,
+	"packages": [
+		{
+			"name": "virtualbox",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.2.22-dfsg-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "7.0.12-dfsg-1"
+				}
+			]
+		}
+	]
 }

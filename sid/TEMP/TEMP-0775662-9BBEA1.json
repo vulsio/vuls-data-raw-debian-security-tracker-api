@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0775662-9BBEA1",
-  "debian_bug": 775662,
-  "packages": [
-    {
-      "name": "oss4",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.2-build2010-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.2-build2020-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0775662-9BBEA1",
+	"debian_bug": 775662,
+	"packages": [
+		{
+			"name": "oss4",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.2-build2010-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.2-build2020-2"
+				}
+			]
+		}
+	]
 }

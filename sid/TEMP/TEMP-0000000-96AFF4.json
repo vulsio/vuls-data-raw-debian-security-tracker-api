@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-96AFF4",
-  "packages": [
-    {
-      "name": "spip",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.1.11+dfsg-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "4.1.12+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-96AFF4",
+	"packages": [
+		{
+			"name": "spip",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.1.11+dfsg-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.1.12+dfsg-1"
+				}
+			]
+		}
+	]
 }

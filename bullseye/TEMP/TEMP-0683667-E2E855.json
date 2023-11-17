@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0683667-E2E855",
-  "debian_bug": 683667,
-  "packages": [
-    {
-      "name": "spip",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "2.1.17-1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "3.2.11-3+deb11u9"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "3.2.11-3+deb11u7"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0683667-E2E855",
+	"debian_bug": 683667,
+	"packages": [
+		{
+			"name": "spip",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.1.17-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.2.11-3+deb11u9"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "3.2.11-3+deb11u7"
+				}
+			]
+		}
+	]
 }

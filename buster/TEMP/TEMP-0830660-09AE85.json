@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-0830660-09AE85",
-  "debian_bug": 830660,
-  "packages": [
-    {
-      "name": "leptonlib",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "1.73-5",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.76.0-1+deb10u1"
-        },
-        {
-          "name": "buster-security",
-          "version": "1.76.0-1+deb10u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0830660-09AE85",
+	"debian_bug": 830660,
+	"packages": [
+		{
+			"name": "leptonlib",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.73-5",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.76.0-1+deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.76.0-1+deb10u2"
+				}
+			]
+		}
+	]
 }

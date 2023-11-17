@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0841856-B18BAF",
-  "debian_bug": 841856,
-  "packages": [
-    {
-      "name": "bash",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "5.2.15-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0841856-B18BAF",
+	"debian_bug": 841856,
+	"packages": [
+		{
+			"name": "bash",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "5.2.15-2"
+				}
+			]
+		}
+	]
 }

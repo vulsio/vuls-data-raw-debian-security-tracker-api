@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0860565-9E8C4B",
-  "debian_bug": 860565,
-  "packages": [
-    {
-      "name": "xen",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "4.8.1-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "4.17.1+2-gb773c48e36-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0860565-9E8C4B",
+	"debian_bug": 860565,
+	"packages": [
+		{
+			"name": "xen",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.8.1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "4.17.1+2-gb773c48e36-1"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-077068",
-  "packages": [
-    {
-      "name": "gitlab",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "11.1.8+dfsg-2",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "16.0.8+ds1-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-077068",
+	"packages": [
+		{
+			"name": "gitlab",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "11.1.8+dfsg-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "16.0.8+ds1-2"
+				}
+			]
+		}
+	]
 }

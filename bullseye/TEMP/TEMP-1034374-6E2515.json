@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1034374-6E2515",
-  "debian_bug": 1034374,
-  "packages": [
-    {
-      "name": "rust-spin",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "0",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "0.5.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1034374-6E2515",
+	"debian_bug": 1034374,
+	"packages": [
+		{
+			"name": "rust-spin",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.5.2-1"
+				}
+			]
+		}
+	]
 }

@@ -1,22 +1,22 @@
 {
-  "id": "TEMP-1007145-ABA7D9",
-  "debian_bug": 1007005,
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "5.7.8+dfsg1-0+deb11u1",
-      "repository": [
-        {
-          "name": "bullseye",
-          "version": "5.7.8+dfsg1-0+deb11u2"
-        },
-        {
-          "name": "bullseye-security",
-          "version": "5.7.8+dfsg1-0+deb11u2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1007145-ABA7D9",
+	"debian_bug": 1007005,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.7.8+dfsg1-0+deb11u1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "5.7.8+dfsg1-0+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "5.7.8+dfsg1-0+deb11u2"
+				}
+			]
+		}
+	]
 }

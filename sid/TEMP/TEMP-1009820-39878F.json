@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-1009820-39878F",
-  "debian_bug": 1009820,
-  "packages": [
-    {
-      "name": "snort",
-      "status": "open",
-      "urgency": "not yet assigned",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "2.9.15.1-6"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1009820-39878F",
+	"debian_bug": 1009820,
+	"packages": [
+		{
+			"name": "snort",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "2.9.15.1-6"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-0EB5E1",
-  "packages": [
-    {
-      "name": "node-d3-color",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1.2.8-5",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "1.4.1+~1.4.2-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-0EB5E1",
+	"packages": [
+		{
+			"name": "node-d3-color",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.2.8-5",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.4.1+~1.4.2-1"
+				}
+			]
+		}
+	]
 }

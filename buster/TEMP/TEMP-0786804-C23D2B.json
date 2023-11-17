@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0786804-C23D2B",
-  "debian_bug": 786804,
-  "packages": [
-    {
-      "name": "util-linux",
-      "status": "resolved",
-      "urgency": "unimportant",
-      "fixed_version": "2.27-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "2.33.1-0.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0786804-C23D2B",
+	"debian_bug": 786804,
+	"packages": [
+		{
+			"name": "util-linux",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "2.27-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.33.1-0.1"
+				}
+			]
+		}
+	]
 }

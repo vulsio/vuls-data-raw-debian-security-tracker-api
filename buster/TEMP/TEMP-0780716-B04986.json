@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0780716-B04986",
-  "debian_bug": 780716,
-  "packages": [
-    {
-      "name": "flightgear-data",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "3.0.0-3",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1:2018.3.2+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0780716-B04986",
+	"debian_bug": 780716,
+	"packages": [
+		{
+			"name": "flightgear-data",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "3.0.0-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:2018.3.2+dfsg-1"
+				}
+			]
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0628843-DBAD28",
-  "debian_bug": 628843,
-  "packages": [
-    {
-      "name": "shadow",
-      "status": "open",
-      "urgency": "unimportant",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1:4.5-1.1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0628843-DBAD28",
+	"debian_bug": 628843,
+	"packages": [
+		{
+			"name": "shadow",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:4.5-1.1"
+				}
+			]
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0774897-BC9A31",
-  "debian_bug": 774897,
-  "packages": [
-    {
-      "name": "libhtp",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "1:0.5.25-1",
-      "repository": [
-        {
-          "name": "bookworm",
-          "version": "1:0.5.42-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0774897-BC9A31",
+	"debian_bug": 774897,
+	"packages": [
+		{
+			"name": "libhtp",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:0.5.25-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1:0.5.42-1"
+				}
+			]
+		}
+	]
 }

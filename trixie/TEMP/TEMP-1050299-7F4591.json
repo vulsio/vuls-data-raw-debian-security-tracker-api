@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1050299-7F4591",
-  "debian_bug": 1050299,
-  "packages": [
-    {
-      "name": "rust-webpki",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.22.1-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.22.4-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1050299-7F4591",
+	"debian_bug": 1050299,
+	"packages": [
+		{
+			"name": "rust-webpki",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.22.1-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.22.4-2"
+				}
+			]
+		}
+	]
 }

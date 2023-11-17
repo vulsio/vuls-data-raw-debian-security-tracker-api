@@ -1,17 +1,17 @@
 {
-  "id": "TEMP-0000000-70147B",
-  "packages": [
-    {
-      "name": "libvncserver",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "0.9.8-1",
-      "repository": [
-        {
-          "name": "trixie",
-          "version": "0.9.14+dfsg-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0000000-70147B",
+	"packages": [
+		{
+			"name": "libvncserver",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.9.8-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.9.14+dfsg-1"
+				}
+			]
+		}
+	]
 }

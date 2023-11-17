@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0555308-79E91C",
-  "debian_bug": 555308,
-  "packages": [
-    {
-      "name": "xorg-server",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "2:1.7.2-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "2:21.1.9-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0555308-79E91C",
+	"debian_bug": 555308,
+	"packages": [
+		{
+			"name": "xorg-server",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:1.7.2-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "2:21.1.9-1"
+				}
+			]
+		}
+	]
 }

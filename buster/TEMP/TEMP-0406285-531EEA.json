@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-0406285-531EEA",
-  "debian_bug": 406285,
-  "packages": [
-    {
-      "name": "bcfg2",
-      "status": "resolved",
-      "urgency": "low",
-      "fixed_version": "0.8.7.3-1",
-      "repository": [
-        {
-          "name": "buster",
-          "version": "1.4.0~pre2+git141-g6d40dace6358-2"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-0406285-531EEA",
+	"debian_bug": 406285,
+	"packages": [
+		{
+			"name": "bcfg2",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.7.3-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.4.0~pre2+git141-g6d40dace6358-2"
+				}
+			]
+		}
+	]
 }

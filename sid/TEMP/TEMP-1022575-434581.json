@@ -1,18 +1,18 @@
 {
-  "id": "TEMP-1022575-434581",
-  "debian_bug": 1022575,
-  "packages": [
-    {
-      "name": "wordpress",
-      "status": "resolved",
-      "urgency": "not yet assigned",
-      "fixed_version": "6.0.3+dfsg1-1",
-      "repository": [
-        {
-          "name": "sid",
-          "version": "6.4.1+dfsg1-1"
-        }
-      ]
-    }
-  ]
+	"id": "TEMP-1022575-434581",
+	"debian_bug": 1022575,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.0.3+dfsg1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.4.1+dfsg1-1"
+				}
+			]
+		}
+	]
 }
