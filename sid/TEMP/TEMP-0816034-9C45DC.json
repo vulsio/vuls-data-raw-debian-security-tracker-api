@@ -3,18 +3,6 @@
 	"debian_bug": 816034,
 	"packages": [
 		{
-			"name": "wine-development",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "3.12-2",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "8.13~repack-1"
-				}
-			]
-		},
-		{
 			"name": "wine",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -23,6 +11,18 @@
 				{
 					"name": "sid",
 					"version": "8.0.1~repack-3"
+				}
+			]
+		},
+		{
+			"name": "wine-development",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "3.12-2",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "8.14~repack-1"
 				}
 			]
 		}
