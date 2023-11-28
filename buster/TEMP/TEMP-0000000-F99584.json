@@ -2,22 +2,6 @@
 	"id": "TEMP-0000000-F99584",
 	"packages": [
 		{
-			"name": "squid",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "4.6-1+deb10u7"
-				},
-				{
-					"name": "buster-security",
-					"version": "4.6-1+deb10u8"
-				}
-			]
-		},
-		{
 			"name": "lighttpd",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -30,6 +14,22 @@
 				{
 					"name": "buster-security",
 					"version": "1.4.53-4+deb10u3"
+				}
+			]
+		},
+		{
+			"name": "squid",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "4.6-1+deb10u7"
+				},
+				{
+					"name": "buster-security",
+					"version": "4.6-1+deb10u8"
 				}
 			]
 		}
