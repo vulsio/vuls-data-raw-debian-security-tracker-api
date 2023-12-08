@@ -9,12 +9,12 @@
 			"fixed_version": "2.10.1-7",
 			"repository": [
 				{
-					"name": "bookworm",
-					"version": "2.36-9+deb12u2"
-				},
-				{
 					"name": "bookworm-security",
 					"version": "2.36-9+deb12u3"
+				},
+				{
+					"name": "bookworm",
+					"version": "2.36-9+deb12u2"
 				}
 			]
 		}
