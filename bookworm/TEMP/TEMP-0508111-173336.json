@@ -10,7 +10,7 @@
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "2.23.4"
+					"version": "2.23.4+deb12u1"
 				}
 			]
 		}
