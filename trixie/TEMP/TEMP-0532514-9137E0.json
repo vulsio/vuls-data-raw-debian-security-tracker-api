@@ -3,18 +3,6 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "dillo",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "3.0.5-7"
-				}
-			]
-		},
-		{
 			"name": "lynx",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -23,6 +11,18 @@
 				{
 					"name": "trixie",
 					"version": "2.9.0dev.12-1"
+				}
+			]
+		},
+		{
+			"name": "dillo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.0.5-7"
 				}
 			]
 		},
