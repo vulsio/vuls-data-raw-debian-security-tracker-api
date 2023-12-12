@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-A87C6E",
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.3.2+dfsg1-1"
+				}
+			]
+		}
+	]
+}

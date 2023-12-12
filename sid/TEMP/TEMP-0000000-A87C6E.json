@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-A87C6E",
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.4.1+dfsg1-1"
+				}
+			]
+		}
+	]
+}
