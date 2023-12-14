@@ -33,17 +33,6 @@
 			]
 		},
 		{
-			"name": "dillo",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0.5-5"
-				}
-			]
-		},
-		{
 			"name": "kde4libs",
 			"status": "open",
 			"urgency": "unimportant",
@@ -51,6 +40,17 @@
 				{
 					"name": "buster",
 					"version": "4:4.14.38-3"
+				}
+			]
+		},
+		{
+			"name": "dillo",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0.5-5"
 				}
 			]
 		}
