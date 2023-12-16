@@ -3,14 +3,14 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "opendnssec",
+			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "1.1.3-2",
+			"fixed_version": "4.4.1p1-1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1:2.1.3-2"
+					"version": "5.4.3+dfsg-1"
 				}
 			]
 		},
@@ -27,6 +27,18 @@
 			]
 		},
 		{
+			"name": "mmass",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.8.0-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.5.0-5"
+				}
+			]
+		},
+		{
 			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,18 +47,6 @@
 				{
 					"name": "buster",
 					"version": "3.4.0-1"
-				}
-			]
-		},
-		{
-			"name": "calendarserver",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2.4.dfsg-2.1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "9.2+dfsg-1"
 				}
 			]
 		},
@@ -63,26 +63,26 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "1.1.3-2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.4.3+dfsg-1"
+					"version": "1:2.1.3-2"
 				}
 			]
 		},
 		{
-			"name": "mmass",
+			"name": "calendarserver",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.8.0-2",
+			"fixed_version": "2.4.dfsg-2.1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.5.0-5"
+					"version": "9.2+dfsg-1"
 				}
 			]
 		},
