@@ -4,7 +4,7 @@
 		{
 			"name": "tor",
 			"status": "open",
-			"urgency": "not yet assigned",
+			"urgency": "end-of-life",
 			"repository": [
 				{
 					"name": "buster",
