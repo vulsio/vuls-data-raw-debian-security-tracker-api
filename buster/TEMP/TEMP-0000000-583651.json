@@ -2,6 +2,18 @@
 	"id": "TEMP-0000000-583651",
 	"packages": [
 		{
+			"name": "nspr",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:4.12-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2:4.20-1"
+				}
+			]
+		},
+		{
 			"name": "nss",
 			"status": "resolved",
 			"urgency": "low",
@@ -14,18 +26,6 @@
 				{
 					"name": "buster",
 					"version": "2:3.42.1-1+deb10u5"
-				}
-			]
-		},
-		{
-			"name": "nspr",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2:4.12-1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "2:4.20-1"
 				}
 			]
 		}
