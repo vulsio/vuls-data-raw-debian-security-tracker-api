@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-11FDF8",
+	"packages": [
+		{
+			"name": "rust-zerocopy",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.6.1-1"
+				}
+			]
+		}
+	]
+}
