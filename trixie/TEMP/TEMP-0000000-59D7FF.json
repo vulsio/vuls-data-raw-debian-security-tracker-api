@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-59D7FF",
+	"packages": [
+		{
+			"name": "gst-plugins-bad1.0",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.22.7-1"
+				}
+			]
+		}
+	]
+}
