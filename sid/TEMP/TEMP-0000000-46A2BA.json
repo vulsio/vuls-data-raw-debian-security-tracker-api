@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-46A2BA",
+	"packages": [
+		{
+			"name": "rust-unsafe-libyaml",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.2.9-1"
+				}
+			]
+		}
+	]
+}
