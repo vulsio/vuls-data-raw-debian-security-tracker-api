@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-1059163-BDCC5F",
+	"debian_bug": 1059163,
+	"packages": [
+		{
+			"name": "cpio",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.12+dfsg-9"
+				},
+				{
+					"name": "buster-security",
+					"version": "2.12+dfsg-9+deb10u1"
+				}
+			]
+		}
+	]
+}

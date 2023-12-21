@@ -1,14 +1,15 @@
 {
-	"id": "CVE-2023-46447",
+	"id": "TEMP-1059163-BDCC5F",
+	"debian_bug": 1059163,
 	"packages": [
 		{
-			"name": "python-asyncssh",
+			"name": "cpio",
 			"status": "open",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "2.5.0-0.1"
+					"version": "2.13+dfsg-7.1~deb11u1"
 				}
 			]
 		}
