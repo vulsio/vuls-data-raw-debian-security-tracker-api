@@ -1,5 +1,6 @@
 {
-	"id": "TEMP-0000000-46A2BA",
+	"id": "TEMP-1059234-46A2BA",
+	"debian_bug": 1059234,
 	"packages": [
 		{
 			"name": "rust-unsafe-libyaml",
@@ -7,7 +8,7 @@
 			"urgency": "not yet assigned",
 			"repository": [
 				{
-					"name": "trixie",
+					"name": "sid",
 					"version": "0.2.9-1"
 				}
 			]

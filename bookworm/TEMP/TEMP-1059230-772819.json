@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1059230-772819",
+	"debian_bug": 1059230,
+	"packages": [
+		{
+			"name": "postfix",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.7.6-0+deb12u2"
+				}
+			]
+		}
+	]
+}

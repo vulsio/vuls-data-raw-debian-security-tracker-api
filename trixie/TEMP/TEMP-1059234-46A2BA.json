@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1059234-46A2BA",
+	"debian_bug": 1059234,
+	"packages": [
+		{
+			"name": "rust-unsafe-libyaml",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.2.9-1"
+				}
+			]
+		}
+	]
+}

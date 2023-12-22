@@ -1,14 +1,15 @@
 {
-	"id": "TEMP-0000000-46A2BA",
+	"id": "TEMP-1059230-772819",
+	"debian_bug": 1059230,
 	"packages": [
 		{
-			"name": "rust-unsafe-libyaml",
+			"name": "postfix",
 			"status": "open",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "0.2.9-1"
+					"version": "3.8.3-1"
 				}
 			]
 		}

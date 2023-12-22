@@ -1,5 +1,6 @@
 {
-	"id": "TEMP-0000000-772819",
+	"id": "TEMP-1059230-772819",
+	"debian_bug": 1059230,
 	"packages": [
 		{
 			"name": "postfix",
@@ -7,8 +8,8 @@
 			"urgency": "not yet assigned",
 			"repository": [
 				{
-					"name": "sid",
-					"version": "3.8.2-1"
+					"name": "buster",
+					"version": "3.4.23-0+deb10u1"
 				}
 			]
 		}

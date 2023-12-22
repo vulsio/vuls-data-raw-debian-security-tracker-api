@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1059230-772819",
+	"debian_bug": 1059230,
+	"packages": [
+		{
+			"name": "postfix",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.5.18-0+deb11u1"
+				}
+			]
+		}
+	]
+}
