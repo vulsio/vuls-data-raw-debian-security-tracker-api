@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1059331-1EF620",
+	"debian_bug": 1059331,
+	"packages": [
+		{
+			"name": "spip",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "4.1.12+dfsg-1"
+				}
+			]
+		}
+	]
+}
