@@ -3,17 +3,6 @@
 	"debian_bug": 1059230,
 	"packages": [
 		{
-			"name": "exim4",
-			"status": "open",
-			"urgency": "not yet assigned",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "4.97-2"
-				}
-			]
-		},
-		{
 			"name": "postfix",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -22,6 +11,17 @@
 				{
 					"name": "sid",
 					"version": "3.8.4-1"
+				}
+			]
+		},
+		{
+			"name": "exim4",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.97-2"
 				}
 			]
 		}

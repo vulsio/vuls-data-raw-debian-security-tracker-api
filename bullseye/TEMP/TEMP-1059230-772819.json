@@ -3,6 +3,17 @@
 	"debian_bug": 1059230,
 	"packages": [
 		{
+			"name": "postfix",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.5.18-0+deb11u1"
+				}
+			]
+		},
+		{
 			"name": "exim4",
 			"status": "open",
 			"urgency": "not yet assigned",
@@ -14,17 +25,6 @@
 				{
 					"name": "bullseye-security",
 					"version": "4.94.2-7+deb11u1"
-				}
-			]
-		},
-		{
-			"name": "postfix",
-			"status": "open",
-			"urgency": "not yet assigned",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "3.5.18-0+deb11u1"
 				}
 			]
 		}
