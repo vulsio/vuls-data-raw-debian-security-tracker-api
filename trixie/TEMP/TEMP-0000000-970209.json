@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-970209",
 	"packages": [
 		{
-			"name": "libmspack",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "0.5-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "0.11-1"
-				}
-			]
-		},
-		{
 			"name": "cabextract",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -22,6 +10,18 @@
 				{
 					"name": "trixie",
 					"version": "1.11-1"
+				}
+			]
+		},
+		{
+			"name": "libmspack",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.5-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.11-1"
 				}
 			]
 		}
