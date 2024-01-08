@@ -8,12 +8,12 @@
 			"fixed_version": "1.5.12-1",
 			"repository": [
 				{
-					"name": "bookworm-security",
-					"version": "2.6.12-1+deb12u1"
-				},
-				{
 					"name": "bookworm",
 					"version": "2.6.12-1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "2.6.12-1+deb12u1"
 				}
 			]
 		}
