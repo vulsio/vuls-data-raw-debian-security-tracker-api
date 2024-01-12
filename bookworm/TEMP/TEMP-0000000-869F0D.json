@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-869F0D",
+	"packages": [
+		{
+			"name": "spip",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "4.1.9+dfsg-1+deb12u2"
+				}
+			]
+		}
+	]
+}
