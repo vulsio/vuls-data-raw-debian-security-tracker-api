@@ -14,18 +14,6 @@
 			]
 		},
 		{
-			"name": "libgd2",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "2.0.35.dfsg-3",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "2.2.5-5.2"
-				}
-			]
-		},
-		{
 			"name": "racket",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -34,6 +22,18 @@
 				{
 					"name": "buster",
 					"version": "7.2+dfsg1-2"
+				}
+			]
+		},
+		{
+			"name": "libgd2",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.0.35.dfsg-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2.2.5-5.2"
 				}
 			]
 		}
