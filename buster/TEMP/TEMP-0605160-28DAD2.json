@@ -15,6 +15,18 @@
 			]
 		},
 		{
+			"name": "snappea",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.0d3-20",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0d3-24"
+				}
+			]
+		},
+		{
 			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
@@ -27,14 +39,14 @@
 			]
 		},
 		{
-			"name": "snappea",
+			"name": "mmass",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.0d3-20",
+			"fixed_version": "3.8.0-2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.0d3-24"
+					"version": "5.5.0-5"
 				}
 			]
 		},
@@ -59,18 +71,6 @@
 				{
 					"name": "buster",
 					"version": "3.3.2-10+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "mmass",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.8.0-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "5.5.0-5"
 				}
 			]
 		},
