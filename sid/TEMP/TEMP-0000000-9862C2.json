@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-9862C2",
+	"packages": [
+		{
+			"name": "rust-tracing",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.1.40-1"
+				}
+			]
+		}
+	]
+}
