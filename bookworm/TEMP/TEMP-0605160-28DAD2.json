@@ -27,14 +27,14 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "5.8.0+dfsg-2"
+					"version": "1.8.9+dfsg-1"
 				}
 			]
 		},
@@ -51,14 +51,14 @@
 			]
 		},
 		{
-			"name": "gnumed-client",
+			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.8.5-1",
+			"fixed_version": "4.4.1p1-1",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "1.8.9+dfsg-1"
+					"version": "5.8.0+dfsg-2"
 				}
 			]
 		}
