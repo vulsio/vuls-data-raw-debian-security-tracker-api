@@ -3,17 +3,6 @@
 	"debian_bug": 560108,
 	"packages": [
 		{
-			"name": "epiphany-browser",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "45.2-1"
-				}
-			]
-		},
-		{
 			"name": "dillo",
 			"status": "open",
 			"urgency": "unimportant",
