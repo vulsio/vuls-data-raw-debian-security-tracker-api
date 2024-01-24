@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-EA9109",
+	"packages": [
+		{
+			"name": "rust-shlex",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.3.0-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.3.0-1"
+				}
+			]
+		}
+	]
+}

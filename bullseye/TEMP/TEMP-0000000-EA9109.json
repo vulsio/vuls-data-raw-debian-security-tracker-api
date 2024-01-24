@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-EA9109",
+	"packages": [
+		{
+			"name": "rust-shlex",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.1.1-1"
+				}
+			]
+		}
+	]
+}
