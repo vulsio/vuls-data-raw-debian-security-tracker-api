@@ -4,6 +4,7 @@
 		{
 			"name": "rust-shlex",
 			"status": "open",
+			"nodsa": "Minor issue",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
