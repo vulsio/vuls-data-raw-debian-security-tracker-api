@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1062663-AD972F",
+	"debian_bug": 1062663,
+	"packages": [
+		{
+			"name": "rust-snow",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.9.4-1"
+				}
+			]
+		}
+	]
+}
