@@ -3,26 +3,14 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "snappea",
+			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.0d3-20",
+			"fixed_version": "3.1-3.2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.0d3-24"
-				}
-			]
-		},
-		{
-			"name": "mmass",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.8.0-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "5.5.0-5"
+					"version": "3.3.2-10+deb10u1"
 				}
 			]
 		},
@@ -39,26 +27,26 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "1.1.3-2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.4.3+dfsg-1"
+					"version": "1:2.1.3-2"
 				}
 			]
 		},
 		{
-			"name": "distcc",
+			"name": "mmass",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.1-3.2",
+			"fixed_version": "3.8.0-2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.3.2-10+deb10u1"
+					"version": "5.5.0-5"
 				}
 			]
 		},
@@ -87,14 +75,26 @@
 			]
 		},
 		{
-			"name": "opendnssec",
+			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "1.1.3-2",
+			"fixed_version": "4.4.1p1-1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1:2.1.3-2"
+					"version": "5.4.3+dfsg-1"
+				}
+			]
+		},
+		{
+			"name": "snappea",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.0d3-20",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0d3-24"
 				}
 			]
 		}
