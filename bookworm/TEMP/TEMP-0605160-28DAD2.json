@@ -3,6 +3,18 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
+			"name": "guake",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.4.2-3",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.9.0-2"
+				}
+			]
+		},
+		{
 			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
@@ -15,14 +27,14 @@
 			]
 		},
 		{
-			"name": "guake",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.4.2-3",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "3.9.0-2"
+					"version": "1.8.9+dfsg-1"
 				}
 			]
 		},
@@ -47,18 +59,6 @@
 				{
 					"name": "bookworm",
 					"version": "1:2.1.12-2"
-				}
-			]
-		},
-		{
-			"name": "gnumed-client",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.8.5-1",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "1.8.9+dfsg-1"
 				}
 			]
 		}

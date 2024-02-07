@@ -15,18 +15,6 @@
 			]
 		},
 		{
-			"name": "semi",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1.14.7~0.20120428-17",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "1.14.7~0.20230104-1"
-				}
-			]
-		},
-		{
 			"name": "mew-beta",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -35,6 +23,18 @@
 				{
 					"name": "sid",
 					"version": "7.0.50~6.8+0.20221129-4"
+				}
+			]
+		},
+		{
+			"name": "semi",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.14.7~0.20120428-17",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.14.7~0.20230104-1"
 				}
 			]
 		}
