@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-2FD897",
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "6.1.1+dfsg1-1"
+				}
+			]
+		}
+	]
+}
