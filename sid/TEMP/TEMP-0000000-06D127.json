@@ -3,12 +3,13 @@
 	"packages": [
 		{
 			"name": "diffoscope",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "256",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "255"
+					"version": "256"
 				}
 			]
 		}
