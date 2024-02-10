@@ -9,7 +9,7 @@
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "1.34+dfsg-1"
+					"version": "1.34+dfsg-1+deb11u1"
 				}
 			]
 		}

@@ -10,7 +10,7 @@
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "0.17-3"
+					"version": "0.17-3+deb11u1"
 				}
 			]
 		}
