@@ -3,18 +3,6 @@
 	"debian_bug": 816034,
 	"packages": [
 		{
-			"name": "wine-development",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "3.12-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "4.2-4"
-				}
-			]
-		},
-		{
 			"name": "wine",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -23,6 +11,18 @@
 				{
 					"name": "buster",
 					"version": "4.0-2"
+				}
+			]
+		},
+		{
+			"name": "wine-development",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "3.12-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "4.2-4"
 				}
 			]
 		}
