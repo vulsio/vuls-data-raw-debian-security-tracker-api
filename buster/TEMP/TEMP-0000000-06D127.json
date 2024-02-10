@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-06D127",
+	"packages": [
+		{
+			"name": "diffoscope",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "113"
+				}
+			]
+		}
+	]
+}
