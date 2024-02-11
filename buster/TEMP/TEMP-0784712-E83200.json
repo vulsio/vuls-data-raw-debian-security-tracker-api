@@ -15,18 +15,6 @@
 			]
 		},
 		{
-			"name": "mew",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1:6.6-3",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "1:6.8-4+deb10u1"
-				}
-			]
-		},
-		{
 			"name": "mew-beta",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -35,6 +23,18 @@
 				{
 					"name": "buster",
 					"version": "7.0.50~6.8+0.20190228-1+deb10u1"
+				}
+			]
+		},
+		{
+			"name": "mew",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:6.6-3",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:6.8-4+deb10u1"
 				}
 			]
 		}
