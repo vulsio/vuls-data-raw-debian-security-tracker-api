@@ -3,6 +3,18 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
+			"name": "dillo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.0.5-7"
+				}
+			]
+		},
+		{
 			"name": "lynx",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -15,18 +27,6 @@
 				{
 					"name": "bullseye-security",
 					"version": "2.9.0dev.6-3~deb11u1"
-				}
-			]
-		},
-		{
-			"name": "dillo",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "3.0.5-7"
 				}
 			]
 		},
