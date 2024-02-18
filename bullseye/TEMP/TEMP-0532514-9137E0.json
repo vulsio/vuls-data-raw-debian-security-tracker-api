@@ -3,14 +3,13 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "dillo",
-			"status": "resolved",
+			"name": "w3m",
+			"status": "open",
 			"urgency": "unimportant",
-			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "3.0.5-7"
+					"version": "0.5.3+git20210102-6+deb11u1"
 				}
 			]
 		},
@@ -31,13 +30,14 @@
 			]
 		},
 		{
-			"name": "w3m",
-			"status": "open",
+			"name": "dillo",
+			"status": "resolved",
 			"urgency": "unimportant",
+			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "0.5.3+git20210102-6+deb11u1"
+					"version": "3.0.5-7"
 				}
 			]
 		}
