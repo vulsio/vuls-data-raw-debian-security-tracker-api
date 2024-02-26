@@ -3,17 +3,32 @@
 	"debian_bug": 560108,
 	"packages": [
 		{
-			"name": "epiphany-browser",
+			"name": "qt4-x11",
 			"status": "open",
 			"urgency": "unimportant",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.32.1.2-3~deb10u1"
+					"version": "4:4.8.7+dfsg-18+deb10u1"
 				},
 				{
 					"name": "buster-security",
+					"version": "4:4.8.7+dfsg-18+deb10u2"
+				}
+			]
+		},
+		{
+			"name": "epiphany-browser",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster-security",
 					"version": "3.32.1.2-3~deb10u3"
+				},
+				{
+					"name": "buster",
+					"version": "3.32.1.2-3~deb10u1"
 				}
 			]
 		},
@@ -36,21 +51,6 @@
 				{
 					"name": "buster",
 					"version": "4:4.14.38-3"
-				}
-			]
-		},
-		{
-			"name": "qt4-x11",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "4:4.8.7+dfsg-18+deb10u1"
-				},
-				{
-					"name": "buster-security",
-					"version": "4:4.8.7+dfsg-18+deb10u2"
 				}
 			]
 		}
