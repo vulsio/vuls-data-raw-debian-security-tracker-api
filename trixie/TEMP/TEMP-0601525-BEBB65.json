@@ -3,17 +3,6 @@
 	"debian_bug": 601525,
 	"packages": [
 		{
-			"name": "libwmf",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "0.2.13-1.1"
-				}
-			]
-		},
-		{
 			"name": "libgd2",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -34,6 +23,17 @@
 				{
 					"name": "trixie",
 					"version": "8.10+dfsg1-2"
+				}
+			]
+		},
+		{
+			"name": "libwmf",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.2.13-1.1"
 				}
 			]
 		}
