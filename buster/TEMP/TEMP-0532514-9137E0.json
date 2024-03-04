@@ -3,14 +3,17 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "dillo",
-			"status": "resolved",
+			"name": "w3m",
+			"status": "open",
 			"urgency": "unimportant",
-			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.0.5-5"
+					"version": "0.5.3-37"
+				},
+				{
+					"name": "buster-security",
+					"version": "0.5.3-37+deb10u1"
 				}
 			]
 		},
@@ -31,17 +34,14 @@
 			]
 		},
 		{
-			"name": "w3m",
-			"status": "open",
+			"name": "dillo",
+			"status": "resolved",
 			"urgency": "unimportant",
+			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "0.5.3-37"
-				},
-				{
-					"name": "buster-security",
-					"version": "0.5.3-37+deb10u1"
+					"version": "3.0.5-5"
 				}
 			]
 		}
