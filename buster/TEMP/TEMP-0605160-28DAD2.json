@@ -3,18 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "calendarserver",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2.4.dfsg-2.1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "9.2+dfsg-1"
-				}
-			]
-		},
-		{
 			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
@@ -51,6 +39,18 @@
 			]
 		},
 		{
+			"name": "opendnssec",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.1.3-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:2.1.3-2"
+				}
+			]
+		},
+		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -59,18 +59,6 @@
 				{
 					"name": "buster",
 					"version": "1.7.5+dfsg-3"
-				}
-			]
-		},
-		{
-			"name": "snappea",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.0d3-20",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0d3-24"
 				}
 			]
 		},
@@ -87,14 +75,26 @@
 			]
 		},
 		{
-			"name": "opendnssec",
+			"name": "snappea",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "1.1.3-2",
+			"fixed_version": "3.0d3-20",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1:2.1.3-2"
+					"version": "3.0d3-24"
+				}
+			]
+		},
+		{
+			"name": "calendarserver",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.4.dfsg-2.1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "9.2+dfsg-1"
 				}
 			]
 		}
