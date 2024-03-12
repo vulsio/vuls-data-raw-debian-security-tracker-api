@@ -19,18 +19,6 @@
 			]
 		},
 		{
-			"name": "dillo",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0.5-5"
-				}
-			]
-		},
-		{
 			"name": "w3m",
 			"status": "open",
 			"urgency": "unimportant",
@@ -42,6 +30,18 @@
 				{
 					"name": "buster",
 					"version": "0.5.3-37"
+				}
+			]
+		},
+		{
+			"name": "dillo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0.5-5"
 				}
 			]
 		}
