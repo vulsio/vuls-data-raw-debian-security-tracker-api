@@ -2,17 +2,6 @@
 	"id": "TEMP-0000000-ACBC4C",
 	"packages": [
 		{
-			"name": "foomatic-filters",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "4.0.17-16"
-				}
-			]
-		},
-		{
 			"name": "cups-filters",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -21,6 +10,17 @@
 				{
 					"name": "sid",
 					"version": "1.28.17-3.1"
+				}
+			]
+		},
+		{
+			"name": "foomatic-filters",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "4.0.17-16"
 				}
 			]
 		}
