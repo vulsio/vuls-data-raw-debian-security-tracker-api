@@ -21,12 +21,12 @@
 			"fixed_version": "0",
 			"repository": [
 				{
-					"name": "buster-security",
-					"version": "10.32-5+deb10u1"
-				},
-				{
 					"name": "buster",
 					"version": "10.32-5"
+				},
+				{
+					"name": "buster-security",
+					"version": "10.32-5+deb10u1"
 				}
 			]
 		}
