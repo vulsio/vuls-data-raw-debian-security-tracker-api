@@ -3,38 +3,14 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "gnumed-client",
+			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.8.5-1",
+			"fixed_version": "0.4.2-3",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1.7.5+dfsg-3"
-				}
-			]
-		},
-		{
-			"name": "distcc",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.1-3.2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.3.2-10+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "snappea",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.0d3-20",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0d3-24"
+					"version": "3.4.0-1"
 				}
 			]
 		},
@@ -51,26 +27,26 @@
 			]
 		},
 		{
-			"name": "guake",
+			"name": "snappea",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.4.2-3",
+			"fixed_version": "3.0d3-20",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.4.0-1"
+					"version": "3.0d3-24"
 				}
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.4.3+dfsg-1"
+					"version": "1.7.5+dfsg-3"
 				}
 			]
 		},
@@ -83,6 +59,30 @@
 				{
 					"name": "buster",
 					"version": "5.5.0-5"
+				}
+			]
+		},
+		{
+			"name": "distcc",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.1-3.2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.3.2-10+deb10u1"
+				}
+			]
+		},
+		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.4.3+dfsg-1"
 				}
 			]
 		},
