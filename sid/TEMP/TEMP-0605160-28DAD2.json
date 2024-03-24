@@ -3,30 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "gnumed-client",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.8.5-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "1.8.18+dfsg-2"
-				}
-			]
-		},
-		{
-			"name": "pymca",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "5.9.2+dfsg-2"
-				}
-			]
-		},
-		{
 			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
@@ -39,6 +15,18 @@
 			]
 		},
 		{
+			"name": "gnumed-client",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.5-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.8.18+dfsg-2"
+				}
+			]
+		},
+		{
 			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
@@ -47,6 +35,18 @@
 				{
 					"name": "sid",
 					"version": "1:2.1.13-1"
+				}
+			]
+		},
+		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "5.9.2+dfsg-2"
 				}
 			]
 		},
