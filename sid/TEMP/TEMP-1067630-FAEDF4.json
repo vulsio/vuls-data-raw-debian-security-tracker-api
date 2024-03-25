@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1067630-FAEDF4",
+	"debian_bug": 1067630,
+	"packages": [
+		{
+			"name": "emacs",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1:29.2+1-2"
+				}
+			]
+		}
+	]
+}

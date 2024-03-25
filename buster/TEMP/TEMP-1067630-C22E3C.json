@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-1067630-C22E3C",
+	"debian_bug": 1067630,
+	"packages": [
+		{
+			"name": "emacs",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:26.1+1-3.2+deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "1:26.1+1-3.2+deb10u4"
+				}
+			]
+		}
+	]
+}
