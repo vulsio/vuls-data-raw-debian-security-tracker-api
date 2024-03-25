@@ -1,14 +1,15 @@
 {
-	"id": "TEMP-0000000-7ED1AE",
+	"id": "TEMP-1067663-6102D7",
+	"debian_bug": 1067663,
 	"packages": [
 		{
-			"name": "anope",
+			"name": "org-mode",
 			"status": "open",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "2.0.9-1"
+					"version": "9.4.0+dfsg-1+deb11u1"
 				}
 			]
 		}

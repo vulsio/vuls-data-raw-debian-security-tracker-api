@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-583651",
 	"packages": [
 		{
-			"name": "nss",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2:3.23-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "2:3.98-1"
-				}
-			]
-		},
-		{
 			"name": "nspr",
 			"status": "resolved",
 			"urgency": "low",
@@ -22,6 +10,18 @@
 				{
 					"name": "trixie",
 					"version": "2:4.35-1.1"
+				}
+			]
+		},
+		{
+			"name": "nss",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:3.23-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2:3.99-1"
 				}
 			]
 		}

@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1067663-6102D7",
+	"debian_bug": 1067663,
+	"packages": [
+		{
+			"name": "org-mode",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "9.5.2+dfsh-5"
+				}
+			]
+		}
+	]
+}
