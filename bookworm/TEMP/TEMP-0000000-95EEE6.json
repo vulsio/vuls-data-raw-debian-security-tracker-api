@@ -3,8 +3,9 @@
 	"packages": [
 		{
 			"name": "mediawiki",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "1:1.39.7-1~deb12u1",
 			"repository": [
 				{
 					"name": "bookworm",
@@ -12,7 +13,7 @@
 				},
 				{
 					"name": "bookworm-security",
-					"version": "1:1.39.5-1~deb12u1"
+					"version": "1:1.39.7-1~deb12u1"
 				}
 			]
 		}

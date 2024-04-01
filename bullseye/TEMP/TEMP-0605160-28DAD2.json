@@ -3,18 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "guake",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.4.2-3",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "3.6.3-2"
-				}
-			]
-		},
-		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,6 +23,18 @@
 				{
 					"name": "bullseye",
 					"version": "3.4+really3.3.5-3"
+				}
+			]
+		},
+		{
+			"name": "guake",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.4.2-3",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.6.3-2"
 				}
 			]
 		},
