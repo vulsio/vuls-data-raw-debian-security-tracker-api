@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-F99584",
 	"packages": [
 		{
-			"name": "lighttpd",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "1.4.74-2"
-				}
-			]
-		},
-		{
 			"name": "squid",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -22,6 +10,18 @@
 				{
 					"name": "sid",
 					"version": "6.8-1"
+				}
+			]
+		},
+		{
+			"name": "lighttpd",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.4.74-2"
 				}
 			]
 		}
