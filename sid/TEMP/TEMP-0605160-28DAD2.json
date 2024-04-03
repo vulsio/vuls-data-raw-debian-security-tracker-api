@@ -15,14 +15,14 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "5.9.2+dfsg-2"
+					"version": "1.8.18+dfsg-2"
 				}
 			]
 		},
@@ -39,14 +39,14 @@
 			]
 		},
 		{
-			"name": "gnumed-client",
+			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.8.5-1",
+			"fixed_version": "4.4.1p1-1",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "1.8.18+dfsg-2"
+					"version": "5.9.2+dfsg-2"
 				}
 			]
 		},
