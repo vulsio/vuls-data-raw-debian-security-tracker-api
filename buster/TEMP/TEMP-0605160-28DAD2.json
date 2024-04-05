@@ -3,30 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "opendnssec",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "1.1.3-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "1:2.1.3-2"
-				}
-			]
-		},
-		{
-			"name": "pymca",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "5.4.3+dfsg-1"
-				}
-			]
-		},
-		{
 			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,30 +11,6 @@
 				{
 					"name": "buster",
 					"version": "3.4.0-1"
-				}
-			]
-		},
-		{
-			"name": "gnumed-client",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.8.5-1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "1.7.5+dfsg-3"
-				}
-			]
-		},
-		{
-			"name": "mmass",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.8.0-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "5.5.0-5"
 				}
 			]
 		},
@@ -75,6 +27,18 @@
 			]
 		},
 		{
+			"name": "opendnssec",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.1.3-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:2.1.3-2"
+				}
+			]
+		},
+		{
 			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
@@ -87,6 +51,30 @@
 			]
 		},
 		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.4.3+dfsg-1"
+				}
+			]
+		},
+		{
+			"name": "gnumed-client",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.5-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.7.5+dfsg-3"
+				}
+			]
+		},
+		{
 			"name": "snappea",
 			"status": "resolved",
 			"urgency": "low",
@@ -95,6 +83,18 @@
 				{
 					"name": "buster",
 					"version": "3.0d3-24"
+				}
+			]
+		},
+		{
+			"name": "mmass",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.8.0-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.5.0-5"
 				}
 			]
 		}
