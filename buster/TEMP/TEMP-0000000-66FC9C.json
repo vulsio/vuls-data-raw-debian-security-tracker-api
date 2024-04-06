@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-66FC9C",
+	"packages": [
+		{
+			"name": "rust-h2",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.1.16-1"
+				}
+			]
+		}
+	]
+}
