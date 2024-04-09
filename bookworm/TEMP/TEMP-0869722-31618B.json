@@ -9,12 +9,12 @@
 			"fixed_version": "8:6.9.7.4+dfsg-13",
 			"repository": [
 				{
-					"name": "bookworm-security",
-					"version": "8:6.9.11.60+dfsg-1.6+deb12u1"
-				},
-				{
 					"name": "bookworm",
 					"version": "8:6.9.11.60+dfsg-1.6"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "8:6.9.11.60+dfsg-1.6+deb12u1"
 				}
 			]
 		}
