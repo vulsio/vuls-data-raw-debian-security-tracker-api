@@ -15,6 +15,18 @@
 			]
 		},
 		{
+			"name": "mmass",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.8.0-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.5.0-5"
+				}
+			]
+		},
+		{
 			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
@@ -27,26 +39,14 @@
 			]
 		},
 		{
-			"name": "calendarserver",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "2.4.dfsg-2.1",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "9.2+dfsg-1"
-				}
-			]
-		},
-		{
-			"name": "opendnssec",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "1.1.3-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "1:2.1.3-2"
+					"version": "1.7.5+dfsg-3"
 				}
 			]
 		},
@@ -75,26 +75,26 @@
 			]
 		},
 		{
-			"name": "gnumed-client",
+			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.8.5-1",
+			"fixed_version": "1.1.3-2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1.7.5+dfsg-3"
+					"version": "1:2.1.3-2"
 				}
 			]
 		},
 		{
-			"name": "mmass",
+			"name": "calendarserver",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.8.0-2",
+			"fixed_version": "2.4.dfsg-2.1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.5.0-5"
+					"version": "9.2+dfsg-1"
 				}
 			]
 		}
