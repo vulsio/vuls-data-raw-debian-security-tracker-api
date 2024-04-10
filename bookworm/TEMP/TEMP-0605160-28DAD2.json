@@ -3,6 +3,18 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "5.8.0+dfsg-2"
+				}
+			]
+		},
+		{
 			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,18 +47,6 @@
 				{
 					"name": "bookworm",
 					"version": "1:2.1.12-2"
-				}
-			]
-		},
-		{
-			"name": "pymca",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "5.8.0+dfsg-2"
 				}
 			]
 		},
