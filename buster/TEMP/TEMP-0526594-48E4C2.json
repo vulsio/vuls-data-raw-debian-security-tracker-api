@@ -9,11 +9,11 @@
 			"fixed_version": "1.8.3-1",
 			"repository": [
 				{
-					"name": "buster-security",
+					"name": "buster",
 					"version": "1.9.9-1+deb10u1"
 				},
 				{
-					"name": "buster",
+					"name": "buster-security",
 					"version": "1.9.9-1+deb10u1"
 				}
 			]
