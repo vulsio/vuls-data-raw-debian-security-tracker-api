@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-D87CDB",
+	"packages": [
+		{
+			"name": "ngircd",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "25-2"
+				}
+			]
+		}
+	]
+}
