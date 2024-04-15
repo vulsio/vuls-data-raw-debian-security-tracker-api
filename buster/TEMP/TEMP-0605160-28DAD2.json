@@ -3,6 +3,18 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
+			"name": "mmass",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.8.0-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.5.0-5"
+				}
+			]
+		},
+		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -15,14 +27,14 @@
 			]
 		},
 		{
-			"name": "snappea",
+			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.0d3-20",
+			"fixed_version": "0.4.2-3",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.0d3-24"
+					"version": "3.4.0-1"
 				}
 			]
 		},
@@ -51,6 +63,18 @@
 			]
 		},
 		{
+			"name": "snappea",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.0d3-20",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0d3-24"
+				}
+			]
+		},
+		{
 			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
@@ -71,30 +95,6 @@
 				{
 					"name": "buster",
 					"version": "3.3.2-10+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "mmass",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.8.0-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "5.5.0-5"
-				}
-			]
-		},
-		{
-			"name": "guake",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.4.2-3",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.4.0-1"
 				}
 			]
 		}
