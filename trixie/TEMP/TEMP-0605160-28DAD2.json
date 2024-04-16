@@ -3,6 +3,18 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "5.8.7+dfsg-2"
+				}
+			]
+		},
+		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -23,18 +35,6 @@
 				{
 					"name": "trixie",
 					"version": "3.4+really3.4-4"
-				}
-			]
-		},
-		{
-			"name": "pymca",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "5.8.7+dfsg-2"
 				}
 			]
 		},
