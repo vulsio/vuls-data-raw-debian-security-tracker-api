@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-70AB0A",
+	"packages": [
+		{
+			"name": "rust-gix-transport",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.41.1-1"
+				}
+			]
+		}
+	]
+}
