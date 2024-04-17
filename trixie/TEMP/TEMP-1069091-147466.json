@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1069091-147466",
+	"debian_bug": 1069091,
+	"packages": [
+		{
+			"name": "wordpress",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.5+dfsg1-1"
+				}
+			]
+		}
+	]
+}
