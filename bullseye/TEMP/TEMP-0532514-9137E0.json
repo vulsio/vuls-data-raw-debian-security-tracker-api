@@ -3,17 +3,6 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "w3m",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "0.5.3+git20210102-6+deb11u1"
-				}
-			]
-		},
-		{
 			"name": "lynx",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -38,6 +27,17 @@
 				{
 					"name": "bullseye",
 					"version": "3.0.5-7"
+				}
+			]
+		},
+		{
+			"name": "w3m",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.5.3+git20210102-6+deb11u1"
 				}
 			]
 		}
