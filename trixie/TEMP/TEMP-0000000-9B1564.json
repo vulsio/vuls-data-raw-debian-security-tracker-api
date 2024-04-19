@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-9B1564",
+	"packages": [
+		{
+			"name": "tryton-server",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.0.39-1"
+				}
+			]
+		}
+	]
+}
