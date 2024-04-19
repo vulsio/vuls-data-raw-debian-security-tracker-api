@@ -3,12 +3,13 @@
 	"packages": [
 		{
 			"name": "rust-gix-transport",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "0.42.0-1",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "0.41.1-1"
+					"version": "0.42.0-1"
 				}
 			]
 		}
