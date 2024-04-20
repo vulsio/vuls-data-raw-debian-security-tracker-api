@@ -15,17 +15,6 @@
 			]
 		},
 		{
-			"name": "w3m",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "0.5.3+git20230121-2"
-				}
-			]
-		},
-		{
 			"name": "lynx",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -33,7 +22,18 @@
 			"repository": [
 				{
 					"name": "sid",
-					"version": "2.9.0rel.0-2"
+					"version": "2.9.1-1"
+				}
+			]
+		},
+		{
+			"name": "w3m",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.5.3+git20230121-2"
 				}
 			]
 		}
