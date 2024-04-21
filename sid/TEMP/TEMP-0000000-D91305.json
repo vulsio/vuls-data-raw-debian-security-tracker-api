@@ -21,7 +21,7 @@
 			"repository": [
 				{
 					"name": "sid",
-					"version": "6.7.4+dfsg-1"
+					"version": "6.7.5+dfsg-1"
 				}
 			]
 		}
