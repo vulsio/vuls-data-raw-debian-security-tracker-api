@@ -3,8 +3,9 @@
 	"packages": [
 		{
 			"name": "rust-zerocopy",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "0.7.32-1",
 			"repository": [
 				{
 					"name": "trixie",
