@@ -3,8 +3,9 @@
 	"packages": [
 		{
 			"name": "mediawiki",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "1:1.31.16-1+deb10u8",
 			"repository": [
 				{
 					"name": "buster",
@@ -12,7 +13,7 @@
 				},
 				{
 					"name": "buster-security",
-					"version": "1:1.31.16-1+deb10u7"
+					"version": "1:1.31.16-1+deb10u8"
 				}
 			]
 		}
