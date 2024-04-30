@@ -4,6 +4,8 @@
 		{
 			"name": "ngircd",
 			"status": "open",
+			"nodsa": "Minor issue, follow bullseye point update",
+			"nodsa_reason": "postponed",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
