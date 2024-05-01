@@ -3,14 +3,13 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "lynx",
-			"status": "resolved",
+			"name": "w3m",
+			"status": "open",
 			"urgency": "unimportant",
-			"fixed_version": "2.8.7rel.1-1",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "2.9.1-1"
+					"version": "0.5.3+git20230121-2"
 				}
 			]
 		},
@@ -27,13 +26,14 @@
 			]
 		},
 		{
-			"name": "w3m",
-			"status": "open",
+			"name": "lynx",
+			"status": "resolved",
 			"urgency": "unimportant",
+			"fixed_version": "2.8.7rel.1-1",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "0.5.3+git20230121-2"
+					"version": "2.9.1-1"
 				}
 			]
 		}
