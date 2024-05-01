@@ -9,23 +9,12 @@
 			"fixed_version": "2.0.35.dfsg-3",
 			"repository": [
 				{
-					"name": "buster",
-					"version": "2.2.5-5.2"
-				},
-				{
 					"name": "buster-security",
 					"version": "2.2.5-5.2+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "libwmf",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
+				},
 				{
 					"name": "buster",
-					"version": "0.2.8.4-14"
+					"version": "2.2.5-5.2"
 				}
 			]
 		},
@@ -38,6 +27,17 @@
 				{
 					"name": "buster",
 					"version": "7.2+dfsg1-2"
+				}
+			]
+		},
+		{
+			"name": "libwmf",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "0.2.8.4-14"
 				}
 			]
 		}
