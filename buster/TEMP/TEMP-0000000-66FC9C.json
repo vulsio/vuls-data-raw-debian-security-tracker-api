@@ -4,6 +4,8 @@
 		{
 			"name": "rust-h2",
 			"status": "open",
+			"nodsa": "Minor issue, CPU DoS",
+			"nodsa_reason": "postponed",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
