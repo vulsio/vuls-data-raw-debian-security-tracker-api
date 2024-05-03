@@ -1,0 +1,18 @@
+{
+	"id": "TEMP-0780178-BE09AB",
+	"debian_bug": 780178,
+	"packages": [
+		{
+			"name": "armagetronad",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.2.8.3.2-4",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.2.9.1.1-1"
+				}
+			]
+		}
+	]
+}
