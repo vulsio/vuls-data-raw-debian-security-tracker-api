@@ -3,13 +3,17 @@
 	"debian_bug": 560108,
 	"packages": [
 		{
-			"name": "dillo",
+			"name": "epiphany-browser",
 			"status": "open",
 			"urgency": "unimportant",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "3.0.5-5"
+					"version": "3.32.1.2-3~deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "3.32.1.2-3~deb10u3"
 				}
 			]
 		},
@@ -19,27 +23,12 @@
 			"urgency": "unimportant",
 			"repository": [
 				{
-					"name": "buster",
-					"version": "4:4.8.7+dfsg-18+deb10u1"
-				},
-				{
 					"name": "buster-security",
 					"version": "4:4.8.7+dfsg-18+deb10u2"
-				}
-			]
-		},
-		{
-			"name": "epiphany-browser",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "buster-security",
-					"version": "3.32.1.2-3~deb10u3"
 				},
 				{
 					"name": "buster",
-					"version": "3.32.1.2-3~deb10u1"
+					"version": "4:4.8.7+dfsg-18+deb10u1"
 				}
 			]
 		},
@@ -51,6 +40,17 @@
 				{
 					"name": "buster",
 					"version": "4:4.14.38-3"
+				}
+			]
+		},
+		{
+			"name": "dillo",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0.5-5"
 				}
 			]
 		}
