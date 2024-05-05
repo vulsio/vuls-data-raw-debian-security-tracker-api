@@ -3,6 +3,18 @@
 	"debian_bug": 784712,
 	"packages": [
 		{
+			"name": "mew",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:6.6-3",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1:6.8-17"
+				}
+			]
+		},
+		{
 			"name": "semi",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -23,18 +35,6 @@
 				{
 					"name": "bookworm",
 					"version": "7.0.50~6.8+0.20221129-4"
-				}
-			]
-		},
-		{
-			"name": "mew",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1:6.6-3",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "1:6.8-17"
 				}
 			]
 		}
