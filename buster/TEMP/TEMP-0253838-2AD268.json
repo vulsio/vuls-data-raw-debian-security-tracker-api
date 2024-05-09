@@ -9,11 +9,11 @@
 			"fixed_version": "2.4.13",
 			"repository": [
 				{
-					"name": "buster-security",
+					"name": "buster",
 					"version": "2.4.47+dfsg-3+deb10u7"
 				},
 				{
-					"name": "buster",
+					"name": "buster-security",
 					"version": "2.4.47+dfsg-3+deb10u7"
 				}
 			]
