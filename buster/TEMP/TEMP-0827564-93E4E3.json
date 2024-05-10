@@ -3,18 +3,6 @@
 	"debian_bug": 827564,
 	"packages": [
 		{
-			"name": "pcre3",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "2:8.39-1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "2:8.39-12"
-				}
-			]
-		},
-		{
 			"name": "pcre2",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -27,6 +15,18 @@
 				{
 					"name": "buster-security",
 					"version": "10.32-5+deb10u1"
+				}
+			]
+		},
+		{
+			"name": "pcre3",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2:8.39-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "2:8.39-12"
 				}
 			]
 		}
