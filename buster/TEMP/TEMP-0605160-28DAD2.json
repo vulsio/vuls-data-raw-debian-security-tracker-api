@@ -3,18 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "opendnssec",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "1.1.3-2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "1:2.1.3-2"
-				}
-			]
-		},
-		{
 			"name": "mmass",
 			"status": "resolved",
 			"urgency": "low",
@@ -23,18 +11,6 @@
 				{
 					"name": "buster",
 					"version": "5.5.0-5"
-				}
-			]
-		},
-		{
-			"name": "distcc",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.1-3.2",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.3.2-10+deb10u1"
 				}
 			]
 		},
@@ -51,14 +27,14 @@
 			]
 		},
 		{
-			"name": "gnumed-client",
+			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.8.5-1",
+			"fixed_version": "3.1-3.2",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "1.7.5+dfsg-3"
+					"version": "3.3.2-10+deb10u1"
 				}
 			]
 		},
@@ -71,6 +47,18 @@
 				{
 					"name": "buster",
 					"version": "5.4.3+dfsg-1"
+				}
+			]
+		},
+		{
+			"name": "gnumed-client",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.5-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.7.5+dfsg-3"
 				}
 			]
 		},
@@ -95,6 +83,18 @@
 				{
 					"name": "buster",
 					"version": "3.4.0-1"
+				}
+			]
+		},
+		{
+			"name": "opendnssec",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.1.3-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1:2.1.3-2"
 				}
 			]
 		}
