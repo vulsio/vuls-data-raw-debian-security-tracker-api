@@ -27,6 +27,18 @@
 			]
 		},
 		{
+			"name": "gnumed-client",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.8.5-1",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.8.5+dfsg-2"
+				}
+			]
+		},
+		{
 			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
@@ -47,18 +59,6 @@
 				{
 					"name": "bullseye",
 					"version": "3.4+really3.3.5-3"
-				}
-			]
-		},
-		{
-			"name": "gnumed-client",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.8.5-1",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "1.8.5+dfsg-2"
 				}
 			]
 		}
