@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-1071474-FA7C03",
+	"debian_bug": 1071474,
+	"packages": [
+		{
+			"name": "roundcube",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "1.3.17+dfsg.1-1~deb10u2"
+				},
+				{
+					"name": "buster-security",
+					"version": "1.3.17+dfsg.1-1~deb10u5"
+				}
+			]
+		}
+	]
+}

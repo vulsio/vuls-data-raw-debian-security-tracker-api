@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-1071474-11F74A",
+	"debian_bug": 1071474,
+	"packages": [
+		{
+			"name": "roundcube",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.6.5+dfsg-1~deb12u1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "1.6.5+dfsg-1~deb12u1"
+				}
+			]
+		}
+	]
+}
