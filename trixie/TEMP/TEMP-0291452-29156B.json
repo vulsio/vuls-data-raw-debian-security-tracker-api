@@ -10,7 +10,7 @@
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "10.03.1~dfsg~git20240518-1"
+					"version": "10.03.1~dfsg-1"
 				}
 			]
 		}
