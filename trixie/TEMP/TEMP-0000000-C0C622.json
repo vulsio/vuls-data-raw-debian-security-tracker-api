@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-C0C622",
 	"packages": [
 		{
-			"name": "mplayer",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1.0~rc1-12",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "2:1.5+svn38446-2"
-				}
-			]
-		},
-		{
 			"name": "ffmpeg",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -22,6 +10,18 @@
 				{
 					"name": "trixie",
 					"version": "7:6.1.1-4"
+				}
+			]
+		},
+		{
+			"name": "mplayer",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.0~rc1-12",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2:1.5+svn38446-2"
 				}
 			]
 		}
