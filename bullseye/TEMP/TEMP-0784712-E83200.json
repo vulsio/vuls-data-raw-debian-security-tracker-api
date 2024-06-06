@@ -3,6 +3,18 @@
 	"debian_bug": 784712,
 	"packages": [
 		{
+			"name": "mew",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:6.6-3",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1:6.8-13"
+				}
+			]
+		},
+		{
 			"name": "semi",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -23,18 +35,6 @@
 				{
 					"name": "bullseye",
 					"version": "7.0.50~6.8+0.20210131-2"
-				}
-			]
-		},
-		{
-			"name": "mew",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1:6.6-3",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "1:6.8-13"
 				}
 			]
 		}
