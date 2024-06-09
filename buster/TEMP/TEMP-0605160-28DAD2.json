@@ -15,26 +15,14 @@
 			]
 		},
 		{
-			"name": "mmass",
+			"name": "calendarserver",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "3.8.0-2",
+			"fixed_version": "2.4.dfsg-2.1",
 			"repository": [
 				{
 					"name": "buster",
-					"version": "5.5.0-5"
-				}
-			]
-		},
-		{
-			"name": "snappea",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.0d3-20",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0d3-24"
+					"version": "9.2+dfsg-1"
 				}
 			]
 		},
@@ -63,18 +51,6 @@
 			]
 		},
 		{
-			"name": "calendarserver",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2.4.dfsg-2.1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "9.2+dfsg-1"
-				}
-			]
-		},
-		{
 			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
@@ -87,6 +63,18 @@
 			]
 		},
 		{
+			"name": "snappea",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.0d3-20",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0d3-24"
+				}
+			]
+		},
+		{
 			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
@@ -95,6 +83,18 @@
 				{
 					"name": "buster",
 					"version": "3.3.2-10+deb10u1"
+				}
+			]
+		},
+		{
+			"name": "mmass",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.8.0-2",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "5.5.0-5"
 				}
 			]
 		}
