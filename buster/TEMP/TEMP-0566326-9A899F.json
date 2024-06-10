@@ -3,6 +3,22 @@
 	"debian_bug": 566326,
 	"packages": [
 		{
+			"name": "sqlite3",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.6.21-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.27.2-3+deb10u1"
+				},
+				{
+					"name": "buster-security",
+					"version": "3.27.2-3+deb10u2"
+				}
+			]
+		},
+		{
 			"name": "sqlite",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -15,22 +31,6 @@
 				{
 					"name": "buster-security",
 					"version": "2.8.17-15+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "sqlite3",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.6.21-1",
-			"repository": [
-				{
-					"name": "buster-security",
-					"version": "3.27.2-3+deb10u2"
-				},
-				{
-					"name": "buster",
-					"version": "3.27.2-3+deb10u1"
 				}
 			]
 		}
