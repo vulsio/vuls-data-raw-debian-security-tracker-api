@@ -3,6 +3,18 @@
 	"debian_bug": 601525,
 	"packages": [
 		{
+			"name": "racket",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "5.0.2-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "8.12+dfsg1-10"
+				}
+			]
+		},
+		{
 			"name": "libwmf",
 			"status": "open",
 			"urgency": "unimportant",
@@ -22,18 +34,6 @@
 				{
 					"name": "trixie",
 					"version": "2.3.3-9"
-				}
-			]
-		},
-		{
-			"name": "racket",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "5.0.2-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "8.12+dfsg1-10"
 				}
 			]
 		}
