@@ -3,18 +3,30 @@
 	"debian_bug": 601525,
 	"packages": [
 		{
+			"name": "racket",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "5.0.2-1",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "7.2+dfsg1-2"
+				}
+			]
+		},
+		{
 			"name": "libgd2",
 			"status": "resolved",
 			"urgency": "not yet assigned",
 			"fixed_version": "2.0.35.dfsg-3",
 			"repository": [
 				{
-					"name": "buster-security",
-					"version": "2.2.5-5.2+deb10u1"
-				},
-				{
 					"name": "buster",
 					"version": "2.2.5-5.2"
+				},
+				{
+					"name": "buster-security",
+					"version": "2.2.5-5.2+deb10u1"
 				}
 			]
 		},
@@ -26,18 +38,6 @@
 				{
 					"name": "buster",
 					"version": "0.2.8.4-14"
-				}
-			]
-		},
-		{
-			"name": "racket",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "5.0.2-1",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "7.2+dfsg1-2"
 				}
 			]
 		}
