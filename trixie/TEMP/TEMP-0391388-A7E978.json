@@ -1,0 +1,18 @@
+{
+	"id": "TEMP-0391388-A7E978",
+	"debian_bug": 391388,
+	"packages": [
+		{
+			"name": "zabbix",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1:1.1.2-4",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1:7.0.0+dfsg-2"
+				}
+			]
+		}
+	]
+}
