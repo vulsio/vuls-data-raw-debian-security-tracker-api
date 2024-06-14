@@ -8,12 +8,12 @@
 			"fixed_version": "2:1.0.3-5",
 			"repository": [
 				{
-					"name": "buster",
-					"version": "2:1.6.7-1+deb10u2"
-				},
-				{
 					"name": "buster-security",
 					"version": "2:1.6.7-1+deb10u4"
+				},
+				{
+					"name": "buster",
+					"version": "2:1.6.7-1+deb10u2"
 				}
 			]
 		}
