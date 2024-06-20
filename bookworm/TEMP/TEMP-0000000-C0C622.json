@@ -2,6 +2,18 @@
 	"id": "TEMP-0000000-C0C622",
 	"packages": [
 		{
+			"name": "mplayer",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.0~rc1-12",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "2:1.5+svn38408-1"
+				}
+			]
+		},
+		{
 			"name": "ffmpeg",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -14,18 +26,6 @@
 				{
 					"name": "bookworm-security",
 					"version": "7:5.1.5-0+deb12u1"
-				}
-			]
-		},
-		{
-			"name": "mplayer",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "1.0~rc1-12",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "2:1.5+svn38408-1"
 				}
 			]
 		}
