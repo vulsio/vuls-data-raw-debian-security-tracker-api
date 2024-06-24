@@ -2,6 +2,22 @@
 	"id": "TEMP-0000000-F99584",
 	"packages": [
 		{
+			"name": "squid",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bullseye-security",
+					"version": "4.13-10+deb11u3"
+				},
+				{
+					"name": "bullseye",
+					"version": "4.13-10+deb11u2"
+				}
+			]
+		},
+		{
 			"name": "lighttpd",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -14,22 +30,6 @@
 				{
 					"name": "bullseye-security",
 					"version": "1.4.59-1+deb11u2"
-				}
-			]
-		},
-		{
-			"name": "squid",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "4.13-10+deb11u2"
-				},
-				{
-					"name": "bullseye-security",
-					"version": "4.13-10+deb11u3"
 				}
 			]
 		}
