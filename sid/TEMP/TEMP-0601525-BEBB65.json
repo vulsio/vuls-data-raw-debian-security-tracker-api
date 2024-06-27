@@ -3,14 +3,14 @@
 	"debian_bug": 601525,
 	"packages": [
 		{
-			"name": "racket",
+			"name": "libgd2",
 			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "5.0.2-1",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.0.35.dfsg-3",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "8.13+dfsg1-2"
+					"version": "2.3.3-9"
 				}
 			]
 		},
@@ -26,14 +26,14 @@
 			]
 		},
 		{
-			"name": "libgd2",
+			"name": "racket",
 			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "2.0.35.dfsg-3",
+			"urgency": "unimportant",
+			"fixed_version": "5.0.2-1",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "2.3.3-9"
+					"version": "8.13+dfsg1-2"
 				}
 			]
 		}
