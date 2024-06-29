@@ -4,7 +4,6 @@
 		{
 			"name": "tryton-server",
 			"status": "open",
-			"nodsa": "Minor issue",
 			"urgency": "not yet assigned",
 			"repository": [
 				{

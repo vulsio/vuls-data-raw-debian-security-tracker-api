@@ -4,7 +4,6 @@
 		{
 			"name": "ngircd",
 			"status": "open",
-			"nodsa": "Minor issue, will be fixed via point update",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
