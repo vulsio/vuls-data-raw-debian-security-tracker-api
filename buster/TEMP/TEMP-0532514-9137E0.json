@@ -3,6 +3,18 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
+			"name": "dillo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "buster",
+					"version": "3.0.5-5"
+				}
+			]
+		},
+		{
 			"name": "lynx",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -30,18 +42,6 @@
 				{
 					"name": "buster-security",
 					"version": "0.5.3-37+deb10u1"
-				}
-			]
-		},
-		{
-			"name": "dillo",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "buster",
-					"version": "3.0.5-5"
 				}
 			]
 		}
