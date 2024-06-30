@@ -2,6 +2,22 @@
 	"id": "TEMP-0000000-B138FB",
 	"packages": [
 		{
+			"name": "ffmpeg",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.cvs20060823-6",
+			"repository": [
+				{
+					"name": "bookworm-security",
+					"version": "7:5.1.5-0+deb12u1"
+				},
+				{
+					"name": "bookworm",
+					"version": "7:5.1.5-0+deb12u1"
+				}
+			]
+		},
+		{
 			"name": "mplayer",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -10,22 +26,6 @@
 				{
 					"name": "bookworm",
 					"version": "2:1.5+svn38408-1"
-				}
-			]
-		},
-		{
-			"name": "ffmpeg",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "0.cvs20060823-6",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "7:5.1.5-0+deb12u1"
-				},
-				{
-					"name": "bookworm-security",
-					"version": "7:5.1.5-0+deb12u1"
 				}
 			]
 		}
