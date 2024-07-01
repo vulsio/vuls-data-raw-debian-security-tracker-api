@@ -3,6 +3,18 @@
 	"debian_bug": 601525,
 	"packages": [
 		{
+			"name": "racket",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "5.0.2-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "8.13+dfsg1-2"
+				}
+			]
+		},
+		{
 			"name": "libgd2",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -22,18 +34,6 @@
 				{
 					"name": "trixie",
 					"version": "0.2.13-1.1"
-				}
-			]
-		},
-		{
-			"name": "racket",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "5.0.2-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "8.13+dfsg1-2"
 				}
 			]
 		}
