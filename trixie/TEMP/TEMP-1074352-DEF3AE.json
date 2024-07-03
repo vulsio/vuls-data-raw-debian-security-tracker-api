@@ -4,12 +4,13 @@
 	"packages": [
 		{
 			"name": "rust-sequoia-openpgp",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "1.21.0-1",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "1.20.0-2"
+					"version": "1.21.1-2"
 				}
 			]
 		}
