@@ -3,14 +3,13 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "dillo",
-			"status": "resolved",
+			"name": "w3m",
+			"status": "open",
 			"urgency": "unimportant",
-			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "3.0.5-7"
+					"version": "0.5.3+git20210102-6+deb11u1"
 				}
 			]
 		},
@@ -21,23 +20,24 @@
 			"fixed_version": "2.8.7rel.1-1",
 			"repository": [
 				{
-					"name": "bullseye",
+					"name": "bullseye-security",
 					"version": "2.9.0dev.6-3~deb11u1"
 				},
 				{
-					"name": "bullseye-security",
+					"name": "bullseye",
 					"version": "2.9.0dev.6-3~deb11u1"
 				}
 			]
 		},
 		{
-			"name": "w3m",
-			"status": "open",
+			"name": "dillo",
+			"status": "resolved",
 			"urgency": "unimportant",
+			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "bullseye",
-					"version": "0.5.3+git20210102-6+deb11u1"
+					"version": "3.0.5-7"
 				}
 			]
 		}
