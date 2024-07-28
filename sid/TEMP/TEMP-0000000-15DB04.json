@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-15DB04",
+	"packages": [
+		{
+			"name": "rust-gix-attributes",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.22.2-1"
+				}
+			]
+		}
+	]
+}
