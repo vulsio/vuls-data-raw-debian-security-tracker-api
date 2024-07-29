@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-00902A",
+	"packages": [
+		{
+			"name": "wireshark",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "4.2.6-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "4.2.6-1"
+				}
+			]
+		}
+	]
+}

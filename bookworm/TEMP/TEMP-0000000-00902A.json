@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-0000000-00902A",
+	"packages": [
+		{
+			"name": "wireshark",
+			"status": "open",
+			"nodsa": "Minor issue",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "4.0.11-1~deb12u1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "4.0.11-1~deb12u1"
+				}
+			]
+		}
+	]
+}
