@@ -2,6 +2,18 @@
 	"id": "TEMP-0000000-C0C622",
 	"packages": [
 		{
+			"name": "ffmpeg",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.cvs20060823-6",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "7:7.0.1-5"
+				}
+			]
+		},
+		{
 			"name": "mplayer",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -10,18 +22,6 @@
 				{
 					"name": "sid",
 					"version": "2:1.5+svn38542-1"
-				}
-			]
-		},
-		{
-			"name": "ffmpeg",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "0.cvs20060823-6",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "7:7.0.1-4"
 				}
 			]
 		}
