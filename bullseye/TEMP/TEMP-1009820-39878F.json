@@ -5,7 +5,7 @@
 		{
 			"name": "snort",
 			"status": "open",
-			"urgency": "not yet assigned",
+			"urgency": "end-of-life",
 			"repository": [
 				{
 					"name": "bullseye-security",
