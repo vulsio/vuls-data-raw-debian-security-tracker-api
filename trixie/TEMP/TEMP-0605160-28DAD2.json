@@ -3,18 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "gnumed-client",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.8.5-1",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "1.8.18+dfsg-2"
-				}
-			]
-		},
-		{
 			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
@@ -27,14 +15,14 @@
 			]
 		},
 		{
-			"name": "guake",
+			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "0.4.2-3",
+			"fixed_version": "0.8.5-1",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "3.10-2"
+					"version": "1.8.18+dfsg-2"
 				}
 			]
 		},
@@ -51,6 +39,18 @@
 			]
 		},
 		{
+			"name": "guake",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.4.2-3",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "3.10-2"
+				}
+			]
+		},
+		{
 			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
@@ -58,7 +58,7 @@
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "5.9.2+dfsg-2"
+					"version": "5.9.3+dfsg-1"
 				}
 			]
 		}
