@@ -2,6 +2,22 @@
 	"id": "TEMP-0000000-F99584",
 	"packages": [
 		{
+			"name": "squid",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "5.7-2+deb12u1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "5.7-2+deb12u2"
+				}
+			]
+		},
+		{
 			"name": "lighttpd",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -10,22 +26,6 @@
 				{
 					"name": "bookworm",
 					"version": "1.4.69-1"
-				}
-			]
-		},
-		{
-			"name": "squid",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "bookworm-security",
-					"version": "5.7-2+deb12u2"
-				},
-				{
-					"name": "bookworm",
-					"version": "5.7-2+deb12u1"
 				}
 			]
 		}
