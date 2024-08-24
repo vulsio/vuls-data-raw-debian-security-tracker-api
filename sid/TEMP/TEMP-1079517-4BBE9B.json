@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1079517-4BBE9B",
+	"debian_bug": 1079517,
+	"packages": [
+		{
+			"name": "rust-sqlx",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.7.3-4"
+				}
+			]
+		}
+	]
+}
