@@ -15,6 +15,18 @@
 			]
 		},
 		{
+			"name": "guake",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "0.4.2-3",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.9.0-2"
+				}
+			]
+		},
+		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,18 +47,6 @@
 				{
 					"name": "bookworm",
 					"version": "1:2.1.12-2"
-				}
-			]
-		},
-		{
-			"name": "guake",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.4.2-3",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "3.9.0-2"
 				}
 			]
 		},
