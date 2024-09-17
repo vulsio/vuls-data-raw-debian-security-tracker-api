@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-F368BB",
+	"packages": [
+		{
+			"name": "rust-lexical-core",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.7.6-2"
+				}
+			]
+		}
+	]
+}
