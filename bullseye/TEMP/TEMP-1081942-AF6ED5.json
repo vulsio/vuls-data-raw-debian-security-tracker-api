@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1081942-AF6ED5",
+	"debian_bug": 1081942,
+	"packages": [
+		{
+			"name": "weechat",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "3.0-1+deb11u1"
+				}
+			]
+		}
+	]
+}
