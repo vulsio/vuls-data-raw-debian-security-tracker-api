@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1082053-F368BB",
+	"debian_bug": 1082053,
+	"packages": [
+		{
+			"name": "rust-lexical-core",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "0.4.3-2"
+				}
+			]
+		}
+	]
+}
