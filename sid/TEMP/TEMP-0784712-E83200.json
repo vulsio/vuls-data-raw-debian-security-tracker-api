@@ -3,6 +3,18 @@
 	"debian_bug": 784712,
 	"packages": [
 		{
+			"name": "mew-beta",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "7.0.50~6.6+0.20150508-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "7.0.50~6.8+0.20221129-4"
+				}
+			]
+		},
+		{
 			"name": "semi",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -23,18 +35,6 @@
 				{
 					"name": "sid",
 					"version": "1:6.8-17"
-				}
-			]
-		},
-		{
-			"name": "mew-beta",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "7.0.50~6.6+0.20150508-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "7.0.50~6.8+0.20221129-4"
 				}
 			]
 		}
