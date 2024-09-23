@@ -4,8 +4,9 @@
 	"packages": [
 		{
 			"name": "weechat",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "4.4.2-1",
 			"repository": [
 				{
 					"name": "sid",
