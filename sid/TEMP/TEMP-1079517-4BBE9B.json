@@ -4,8 +4,9 @@
 	"packages": [
 		{
 			"name": "rust-sqlx",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "0.8.2-1",
 			"repository": [
 				{
 					"name": "sid",
