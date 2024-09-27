@@ -7,11 +7,11 @@
 			"urgency": "not yet assigned",
 			"repository": [
 				{
-					"name": "bullseye",
+					"name": "bullseye-security",
 					"version": "5.0.33-2+deb11u2"
 				},
 				{
-					"name": "bullseye-security",
+					"name": "bullseye",
 					"version": "5.0.33-2+deb11u2"
 				}
 			]
