@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-8D95C4",
+	"packages": [
+		{
+			"name": "znuny",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "6.5.10-1"
+				}
+			]
+		}
+	]
+}
