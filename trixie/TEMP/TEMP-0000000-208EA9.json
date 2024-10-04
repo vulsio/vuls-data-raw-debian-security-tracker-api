@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-208EA9",
+	"packages": [
+		{
+			"name": "mediawiki",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1:1.39.8-1"
+				}
+			]
+		}
+	]
+}

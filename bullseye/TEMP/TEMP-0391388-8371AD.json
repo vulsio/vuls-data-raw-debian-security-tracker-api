@@ -11,6 +11,10 @@
 				{
 					"name": "bullseye",
 					"version": "1:5.0.8+dfsg-1"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "1:5.0.44+dfsg-1+deb11u1"
 				}
 			]
 		}
