@@ -3,12 +3,13 @@
 	"packages": [
 		{
 			"name": "rust-gix-attributes",
-			"status": "open",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "0.22.5-1",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "0.22.2-1"
+					"version": "0.22.5-1"
 				}
 			]
 		}
