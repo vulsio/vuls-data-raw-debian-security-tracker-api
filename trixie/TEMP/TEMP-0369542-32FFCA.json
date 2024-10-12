@@ -1,0 +1,18 @@
+{
+	"id": "TEMP-0369542-32FFCA",
+	"debian_bug": 369542,
+	"packages": [
+		{
+			"name": "ssmtp",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2.61-10.1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "2.64-12"
+				}
+			]
+		}
+	]
+}
