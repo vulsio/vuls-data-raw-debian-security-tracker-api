@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-BD3902",
+	"packages": [
+		{
+			"name": "sogo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "5.8.0-1"
+				}
+			]
+		}
+	]
+}

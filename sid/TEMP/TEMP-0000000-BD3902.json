@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-BD3902",
+	"packages": [
+		{
+			"name": "sogo",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "5.11.2-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "5.11.2-1"
+				}
+			]
+		}
+	]
+}
