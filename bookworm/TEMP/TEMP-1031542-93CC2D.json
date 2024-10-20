@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1031542-93CC2D",
+	"debian_bug": 1031542,
+	"packages": [
+		{
+			"name": "dbeacon",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "0.4.0-2"
+				}
+			]
+		}
+	]
+}
