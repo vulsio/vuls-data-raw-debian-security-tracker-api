@@ -3,13 +3,14 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
-			"name": "w3m",
-			"status": "open",
+			"name": "dillo",
+			"status": "resolved",
 			"urgency": "unimportant",
+			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "0.5.3+git20230121-2"
+					"version": "3.0.5-7.1"
 				}
 			]
 		},
@@ -26,14 +27,13 @@
 			]
 		},
 		{
-			"name": "dillo",
-			"status": "resolved",
+			"name": "w3m",
+			"status": "open",
 			"urgency": "unimportant",
-			"fixed_version": "0",
 			"repository": [
 				{
 					"name": "trixie",
-					"version": "3.0.5-7.1"
+					"version": "0.5.3+git20230121-2"
 				}
 			]
 		}
