@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1086443-69D836",
+	"debian_bug": 1086443,
+	"packages": [
+		{
+			"name": "mpg123",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "1.32.7-1"
+				}
+			]
+		}
+	]
+}
