@@ -5,6 +5,8 @@
 		{
 			"name": "dbeacon",
 			"status": "open",
+			"nodsa": "Minor issue",
+			"nodsa_reason": "postponed",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
