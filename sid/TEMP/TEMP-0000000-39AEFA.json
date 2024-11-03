@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-39AEFA",
+	"packages": [
+		{
+			"name": "guix",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "1.4.0-8",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.4.0-8"
+				}
+			]
+		}
+	]
+}
