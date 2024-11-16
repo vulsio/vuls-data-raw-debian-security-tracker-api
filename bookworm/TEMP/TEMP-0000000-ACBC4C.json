@@ -19,11 +19,11 @@
 			"fixed_version": "1.6.0-1",
 			"repository": [
 				{
-					"name": "bookworm",
+					"name": "bookworm-security",
 					"version": "1.28.17-3+deb12u1"
 				},
 				{
-					"name": "bookworm-security",
+					"name": "bookworm",
 					"version": "1.28.17-3+deb12u1"
 				}
 			]
