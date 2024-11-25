@@ -3,6 +3,18 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
+			"name": "opendnssec",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "1.1.3-2",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1:2.1.12-2"
+				}
+			]
+		},
+		{
 			"name": "pymca",
 			"status": "resolved",
 			"urgency": "low",
@@ -27,30 +39,6 @@
 			]
 		},
 		{
-			"name": "distcc",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.1-3.2",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "3.4+really3.4-3"
-				}
-			]
-		},
-		{
-			"name": "opendnssec",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "1.1.3-2",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "1:2.1.12-2"
-				}
-			]
-		},
-		{
 			"name": "gnumed-client",
 			"status": "resolved",
 			"urgency": "low",
@@ -59,6 +47,18 @@
 				{
 					"name": "bookworm",
 					"version": "1.8.9+dfsg-1"
+				}
+			]
+		},
+		{
+			"name": "distcc",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "3.1-3.2",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "3.4+really3.4-3"
 				}
 			]
 		}
