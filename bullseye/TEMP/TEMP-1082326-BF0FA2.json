@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-1082326-BF0FA2",
+	"debian_bug": 1082326,
+	"packages": [
+		{
+			"name": "proftpd-dfsg",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "1.3.7a+dfsg-12+deb11u2"
+				}
+			]
+		}
+	]
+}
