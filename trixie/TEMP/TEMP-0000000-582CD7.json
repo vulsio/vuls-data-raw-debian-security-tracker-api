@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-582CD7",
+	"packages": [
+		{
+			"name": "rust-ruzstd",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.5.0-1"
+				}
+			]
+		}
+	]
+}
