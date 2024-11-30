@@ -2,22 +2,6 @@
 	"id": "TEMP-0000000-ACBC4C",
 	"packages": [
 		{
-			"name": "cups-filters",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "1.6.0-1",
-			"repository": [
-				{
-					"name": "bookworm-security",
-					"version": "1.28.17-3+deb12u1"
-				},
-				{
-					"name": "bookworm",
-					"version": "1.28.17-3+deb12u1"
-				}
-			]
-		},
-		{
 			"name": "foomatic-filters",
 			"status": "open",
 			"urgency": "unimportant",
@@ -25,6 +9,22 @@
 				{
 					"name": "bookworm",
 					"version": "4.0.17-16"
+				}
+			]
+		},
+		{
+			"name": "cups-filters",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "1.6.0-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "1.28.17-3+deb12u1"
+				},
+				{
+					"name": "bookworm-security",
+					"version": "1.28.17-3+deb12u1"
 				}
 			]
 		}
