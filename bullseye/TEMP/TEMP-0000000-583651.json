@@ -2,6 +2,22 @@
 	"id": "TEMP-0000000-583651",
 	"packages": [
 		{
+			"name": "nss",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:3.23-1",
+			"repository": [
+				{
+					"name": "bullseye-security",
+					"version": "2:3.61-1+deb11u4"
+				},
+				{
+					"name": "bullseye",
+					"version": "2:3.61-1+deb11u3"
+				}
+			]
+		},
+		{
 			"name": "nspr",
 			"status": "resolved",
 			"urgency": "low",
@@ -10,22 +26,6 @@
 				{
 					"name": "bullseye",
 					"version": "2:4.29-1"
-				}
-			]
-		},
-		{
-			"name": "nss",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2:3.23-1",
-			"repository": [
-				{
-					"name": "bullseye",
-					"version": "2:3.61-1+deb11u3"
-				},
-				{
-					"name": "bullseye-security",
-					"version": "2:3.61-1+deb11u4"
 				}
 			]
 		}
