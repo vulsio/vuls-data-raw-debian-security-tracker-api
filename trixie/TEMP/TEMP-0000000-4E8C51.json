@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-4E8C51",
+	"packages": [
+		{
+			"name": "rust-pyo3",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.22.6-1"
+				}
+			]
+		}
+	]
+}

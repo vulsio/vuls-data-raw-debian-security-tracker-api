@@ -1,0 +1,17 @@
+{
+	"id": "TEMP-0000000-2480C7",
+	"packages": [
+		{
+			"name": "rust-anstream",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "0.6.7-1",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.6.15-1"
+				}
+			]
+		}
+	]
+}
