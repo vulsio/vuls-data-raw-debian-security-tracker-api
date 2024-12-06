@@ -10,7 +10,7 @@
 			"repository": [
 				{
 					"name": "bullseye-security",
-					"version": "1.0.7+dfsg-1~deb11u1"
+					"version": "1.0.7+dfsg-1~deb11u2"
 				},
 				{
 					"name": "bullseye",
