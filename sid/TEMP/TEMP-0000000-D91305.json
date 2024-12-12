@@ -2,6 +2,18 @@
 	"id": "TEMP-0000000-D91305",
 	"packages": [
 		{
+			"name": "tcpdf",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "6.0.010+dfsg-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "6.7.7+dfsg-1"
+				}
+			]
+		},
+		{
 			"name": "phpmyadmin",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -10,18 +22,6 @@
 				{
 					"name": "sid",
 					"version": "4:5.2.2-really5.2.2+20241130+dfsg-1"
-				}
-			]
-		},
-		{
-			"name": "tcpdf",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "6.0.010+dfsg-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "6.7.5+dfsg-1"
 				}
 			]
 		}
