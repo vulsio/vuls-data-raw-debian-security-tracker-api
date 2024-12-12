@@ -3,6 +3,18 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
+			"name": "dillo",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "3.0.5-7.1"
+				}
+			]
+		},
+		{
 			"name": "w3m",
 			"status": "open",
 			"urgency": "unimportant",
@@ -22,18 +34,6 @@
 				{
 					"name": "sid",
 					"version": "2.9.2-1"
-				}
-			]
-		},
-		{
-			"name": "dillo",
-			"status": "resolved",
-			"urgency": "unimportant",
-			"fixed_version": "0",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "3.0.5-7.1"
 				}
 			]
 		}
