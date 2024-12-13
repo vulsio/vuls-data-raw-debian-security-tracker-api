@@ -3,18 +3,6 @@
 	"debian_bug": 783007,
 	"packages": [
 		{
-			"name": "suricata",
-			"status": "resolved",
-			"urgency": "not yet assigned",
-			"fixed_version": "2.0.7-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "1:7.0.7-1"
-				}
-			]
-		},
-		{
 			"name": "libhtp",
 			"status": "resolved",
 			"urgency": "not yet assigned",
@@ -23,6 +11,18 @@
 				{
 					"name": "sid",
 					"version": "1:0.5.49-1"
+				}
+			]
+		},
+		{
+			"name": "suricata",
+			"status": "resolved",
+			"urgency": "not yet assigned",
+			"fixed_version": "2.0.7-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1:7.0.8-1"
 				}
 			]
 		}
