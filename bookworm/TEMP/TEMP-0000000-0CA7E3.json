@@ -8,11 +8,11 @@
 			"fixed_version": "0",
 			"repository": [
 				{
-					"name": "bookworm",
+					"name": "bookworm-security",
 					"version": "6.1.6+dfsg1-0+deb12u1"
 				},
 				{
-					"name": "bookworm-security",
+					"name": "bookworm",
 					"version": "6.1.6+dfsg1-0+deb12u1"
 				}
 			]
