@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-3774D9",
+	"packages": [
+		{
+			"name": "rust-kvm-ioctls",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.2.0-1"
+				}
+			]
+		}
+	]
+}
