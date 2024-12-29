@@ -1,5 +1,6 @@
 {
-	"id": "TEMP-0000000-3774D9",
+	"id": "TEMP-1091632-3774D9",
+	"debian_bug": 1091632,
 	"packages": [
 		{
 			"name": "rust-kvm-ioctls",
@@ -7,7 +8,7 @@
 			"urgency": "not yet assigned",
 			"repository": [
 				{
-					"name": "sid",
+					"name": "trixie",
 					"version": "0.2.0-1"
 				}
 			]
