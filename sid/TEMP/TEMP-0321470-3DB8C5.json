@@ -10,7 +10,7 @@
 			"repository": [
 				{
 					"name": "sid",
-					"version": "9.0~repack-7"
+					"version": "10.0~rc1~repack-1"
 				}
 			]
 		}
