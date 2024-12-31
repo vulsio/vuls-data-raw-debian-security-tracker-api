@@ -15,18 +15,6 @@
 			]
 		},
 		{
-			"name": "distcc",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "3.1-3.2",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "3.4+really3.4-9"
-				}
-			]
-		},
-		{
 			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
@@ -35,6 +23,18 @@
 				{
 					"name": "sid",
 					"version": "1:2.1.13-1.2"
+				}
+			]
+		},
+		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "5.9.3+dfsg-1"
 				}
 			]
 		},
@@ -51,14 +51,14 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "distcc",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "3.1-3.2",
 			"repository": [
 				{
 					"name": "sid",
-					"version": "5.9.3+dfsg-1"
+					"version": "3.4+really3.4-9"
 				}
 			]
 		}
