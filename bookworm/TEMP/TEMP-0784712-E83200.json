@@ -3,14 +3,14 @@
 	"debian_bug": 784712,
 	"packages": [
 		{
-			"name": "mew-beta",
+			"name": "semi",
 			"status": "resolved",
 			"urgency": "not yet assigned",
-			"fixed_version": "7.0.50~6.6+0.20150508-1",
+			"fixed_version": "1.14.7~0.20120428-17",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "7.0.50~6.8+0.20221129-4"
+					"version": "1.14.7~0.20230104-1"
 				}
 			]
 		},
@@ -27,14 +27,14 @@
 			]
 		},
 		{
-			"name": "semi",
+			"name": "mew-beta",
 			"status": "resolved",
 			"urgency": "not yet assigned",
-			"fixed_version": "1.14.7~0.20120428-17",
+			"fixed_version": "7.0.50~6.6+0.20150508-1",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "1.14.7~0.20230104-1"
+					"version": "7.0.50~6.8+0.20221129-4"
 				}
 			]
 		}
