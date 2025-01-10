@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-583651",
 	"packages": [
 		{
-			"name": "nspr",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2:4.12-1",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "2:4.35-1"
-				}
-			]
-		},
-		{
 			"name": "nss",
 			"status": "resolved",
 			"urgency": "low",
@@ -26,6 +14,18 @@
 				{
 					"name": "bookworm-security",
 					"version": "2:3.87.1-1+deb12u1"
+				}
+			]
+		},
+		{
+			"name": "nspr",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:4.12-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "2:4.35-1"
 				}
 			]
 		}
