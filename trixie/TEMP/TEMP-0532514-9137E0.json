@@ -3,6 +3,17 @@
 	"debian_bug": 520324,
 	"packages": [
 		{
+			"name": "w3m",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.5.3+git20230121-2.1"
+				}
+			]
+		},
+		{
 			"name": "dillo",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -11,17 +22,6 @@
 				{
 					"name": "trixie",
 					"version": "3.0.5-7.1"
-				}
-			]
-		},
-		{
-			"name": "w3m",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "0.5.3+git20230121-2.1"
 				}
 			]
 		},
