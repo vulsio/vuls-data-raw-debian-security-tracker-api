@@ -15,17 +15,6 @@
 			]
 		},
 		{
-			"name": "libwmf",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "trixie",
-					"version": "0.2.13-1.1"
-				}
-			]
-		},
-		{
 			"name": "racket",
 			"status": "resolved",
 			"urgency": "unimportant",
@@ -34,6 +23,17 @@
 				{
 					"name": "trixie",
 					"version": "8.14+dfsg1-1"
+				}
+			]
+		},
+		{
+			"name": "libwmf",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "0.2.13-1.1"
 				}
 			]
 		}
