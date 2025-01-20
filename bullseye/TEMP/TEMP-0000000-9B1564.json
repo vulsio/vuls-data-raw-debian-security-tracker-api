@@ -3,17 +3,17 @@
 	"packages": [
 		{
 			"name": "tryton-server",
-			"status": "open",
-			"nodsa": "Minor issue",
+			"status": "resolved",
 			"urgency": "not yet assigned",
+			"fixed_version": "5.0.33-2+deb11u3",
 			"repository": [
-				{
-					"name": "bullseye-security",
-					"version": "5.0.33-2+deb11u2"
-				},
 				{
 					"name": "bullseye",
 					"version": "5.0.33-2+deb11u2"
+				},
+				{
+					"name": "bullseye-security",
+					"version": "5.0.33-2+deb11u3"
 				}
 			]
 		}
