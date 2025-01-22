@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-1A5C19",
+	"packages": [
+		{
+			"name": "phpmyadmin",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "trixie",
+					"version": "4:5.2.2-really5.2.2+20250114+dfsg-1"
+				}
+			]
+		}
+	]
+}

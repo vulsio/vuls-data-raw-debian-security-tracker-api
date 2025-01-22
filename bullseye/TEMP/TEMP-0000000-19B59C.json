@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-19B59C",
+	"packages": [
+		{
+			"name": "phpmyadmin",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "bullseye",
+					"version": "4:5.0.4+dfsg2-2+deb11u1"
+				}
+			]
+		}
+	]
+}
