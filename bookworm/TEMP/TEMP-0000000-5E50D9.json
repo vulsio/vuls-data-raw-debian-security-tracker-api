@@ -4,6 +4,7 @@
 		{
 			"name": "simgear",
 			"status": "open",
+			"nodsa": "Minor issue",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
@@ -15,6 +16,7 @@
 		{
 			"name": "flightgear",
 			"status": "open",
+			"nodsa": "Minor issue",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
