@@ -2,7 +2,7 @@
 	"id": "TEMP-0000000-5E50D9",
 	"packages": [
 		{
-			"name": "simgear",
+			"name": "flightgear",
 			"status": "open",
 			"urgency": "not yet assigned",
 			"repository": [
@@ -13,7 +13,7 @@
 			]
 		},
 		{
-			"name": "flightgear",
+			"name": "simgear",
 			"status": "open",
 			"urgency": "not yet assigned",
 			"repository": [
