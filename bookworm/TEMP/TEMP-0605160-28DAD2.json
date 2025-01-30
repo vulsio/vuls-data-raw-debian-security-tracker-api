@@ -3,18 +3,6 @@
 	"debian_bug": 605150,
 	"packages": [
 		{
-			"name": "guake",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "0.4.2-3",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "3.9.0-2"
-				}
-			]
-		},
-		{
 			"name": "opendnssec",
 			"status": "resolved",
 			"urgency": "low",
@@ -27,14 +15,14 @@
 			]
 		},
 		{
-			"name": "pymca",
+			"name": "guake",
 			"status": "resolved",
 			"urgency": "low",
-			"fixed_version": "4.4.1p1-1",
+			"fixed_version": "0.4.2-3",
 			"repository": [
 				{
 					"name": "bookworm",
-					"version": "5.8.0+dfsg-2"
+					"version": "3.9.0-2"
 				}
 			]
 		},
@@ -47,6 +35,18 @@
 				{
 					"name": "bookworm",
 					"version": "3.4+really3.4-3"
+				}
+			]
+		},
+		{
+			"name": "pymca",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "4.4.1p1-1",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "5.8.0+dfsg-2"
 				}
 			]
 		},
