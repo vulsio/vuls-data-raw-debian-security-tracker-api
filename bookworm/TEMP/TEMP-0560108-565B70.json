@@ -3,17 +3,6 @@
 	"debian_bug": 560108,
 	"packages": [
 		{
-			"name": "epiphany-browser",
-			"status": "open",
-			"urgency": "unimportant",
-			"repository": [
-				{
-					"name": "bookworm",
-					"version": "43.1-1"
-				}
-			]
-		},
-		{
 			"name": "dillo",
 			"status": "open",
 			"urgency": "unimportant",
@@ -21,6 +10,17 @@
 				{
 					"name": "bookworm",
 					"version": "3.0.5-7"
+				}
+			]
+		},
+		{
+			"name": "epiphany-browser",
+			"status": "open",
+			"urgency": "unimportant",
+			"repository": [
+				{
+					"name": "bookworm",
+					"version": "43.1-1"
 				}
 			]
 		}
