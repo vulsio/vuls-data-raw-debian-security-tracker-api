@@ -9,11 +9,11 @@
 			"fixed_version": "1.3.5d-1",
 			"repository": [
 				{
-					"name": "bookworm",
+					"name": "bookworm-security",
 					"version": "1.3.8+dfsg-4+deb12u4"
 				},
 				{
-					"name": "bookworm-security",
+					"name": "bookworm",
 					"version": "1.3.8+dfsg-4+deb12u4"
 				}
 			]
