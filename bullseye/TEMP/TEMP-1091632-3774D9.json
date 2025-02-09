@@ -5,6 +5,8 @@
 		{
 			"name": "rust-kvm-ioctls",
 			"status": "open",
+			"nodsa": "Cannot be triggered with rust < 1.82",
+			"nodsa_reason": "ignored",
 			"urgency": "not yet assigned",
 			"repository": [
 				{
