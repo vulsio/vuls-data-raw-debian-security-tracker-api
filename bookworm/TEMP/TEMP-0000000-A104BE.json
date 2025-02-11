@@ -1,0 +1,21 @@
+{
+	"id": "TEMP-0000000-A104BE",
+	"packages": [
+		{
+			"name": "cacti",
+			"status": "resolved",
+			"urgency": "unimportant",
+			"fixed_version": "0",
+			"repository": [
+				{
+					"name": "bookworm-security",
+					"version": "1.2.24+ds1-1+deb12u5"
+				},
+				{
+					"name": "bookworm",
+					"version": "1.2.24+ds1-1+deb12u4"
+				}
+			]
+		}
+	]
+}

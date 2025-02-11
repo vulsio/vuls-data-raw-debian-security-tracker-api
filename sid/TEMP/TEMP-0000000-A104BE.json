@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-A104BE",
+	"packages": [
+		{
+			"name": "cacti",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "1.2.28+ds1-4"
+				}
+			]
+		}
+	]
+}
