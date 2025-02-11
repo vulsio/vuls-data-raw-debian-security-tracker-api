@@ -1,5 +1,6 @@
 {
-	"id": "TEMP-0000000-A104BE",
+	"id": "TEMP-1095721-A104BE",
+	"debian_bug": 1095721,
 	"packages": [
 		{
 			"name": "cacti",
@@ -7,7 +8,7 @@
 			"urgency": "not yet assigned",
 			"repository": [
 				{
-					"name": "sid",
+					"name": "trixie",
 					"version": "1.2.28+ds1-4"
 				}
 			]

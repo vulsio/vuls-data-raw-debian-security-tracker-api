@@ -1,0 +1,16 @@
+{
+	"id": "TEMP-0000000-B96FAD",
+	"packages": [
+		{
+			"name": "rust-grcov",
+			"status": "open",
+			"urgency": "not yet assigned",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "0.8.20-1"
+				}
+			]
+		}
+	]
+}
