@@ -2,18 +2,6 @@
 	"id": "TEMP-0000000-583651",
 	"packages": [
 		{
-			"name": "nss",
-			"status": "resolved",
-			"urgency": "low",
-			"fixed_version": "2:3.23-1",
-			"repository": [
-				{
-					"name": "sid",
-					"version": "2:3.107-1"
-				}
-			]
-		},
-		{
 			"name": "nspr",
 			"status": "resolved",
 			"urgency": "low",
@@ -22,6 +10,18 @@
 				{
 					"name": "sid",
 					"version": "2:4.36-1"
+				}
+			]
+		},
+		{
+			"name": "nss",
+			"status": "resolved",
+			"urgency": "low",
+			"fixed_version": "2:3.23-1",
+			"repository": [
+				{
+					"name": "sid",
+					"version": "2:3.108-1"
 				}
 			]
 		}
